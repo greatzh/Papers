@@ -20,4 +20,4 @@ description: Deep learning papers notes sharing
 
 ### 骨干网络
 
-### [回到我的主页](https://app.gitbook.com/o/al2uxsshAs4Sa7F1Cpwz/s/K3kUiaYgvFyTz271jiYg/)
+### [回到我的主页](https://zihol.gitbook.io)
