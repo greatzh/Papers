@@ -9,6 +9,7 @@
 ## Basic Knowledge
 
 * [Image Processing](basic-knowledge/image-processing.md)
+* [Dice coefficient](basic-knowledge/dice-coefficient.md)
 
 ## Backbone
 
