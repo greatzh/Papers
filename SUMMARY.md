@@ -46,3 +46,7 @@
 ## Image Matching
 
 * [LoFTR](image-matching/loftr.md)
+
+## Object Dection
+
+* [ZoomNet \[COD\]](object-dection/zoomnet-cod.md)
