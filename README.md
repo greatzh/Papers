@@ -6,21 +6,15 @@ description: Deep learning papers notes sharing
 
 ### 论文相关内容
 
-{% content-ref url="related/paper-lists.md" %}
-[paper-lists.md](related/paper-lists.md)
-{% endcontent-ref %}
+* [Paper List](related/paper-lists.md)
 
 ### 图像篡改
 
-{% content-ref url="image-forgery/mc-lcr.md" %}
-[mc-lcr.md](image-forgery/mc-lcr.md)
-{% endcontent-ref %}
+* [MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection](image-forgery/mc-lcr.md)
 
 ### 图像拼接篡改
 
-{% content-ref url="image-splicing/multi-task-se-network.md" %}
-[multi-task-se-network.md](image-splicing/multi-task-se-network.md)
-{% endcontent-ref %}
+* [Multi-Task SE-Network for Image Splicing Localization](image-splicing/multi-task-se-network.md)
 
 ### 图像和谐化
 

@@ -5,6 +5,7 @@
 ## 0⃣ Related
 
 * [Paper Lists](related/paper-lists.md)
+* [Nice Expressions](related/nice-expressions.md)
 
 ## 1⃣ Image Forgery
 
@@ -16,9 +17,10 @@
 
 ## 3⃣ Image Harmonization
 
-* [Page 1](image-harmonization/page-1.md)
+* [Harmonizer](image-harmonization/harmonizer.md)
 
 ## 4⃣ Backbone
 
-* [Page 3](backbone/page-3.md)
-* [Page 2](backbone/page-2.md)
+* [Transformer](backbone/transformer.md)
+* [EfficientNet](backbone/efficientnet.md)
+* [ViT](backbone/vit.md)
