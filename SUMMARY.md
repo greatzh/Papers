@@ -15,13 +15,24 @@
 ## 2⃣ Image Splicing
 
 * [Multi-task SE-Network](image-splicing/multi-task-se-network.md)
+* [CAT-Net](image-splicing/cat-net.md)
+* [Self consistency](image-splicing/self-consistency.md)
 
 ## 3⃣ Image Harmonization
 
 * [Harmonizer](image-harmonization/harmonizer.md)
+* [HT / D-HT](image-harmonization/ht-d-ht.md)
 
 ## 4⃣ Backbone
 
 * [Transformer](backbone/transformer.md)
 * [EfficientNet](backbone/efficientnet.md)
 * [ViT](backbone/vit.md)
+
+## Face Forgery
+
+* [Face Forgery](face-forgery/face-forgery.md)
+
+## Copy Move
+
+* [DOA-GAN](copy-move/doa-gan.md)

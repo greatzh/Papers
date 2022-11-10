@@ -43,3 +43,7 @@ squeeze and excitation 是一个结构单元，它是通过让网络去执行动
 三个部分，就三个损失函数。
 
 ![](https://s2.loli.net/2022/09/27/xTKbBeDfL295QS3.png)
+
+### GitHub
+
+[https://github.com/YulansZhang/Multi-task-SE-Network-for-Image-Splicing-Localization](https://github.com/YulansZhang/Multi-task-SE-Network-for-Image-Splicing-Localization)
