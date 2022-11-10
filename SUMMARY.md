@@ -6,7 +6,7 @@
 
 * [Paper Lists](related/paper-lists.md)
 * [Nice Expressions](related/nice-expressions.md)
-* [图像处理基础知识](related/tu-xiang-chu-li-ji-chu-zhi-shi.md)
+* [\[basic knowledges\] Image Processing](related/basic-knowledges-image-processing.md)
 
 ## 1⃣ Image Forgery
 

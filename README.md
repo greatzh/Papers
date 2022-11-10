@@ -7,6 +7,8 @@ description: Deep learning papers notes sharing
 ### 论文相关内容
 
 * [Paper List](related/paper-lists.md)
+* [Nice Expression](related/nice-expressions.md)
+* [图像处理基础知识](related/basic-knowledges-image-processing.md)
 
 ### 图像篡改
 
