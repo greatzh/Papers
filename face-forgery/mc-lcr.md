@@ -38,12 +38,9 @@ However, it cannot guarantee generalization only by mining subtle frequency patt
 
 ### 方法 <a href="#mwybz" id="mwybz"></a>
 
-针对上面三个就是三个contribution，双流的网络结构，空间和频域两个分支，在空间上，用Xception作为骨干网络，SSRB把Xception1-3块提取的特征截断得到浅层的样式特征![](https://g.yuque.com/gr/latex?SSF\_%7Bb1%7D), ![](https://g.yuque.com/gr/latex?SSF\_%7Bb2%7D), ![](https://g.yuque.com/gr/latex?SSF\_%7Bb3%7D), 这些局部的特征可以用来补充通过Xception最后一个block生成的全局特征，进一步得到最后的空间特征。对于频域信息分支，图片首先转为灰度图，然后分割成pathces，每个patch都独立的进行一次傅里叶变换，也就是patch-wise的DFT，得到每个patch的幅度谱和相位谱。接着幅度和相位分别进行展平，线性投影到对应的嵌入上，这样可以把位置信息进行编码，通过这个embedding layer。然后PA-PDA捕获到幅度和相位里面的异常，生成对应的tokens，再通过一个MLP-Mixer网络和全局平均池化GAP得到最后的相位特征和幅度特征。
+针对上面三个就是三个contribution，双流的网络结构，空间和频域两个分支，在空间上，用Xception作为骨干网络，SSRB把Xception1-3块提取的特征截断得到浅层的样式特征$$SSF_{b1}$$, $$SSF_{b2}$$, $$SSF_{b3}$$, 这些局部的特征可以用来补充通过Xception最后一个block生成的全局特征，进一步得到最后的空间特征。对于频域信息分支，图片首先转为灰度图，然后分割成pathces，每个patch都独立的进行一次傅里叶变换，也就是patch-wise的DFT，得到每个patch的幅度谱和相位谱。接着幅度和相位分别进行展平，线性投影到对应的嵌入上，这样可以把位置信息进行编码，通过这个embedding layer。然后PA-PDA捕获到幅度和相位里面的异常，生成对应的tokens，再通过一个MLP-Mixer网络和全局平均池化GAP得到最后的相位特征和幅度特征。
 
 #### SSRB <a href="#bgshr" id="bgshr"></a>
-
-\
-
 
 ![](https://s2.loli.net/2022/11/09/Jod5ZewcLjlK1hu.png)
 

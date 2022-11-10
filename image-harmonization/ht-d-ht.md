@@ -22,6 +22,6 @@ encoder用来获取合成图片的上下文信息，decoder用来重建融合的
 
 **伪反射**
 
-![ht\_trad](https://s2.loli.net/2022/06/09/cAg3aJptFyYwfIR.gif)
+<figure><img src="https://s2.loli.net/2022/06/09/cAg3aJptFyYwfIR.gif" alt=""><figcaption></figcaption></figure>
 
 __
