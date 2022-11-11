@@ -1,7 +1,5 @@
 ---
 description: Deep learning papers notes sharing
-cover: .gitbook/assets/Slide1.PNG
-coverY: 140.96916299559473
 ---
 
 # 😀 Overview
@@ -29,7 +27,7 @@ coverY: 140.96916299559473
 
 **图像篡改检测定位**
 
-* [x] ****[ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md)
+* [x] [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md)
 * [x] TransForensics: Image Forgery Localization with Dense Self-Attention
 * [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection
 * [ ] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization
