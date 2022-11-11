@@ -1,5 +1,7 @@
 ---
 description: Deep learning papers notes sharing
+cover: .gitbook/assets/Slide1.PNG
+coverY: 140.96916299559473
 ---
 
 # 😀 Overview
