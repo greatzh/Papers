@@ -83,6 +83,7 @@ description: Deep learning papers notes sharing
 * [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md)
 * [ ] A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method
+* [x] BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization
 
 ### Image Matching
 

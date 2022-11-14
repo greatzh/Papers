@@ -42,6 +42,8 @@
 
 * [DOA-GAN](copy-move/doa-gan.md)
 * [SelfDM-PS](copy-move/selfdm-ps.md)
+* [BusterNet](copy-move/busternet.md)
+* [CMSDNet](copy-move/cmsdnet.md)
 
 ## Image Matching
 
