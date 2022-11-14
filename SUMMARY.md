@@ -20,6 +20,7 @@
 ## Image Forgery
 
 * [ObjectFormer](image-forgery/objectformer.md)
+* [TransForensics](image-forgery/transforensics.md)
 
 ## Image Splicing
 

@@ -28,7 +28,7 @@ description: Deep learning papers notes sharing
 **图像篡改检测定位**
 
 * [x] [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md)
-* [x] TransForensics: Image Forgery Localization with Dense Self-Attention
+* [x] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/transforensics.md)
 * [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection
 * [ ] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement
@@ -81,21 +81,21 @@ description: Deep learning papers notes sharing
 
 * [x] [DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-Move Forgery Detection and Localization](copy-move/doa-gan.md)
 * [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md)
-* [ ] A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment
+* [x] [A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment](copy-move/cmsdnet.md)
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method
-* [x] BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization
+* [x] [BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization](copy-move/busternet.md)
 
 ### Image Matching
 
 **特征匹配**，图像匹配问题。
 
-* [ ] [LoFTR: Detector-Free Local Matching with Transformers](image-matching/loftr.md)
+* [x] [LoFTR: Detector-Free Local Matching with Transformers](image-matching/loftr.md)
 
 ### Object Detection
 
 **目标检测**，包括伪装物体目标检测和突出目标检测，COD以及SOD。
 
-* [ ] Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection
+* [ ] [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](object-dection/zoomnet-cod.md)
 * [ ] OTA: Optimal Transport Assignment for Object Detection\
 
 
