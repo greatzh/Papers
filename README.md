@@ -40,6 +40,7 @@ description: Deep learning papers notes sharing
 * [ ] MSMG-Net: Multi-scale Multi-grained Supervised Metworks for Multi-task Image Manipulation Detection and Localization
 * [ ] Towards JPEG-Resistant Image Forgery Detection and Localization Via Self-Supervised Domain Adaptation
 * [ ] ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection
+* [ ] LSTM and encoder–decoder architecture for detection of image forgeries
 
 ### Image Splicing
 

@@ -21,6 +21,7 @@
 
 * [ObjectFormer](image-forgery/objectformer.md)
 * [TransForensics](image-forgery/transforensics.md)
+* [HLED](image-forgery/hled.md)
 
 ## Image Splicing
 
