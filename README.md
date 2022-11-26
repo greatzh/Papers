@@ -29,6 +29,7 @@ description: Deep learning papers notes sharing
 
 * [x] [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md)
 * [x] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/transforensics.md)
+* [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)
 * [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection
 * [ ] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement
