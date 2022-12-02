@@ -16,12 +16,12 @@ description: Deep learning papers notes sharing
 
 **骨干网络**，多为图像分类的网络。
 
-* [x] [Attention Is All You Need](backbone/transformer.md)
-* [x] [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](backbone/efficientnet.md)
-* [x] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](backbone/vit.md)
-* [ ] Multi-Dimensional Model Compression of Vision Transformer
-* [x] Deep Residual Learning for Image Recognition
-* [ ] Generative Adversarial Networks
+* [x] [Attention Is All You Need](backbone/transformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">NeurIPS' 17</mark>_<mark style="background-color:yellow;">)</mark>
+* [x] [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](backbone/efficientnet.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICML' 19</mark>_<mark style="background-color:yellow;">)</mark>
+* [x] [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](backbone/vit.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICLR' 21</mark>_<mark style="background-color:yellow;">)</mark>
+* [x] [Multi-Dimensional Model Compression of Vision Transformer](backbone/multi-dimensional-compression-vit.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICME' 22</mark>_<mark style="background-color:yellow;">)</mark>
+* [x] Deep Residual Learning for Image Recognition <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 16</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] Generative Adversarial Networks <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">NeurIPS' 14</mark>_<mark style="background-color:yellow;">)</mark>
 
 ### Image Tampering
 
@@ -47,7 +47,7 @@ description: Deep learning papers notes sharing
 
 **图像的拼接篡改检测定位**
 
-* [x] ****[Multi-Task SE-Network for Image Splicing Localization ](image-splicing/multi-task-se-network.md)
+* [x] [Multi-Task SE-Network for Image Splicing Localization ](image-splicing/multi-task-se-network.md)
 * [x] [CAT-Net: Compression Artifact Tracing Network for Detection and Localization of Image Splicing](image-splicing/cat-net.md)
 * [x] [Fighting Fake News: Image Splice Detection via Learned Self-Consistency](image-splicing/self-consistency.md)
 * [x] [Image splicing forgery detection by combining synthetic adversarial networks and hybrid dense U-net based on multiple spaces](image-splicing/san-and-hdu-net.md)
@@ -81,8 +81,8 @@ description: Deep learning papers notes sharing
 
 **复制移动篡改定位**问题
 
-* [x] [DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-Move Forgery Detection and Localization](copy-move/doa-gan.md)
-* [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md)
+* [x] [DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-Move Forgery Detection and Localization](copy-move/doa-gan.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 20</mark>_<mark style="background-color:yellow;">)</mark>
+* [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIP' 22</mark>_<mark style="background-color:yellow;">)</mark>
 * [x] [A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment](copy-move/cmsdnet.md)
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method
 * [x] [BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization](copy-move/busternet.md)
@@ -101,4 +101,4 @@ description: Deep learning papers notes sharing
 * [ ] OTA: Optimal Transport Assignment for Object Detection\
 
 
-### [回到我的主页](https://zihol.gitbook.io)
+### [Back to Home](https://zihol.gitbook.io/)

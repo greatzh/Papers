@@ -16,6 +16,7 @@
 * [Transformer](backbone/transformer.md)
 * [EfficientNet](backbone/efficientnet.md)
 * [ViT](backbone/vit.md)
+* [Multi-Dimensional Compression ViT](backbone/multi-dimensional-compression-vit.md)
 
 ## Image Forgery
 
