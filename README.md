@@ -42,6 +42,10 @@ description: Deep learning papers notes sharing
 * [ ] Towards JPEG-Resistant Image Forgery Detection and Localization Via Self-Supervised Domain Adaptation <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TPAMI '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TOMCCAP '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] LSTM and encoder–decoder architecture for detection of image forgeries <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIP '19</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] ManTra-Net: Manipulation Tracing Network for Detection and Localization of Image Forgeries With Anomalous Features <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '19</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] Robust Image Forgery Detection Over Online Social Network Shared Images <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] GCA-Net: Utilizing Gated Context Attention for Improving Image Forgery Localization and Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPRW '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] Non-Semantic Evaluation of Image Forensics Tools: Methodology and Database <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">WACV '22</mark>_<mark style="background-color:yellow;">)</mark>
 
 ### Image Splicing
 
@@ -56,6 +60,8 @@ description: Deep learning papers notes sharing
 * [ ] Adversarial Learning for Constrained Image Splicing Detection and Localization Based on Atrous Convolution <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIFS '19</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Multiple Image Splicing Dataset (MISD): A Dataset for Multiple Splicing <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">Data, MDPI '21</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] ET: Edge-Enhanced Transformer for Image Splicing Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">SPL '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] Reality Transform Adversarial Generators for Image Splicing Forgery Detection and Localization <mark style="background-color:yellow;">(I</mark>_<mark style="background-color:yellow;">CCV '21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] RRU-Net: The Ringed Residual U-Net for Image Splicing Forgery Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPRW' 19</mark>_<mark style="background-color:yellow;">)</mark>
 
 ### Image Harmonization
 
@@ -67,6 +73,8 @@ description: Deep learning papers notes sharing
 * [ ] Spatial-Separated Curve Rendering Network for Efficient and High-Resolution Image Harmonization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ECCV '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] SSH: A Self-Supervised Framework for Image Harmonization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICCV '21</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Toward Realistic Image Compositing with Adversarial Learning <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '19</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] High-Resolution Image Harmonization via Collaborative Dual Transformations <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark>&#x20;
 
 ### Face Forgery
 
@@ -98,7 +106,8 @@ description: Deep learning papers notes sharing
 **目标检测**，包括伪装物体目标检测和突出目标检测，COD以及SOD。
 
 * [ ] [Zoom In and Out: A Mixed-scale Triplet Network for Camouflaged Object Detection](object-dection/zoomnet-cod.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 22</mark>_<mark style="background-color:yellow;">)</mark>
-* [ ] OTA: Optimal Transport Assignment for Object Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 21</mark>_<mark style="background-color:yellow;">)</mark>\
+* [ ] OTA: Optimal Transport Assignment for Object Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR' 21</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] Consistency-basd Active Learning for Object Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPRW' 22</mark>_<mark style="background-color:yellow;">)</mark>\
 
 
 ### [Back to Home](https://zihol.gitbook.io/)
