@@ -31,6 +31,8 @@
 * [CAT-Net](image-splicing/cat-net.md)
 * [Self consistency](image-splicing/self-consistency.md)
 * [SAN and HDU-Net](image-splicing/san-and-hdu-net.md)
+* [SISL](image-splicing/sisl.md)
+* [RRU-Net](image-splicing/rru-net.md)
 
 ## Image Harmonization
 
