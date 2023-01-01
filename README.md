@@ -27,9 +27,9 @@ description: Deep learning papers notes sharing
 
 **图像篡改检测定位**
 
-* [x] **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]** [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [x] ****[ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark> **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]**&#x20;
 * [x] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/transforensics.md) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICCV '21</mark>_<mark style="background-color:yellow;">)</mark>
-* [x] **\[**[**Paper**](https://arxiv.org/abs/1811.09729)**] \[**[**Code**](https://github.com/pengzhou1108/GSRNet)**]** [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)  <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">AAAI '20</mark>_<mark style="background-color:yellow;">)</mark>
+* [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)  <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">AAAI '20</mark>_<mark style="background-color:yellow;">)</mark> **\[**[**Paper**](https://arxiv.org/abs/1811.09729)**] \[**[**Code**](https://github.com/pengzhou1108/GSRNet)**]**
 * [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICMR '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TCSVT '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">PR '23</mark>_<mark style="background-color:yellow;">)</mark>
@@ -46,6 +46,7 @@ description: Deep learning papers notes sharing
 * [ ] Robust Image Forgery Detection Over Online Social Network Shared Images <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPR '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] GCA-Net: Utilizing Gated Context Attention for Improving Image Forgery Localization and Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPRW '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Non-Semantic Evaluation of Image Forensics Tools: Methodology and Database <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">WACV '22</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] Image Manipulation Localization Using Multi-Scale Feature Fusion and Adaptive Edge Supervision (_<mark style="background-color:yellow;">TMM '22</mark>_)
 
 ### Image Splicing
 
@@ -61,7 +62,7 @@ description: Deep learning papers notes sharing
 * [ ] Multiple Image Splicing Dataset (MISD): A Dataset for Multiple Splicing <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">Data, MDPI '21</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] ET: Edge-Enhanced Transformer for Image Splicing Detection <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">SPL '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Reality Transform Adversarial Generators for Image Splicing Forgery Detection and Localization <mark style="background-color:yellow;">(I</mark>_<mark style="background-color:yellow;">CCV '21</mark>_<mark style="background-color:yellow;">)</mark>
-* [ ] _****_[_**\[Code\]**_](https://github.com/yelusaleng/RRU-Net) __ [_**\[Paper\]**_](https://doi.org/10.1109/CVPRW.2019.00010) [RRU-Net: The Ringed Residual U-Net for Image Splicing Forgery Detection](https://github.com/yelusaleng/RRU-Net) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPRW' 19</mark>_<mark style="background-color:yellow;">)</mark>
+* [ ] [RRU-Net: The Ringed Residual U-Net for Image Splicing Forgery Detection](https://github.com/yelusaleng/RRU-Net) <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">CVPRW' 19</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Deep Metric Color Embeddings for Splicing Localization in Severely Degraded Images <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TIFS '22</mark>_<mark style="background-color:yellow;">)</mark>
 * [ ] Multi-Task Wavelet Corrected Network for Image Splicing Forgery Detection and Localization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ICME '21</mark>_<mark style="background-color:yellow;">)</mark>
 
