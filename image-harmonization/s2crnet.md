@@ -10,7 +10,7 @@
 2. 此外作者也针对提出的框架设计了两个模块，一个是用来**级联细化** cascaded-CRM（P图往往有很多步，通过级联细化来预测不同的域嵌入），一个是用来**语义引导**semantic-CRM（会有一个用户引导的语义编码来为每个类别单独学习类别语义的特征嵌入）。
 3. 作者在iHarmony4和real-world DIH上进行了测试，达到了SOTA。
 
-当然作者也提到了，他们没有把image harmonization当做一个像素水平的图像到图像的翻译任务，他们也是像[Harmonizer](image-harmonization/harmonizer.md)一样，把它当做我们人去处理一张图片，要修改哪些参数，不过[Harmonizer](image-harmonization/harmonizer.md)是选择了一些filter之类的参数，而且说想法来源是看到我们人怎么去处理图像融合的问题，而本文的概念用的是curve，想法来源是因为看到使用像素做图像翻译很吃算力，模型也很大，对高解析度的图片往往很不友好。
+当然作者也提到了，他们没有把image harmonization当做一个像素水平的图像到图像的翻译任务，他们也是像[Harmonizer](harmonizer.md)一样，把它当做我们人去处理一张图片，要修改哪些参数，不过[Harmonizer](harmonizer.md)是选择了一些filter之类的参数，而且说想法来源是看到我们人怎么去处理图像融合的问题，而本文的概念用的是curve，想法来源是因为看到使用像素做图像翻译很吃算力，模型也很大，对高解析度的图片往往很不友好。
 
 ## 框架
 
