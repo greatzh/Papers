@@ -6,11 +6,11 @@ description: 单词 短语 句子
 
 ### 单词
 
-| Words | Meaning | Example |
-| ----- | ------- | ------- |
-|       |         |         |
-|       |         |         |
-|       |         |         |
+| Words    | Meaning  | Example                                            |
+| -------- | -------- | -------------------------------------------------- |
+| serrated | 锯齿状的 | the serrated edges caused by the irregular borders |
+|          |          |                                                    |
+|          |          |                                                    |
 
 #### **distill 提取 蒸馏**
 

@@ -25,6 +25,7 @@
 * [GSRNet](image-forgery/gsrnet.md)
 * [PSCC-Net](image-forgery/pscc-net.md)
 * [HLED](image-forgery/hled.md)
+* [ReLoC](image-forgery/reloc.md)
 
 ## Image Splicing
 
@@ -39,6 +40,7 @@
 
 * [Harmonizer](image-harmonization/harmonizer.md)
 * [HT / D-HT](image-harmonization/ht-d-ht.md)
+* [$S^2$CRNet](image-harmonization/s2crnet.md)
 
 ## Face Forgery
 
