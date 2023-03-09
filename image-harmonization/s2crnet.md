@@ -34,7 +34,7 @@ Loss, GAN的结构，写了一个判别器，来区分颜色的自然性，生�
 
 ## 结果
 
-
+![image-20230227182432078](https://s2.loli.net/2023/02/27/la2Jt1LmIYQ6yUE.png)
 
 
 
