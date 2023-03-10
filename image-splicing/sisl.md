@@ -18,7 +18,7 @@ description: >-
 
 给定一张图像的两个图像块（patches）的频率变换，通过从频率域上学习图像特定的签名，来识别篡改的痕迹，利用CNN和对比损失（来自SimCLR）去学习它们是否来自相同或者不同的图片，同时应用基于均值漂移的聚类算法和所学习到的潜在特征的余弦相似性将真实的和篡改的图像块进行分组，实现自我监督训练。
 
-![image-20230309013836269](https://s2.loli.net/2023/03/09/QDsnb7NoMtZ3h6w.png)
+![SISL Model Architecture](https://s2.loli.net/2023/03/09/QDsnb7NoMtZ3h6w.png)
 
 如图所示，所提出的从图像块的RFFT信息进行训练的自监督网络，图像对$\{p_1^1,p_2^1\}$和$\{p_1^2,p_2^2\}$是分别来自图像$I^1$和$I^2$，将绿色和棕色分别叠加在他们各自的RFFT$\{f_1^1,f_2^1\}$和$\{f_1^2,f_2^2\}$上，以区分两个图像，相同颜色的不同阴影则是用来区别同一张图片的不同图像块。而对比损失，是根据骨干网络$g$和映射网络$h$所学习到的特征表示进行计算。
 
@@ -61,17 +61,22 @@ Columbia (363 images, 180 spliced), Carvalho/DSO (200 images, 100 spliced), Real
 
 ### 结果
 
-![image-20230309235945687](https://s2.loli.net/2023/03/10/NADwbeZiG7XgdmY.png)
+![Detection Result](https://s2.loli.net/2023/03/10/NADwbeZiG7XgdmY.png)
 
 在检测上的表现，作者选择了MantraNet，EXIF-SC, FG(Forensic Graph)这三个baseline进行比较，
 
-![image-20230310000022689](https://s2.loli.net/2023/03/10/i73P9fBOFS6NmKZ.png)
+![Localization Result](https://s2.loli.net/2023/03/10/i73P9fBOFS6NmKZ.png)
 
 在定位上的表现，
 
 ### 消融研究
 
-1. 讨论了RFFT和RGB两种信息的作用，在融合了RFFT信息和RGB信息的模型里面，检测上面的表现，如下图所示，![image-20230310001513577](https://s2.loli.net/2023/03/10/LdgEGscmuUNaFXn.png)，融合了两个信息的模型表现的确好了一点，而关于定位上的表示，则比不上单独使用RFFT的模型。![image-20230310001712740](https://s2.loli.net/2023/03/10/tXcoCv61IrZnfuG.png)
+1. 讨论了RFFT和RGB两种信息的作用，在融合了RFFT信息和RGB信息的模型里面，检测上面的表现，如下图所示，
+
+   ![Detection Result Ablation Study](https://s2.loli.net/2023/03/10/LdgEGscmuUNaFXn.png)，融合了两个信息的模型表现的确好了一点，而关于定位上的表示，则比不上单独使用RFFT的模型。
+
+   ![Localization Result of Ablation Study](https://s2.loli.net/2023/03/10/tXcoCv61IrZnfuG.png)
+
 2. 模型的变体，使用ResNet50，作者表示效果可能更好，但需要的成本模型大小会更大。
 
 ## 总结和展望
