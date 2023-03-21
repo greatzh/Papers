@@ -26,6 +26,7 @@
 * [PSCC-Net](image-forgery/pscc-net.md)
 * [HLED](image-forgery/hled.md)
 * [ReLoC](image-forgery/reloc.md)
+* [TBFormer](image-forgery/tbformer.md)
 
 ## Image Splicing
 

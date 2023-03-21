@@ -73,7 +73,9 @@ Columbia (363 images, 180 spliced), Carvalho/DSO (200 images, 100 spliced), Real
 
 1. 讨论了RFFT和RGB两种信息的作用，在融合了RFFT信息和RGB信息的模型里面，检测上面的表现，如下图所示，
 
-   ![Detection Result Ablation Study](https://s2.loli.net/2023/03/10/LdgEGscmuUNaFXn.png)，融合了两个信息的模型表现的确好了一点，而关于定位上的表示，则比不上单独使用RFFT的模型。
+   ![Detection Result Ablation Study](https://s2.loli.net/2023/03/10/LdgEGscmuUNaFXn.png)
+
+   ，融合了两个信息的模型表现的确好了一点，而关于定位上的表示，则比不上单独使用RFFT的模型。
 
    ![Localization Result of Ablation Study](https://s2.loli.net/2023/03/10/tXcoCv61IrZnfuG.png)
 

@@ -52,6 +52,7 @@ description: Deep learning papers notes sharing
 * [ ] CFL-Net: Image Forgery Localization Using Contrastive Learning <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">WACV '23</mark>_<mark style="background-color:yellow;">)</mark> **[[Paper](https://arxiv.org/abs/2210.02182)]** **[[Code](https://github.com/niloy193/CFLNet)]**
 * [ ] TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ArXiv '22</mark>_<mark style="background-color:yellow;">)</mark> **[[Paper](https://arxiv.org/abs/2212.10957)]** **[[Project](https://grip-unina.github.io/TruFor/)]** **[[Code](https://github.com/grip-unina/TruFor)]**
 * [ ] A Principled Design of Image Representation: Towards Forensic Tasks <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">TPAMI '22</mark>_<mark style="background-color:yellow;">)</mark> **[[Paper](https://arxiv.org/abs/2203.00913)]** **[[Code](https://github.com/ShurenQi/DIR)]**
+* [ ] TBFormer: Two-Branch Transformer for Image Forgery Localization  <mark style="background-color:yellow;">(</mark>_<mark style="background-color:yellow;">ArXiv '23</mark>_<mark style="background-color:yellow;">)</mark> **[[Paper](https://arxiv.org/abs/2212.10957)]**  **[[Code](https://github.com/free1dom1/tbformer)]**
 
 ### Image Splicing
 
