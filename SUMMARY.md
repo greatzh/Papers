@@ -36,6 +36,7 @@
 * [SAN and HDU-Net](image-splicing/san-and-hdu-net.md)
 * [SISL](image-splicing/sisl.md)
 * [RRU-Net](image-splicing/rru-net.md)
+* [ET](image-splicing/et.md)
 
 ## Image Harmonization
 

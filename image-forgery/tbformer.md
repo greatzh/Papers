@@ -1,5 +1,5 @@
 ---
-description: 'Generate, Segment, and Refine: Towards Generic Manipulation Segmentation'
+description: 'TBFormer: Two-Branch Transformer for Image Forgery Localization'
 ---
 
 # TBFormer
@@ -88,7 +88,7 @@ $$
 
 消融研究上，分析了分支的影响，融合模块的影响。
 
-![image-20230321184219394](/home/ipprlab/.config/Typora/typora-user-images/image-20230321184219394.png)
+![ablation study](https://s2.loli.net/2023/03/21/JTOxNnZIKeprDv2.png)
 
 ## 思考
 
@@ -100,4 +100,4 @@ $$
 
 ## GitHub
 
-https://github.com/free1dom1/TBFormer
+[https://github.com/free1dom1/TBFormer](https://github.com/free1dom1/TBFormer)
