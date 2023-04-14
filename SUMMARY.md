@@ -27,6 +27,8 @@
 * [HLED](image-forgery/hled.md)
 * [ReLoC](image-forgery/reloc.md)
 * [TBFormer](image-forgery/tbformer.md)
+* [HIFI_IFDL](image-forgery/hifi_ifdl.md)
+* [$DGM^4$](image-forgery/dgm4.md)
 
 ## Image Splicing
 
@@ -43,6 +45,7 @@
 * [Harmonizer](image-harmonization/harmonizer.md)
 * [HT / D-HT](image-harmonization/ht-d-ht.md)
 * [$S^2$CRNet](image-harmonization/s2crnet.md)
+* [SCS-Co](image-harmonization/scs-co.md)
 
 ## Face Forgery
 
@@ -55,6 +58,7 @@
 * [SelfDM-PS](copy-move/selfdm-ps.md)
 * [BusterNet](copy-move/busternet.md)
 * [CMSDNet](copy-move/cmsdnet.md)
+* [word2phraseCMFD](copy-move/word2phrasecmfd.md)
 
 ## Image Matching
 
@@ -63,3 +67,7 @@
 ## Object Dection
 
 * [ZoomNet \[COD\]](object-dection/zoomnet-cod.md)
+
+## Semantic Segmentation
+
+* [GSS](semantic-segmentation/gss.md)
