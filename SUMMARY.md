@@ -5,6 +5,7 @@
 ## Related
 
 * [Nice Expressions](related/nice-expressions.md)
+* [Research Methods](related/howtodoresearch.md)
 
 ## Basic Knowledge
 
