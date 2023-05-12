@@ -6,6 +6,7 @@
 
 * [Nice Expressions](related/nice-expressions.md)
 * [Research Methods](related/howtodoresearch.md)
+* [Paper Resource Links](related/papersource.md)
 
 ## Basic Knowledge
 
