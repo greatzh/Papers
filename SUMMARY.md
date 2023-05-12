@@ -31,6 +31,7 @@
 * [TBFormer](image-forgery/tbformer.md)
 * [HIFI_IFDL](image-forgery/hifi_ifdl.md)
 * [$DGM^4$](image-forgery/dgm4.md)
+* [SATFL](image-forgery/satfl.md)
 
 ## Image Splicing
 
