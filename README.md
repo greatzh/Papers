@@ -83,9 +83,9 @@ description: Deep learning papers notes sharing
 * [ ] Multiple Image Splicing Dataset (MISD): A Dataset for Multiple Splicing (_Data, MDPI '21_) **[[Paper](https://arxiv.org/abs/2108.09674)]** 
 * [ ] [ET: Edge-Enhanced Transformer for Image Splicing Detection](image-splicing/et.md) (_SPL '22_) **[[Paper](https://ieeexplore.ieee.org/document/9769936)]**
 * [ ] Reality Transform Adversarial Generators for Image Splicing Forgery Detection and Localization (_ICCV '21_) **[[Paper](http://openaccess.thecvf.com/content/ICCV2021/html/Bi_Reality_Transform_Adversarial_Generators_for_Image_Splicing_Forgery_Detection_and_ICCV_2021_paper.html)]** 
-* [ ] [RRU-Net: The Ringed Residual U-Net for Image Splicing Forgery Detection](https://github.com/yelusaleng/RRU-Net) (_CVPRW' 19_) **[[Paper](http://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Bi_RRU-Net_The_Ringed_Residual_U-Net_for_Image_Splicing_Forgery_Detection_CVPRW_2019_paper.html?ref=https://githubhelp.com)]** **[[Code](https://github.com/yelusaleng/RRU-Net)]**
+* [ ] [RRU-Net: The Ringed Residual U-Net for Image Splicing Forgery Detection](image-splicing/rru-net.md) (_CVPRW' 19_) **[[Paper](http://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Bi_RRU-Net_The_Ringed_Residual_U-Net_for_Image_Splicing_Forgery_Detection_CVPRW_2019_paper.html?ref=https://githubhelp.com)]** **[[Code](https://github.com/yelusaleng/RRU-Net)]**
 * [ ] Deep Metric Color Embeddings for Splicing Localization in Severely Degraded Images (_TIFS '22_) **[[Paper](https://arxiv.org/abs/2206.10737)]**
-* [ ] Multi-Task Wavelet Corrected Network for Image Splicing Forgery Detection and Localization (_ICME '21_) **[[Paper](https://ieeexplore.ieee.org/abstract/document/9428466/)]** 
+* [ ] [Multi-Task Wavelet Corrected Network for Image Splicing Forgery Detection and Localization](image-splicing/mwc-net.md) (_ICME '21_) **[[Paper](https://ieeexplore.ieee.org/abstract/document/9428466/)]** 
 
 ### Image Harmonization
 

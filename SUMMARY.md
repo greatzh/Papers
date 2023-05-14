@@ -26,12 +26,12 @@
 * [TransForensics](image-forgery/transforensics.md)
 * [GSRNet](image-forgery/gsrnet.md)
 * [PSCC-Net](image-forgery/pscc-net.md)
+* [SATFL](image-forgery/satfl.md)
 * [HLED](image-forgery/hled.md)
 * [ReLoC](image-forgery/reloc.md)
 * [TBFormer](image-forgery/tbformer.md)
 * [HIFI_IFDL](image-forgery/hifi_ifdl.md)
 * [$DGM^4$](image-forgery/dgm4.md)
-* [SATFL](image-forgery/satfl.md)
 
 ## Image Splicing
 
@@ -42,6 +42,7 @@
 * [SISL](image-splicing/sisl.md)
 * [RRU-Net](image-splicing/rru-net.md)
 * [ET](image-splicing/et.md)
+* [MWC-Net](image-splicing/mwc-net.md)
 
 ## Image Harmonization
 
