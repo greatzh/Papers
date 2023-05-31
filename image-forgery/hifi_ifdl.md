@@ -66,7 +66,7 @@
 
 ![Result 3](https://s2.loli.net/2023/05/11/KtxAYoR79LBgHGk.png)
 
-所以无论是结果哪组结果，其实PSCC和作者的方法有得一拼，但是作者的结果大多已经到95%+的准确率。
+所以无论是结果哪组结果，其实PSCC和作者的方法有得一拼，但是作者的结果大多已经到95%+的准确率。所以我可能觉得这个生成的数据集，是不是还是太容易被击败了，就是在数据集这个维度上比较的话，不比较方法，单从提出的数据集来说，我觉得应该要可以留下来给以后的方法作为一个benchmark一样，意思是，可能当前所有的方法都只能达到80%或者更低，同时，作者的方法又可以比其他方法更好，我以为这样才是证明了提出数据集有用，方法也好。
 
 ## 结论
 
@@ -79,6 +79,18 @@
 所以，我觉得是不是用来做evaluation的数据集都太容易被defeat了，动不动就97%，是不是这些用来evaluation的数据集，要不就是太粗糙了，要不就是精细的已经太过时了，无论是针对传统的图像编辑技术，还是用深度学习生成的。
 
 那针对这个方法，我觉得，好像没有讲清楚怎么把这个“篡改类型”分类后的多标签作为先验知识放到定位模块上来辅助得到更准确的mask；其他的是，如果这样真的有用，那再去优化这个网络是不是也可以。再有，这个定位模块感觉和整个网络剥离了一样。
+
+我会怎么想现在deepfake这么火，怎么会还有人检测传统的图片编辑伪造呢；那可以问的就是，那现在AIGC这么火，为什么还在检测deepfake，当然deepfake在某称程度上大概和AIGC是重合的，还有一点是，在检测deepfake的算法里面，我们经常看到的数据集是什么，这是我在看Arxiv上面的一篇文章（[Discrepancy-Guided Reconstruction Learning for Image Forgery Detection](https://arxiv.org/abs/2304.13349)）里面的一张结果对比图，虽然论文的标题也是image forgery detection，但是比较的方法和对应的评估的数据集，可以看到其中[FF++HQ](https://arxiv.org/abs/1901.08971) ICCV 2019, [FF++LQ](https://arxiv.org/abs/1901.08971), [Celeb-DF](https://arxiv.org/abs/1909.12962) CVPR 2020, [WLD](https://arxiv.org/abs/2101.01456) MM 2020, [DFDC](https://arxiv.org/abs/2006.07397), 这四个数据集全部都是人脸，但是我们现实世界里面的篡改伪造绝对不是只在人脸上面进行伪造，包括像我最近看到的一篇论文，[Synthetic and Manipulated Overhead Imagery For Forensics Research](https://arxiv.org/abs/2305.05784), 这篇论文专门研究了俯瞰图片的篡改，篡改类型是inpainting，图像修复，image inpainting如下图所示。
+
+![image-20230517204659840](https://s2.loli.net/2023/05/17/MBXfLHlxT7hESKw.png)
+
+那除了人脸上的deepfake，现在我们有visual GPT，怎么去检测这些篡改，我的观点是，这些合成的图片，大多风格化比较严重，人眼一眼就能看出来图片是不是由AI生成的，他对社会的影响，远没有在文字上的篡改来的爆裂。就像下面一张，来自bing image creator官网的截图，这些由AI生成的图片一般不是用来取证的，作为证据的媒体，可能这方面的篡改，当然，他仍然在假信息传播上，是非常具有迷惑性的，所以我觉得这个问题还是需要去想想是否可以提炼出一个新的问题，新任务。
+
+![image-20230519192110329](https://s2.loli.net/2023/05/19/uZphdPRJE9cm2KM.png)
+
+
+
+![image-20230517203512325](https://s2.loli.net/2023/05/17/FXASovetxVpdnOM.png)
 
 ## GitHub
 
