@@ -34,39 +34,70 @@ description: Deep learning papers notes sharing
 
 #### Image Editing
 
-* [x] [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) (_CVPR '22_) **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]**
+<details><summary>2020 and before</summary>
+<p>
+
+* [ ] LSTM and encoder–decoder architecture for detection of image forgeries (_TIP '19_) **[[Paper](https://arxiv.org/abs/1903.02495)]** **[[Code](https://github.com/jawadbappy/forgery_localization_HLED)]**
+* [ ] ManTra-Net: Manipulation Tracing Network for Detection and Localization of Image Forgeries With Anomalous Features (_CVPR '19_) **[[Paper](https://ieeexplore.ieee.org/document/8953774)]** **[[Code](https://github.com/ISICV/ManTraNet)]** 
+* [ ] A Full-Image Full-Resolution End-to-EndTrainable CNN Framework for Image Forgery Detection (_IEEE Access '20_) **[[Paper]()]
+* [ ] Constrained R-CNN: A general image manipulation detection model (_ICME '20_) **[[Paper]()]
+* [ ] A CNNBased Camera Model Fingerprint (_TIFS '20_) **[[Paper]()]
+* [ ] An Adaptive Neural Network for Unsupervised Mosaic Consistency Analysis in Image Forensics (_CVPR '20_) **[[Paper]()]
+* [ ] Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization. (_IJCV '22_) **[[Paper]()]
 * [ ] A dense u-net with cross-layer intersection for detection and localization of image forgery (_ICASSP '20_) **[[Paper](https://ieeexplore.ieee.org/document/9054068)]** **[[Note_unofficial](https://blog.csdn.net/weixin_45366180/article/details/128413821)]**
-* [x] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/transforensics.md) (_ICCV '21_) **[[Paper](https://arxiv.org/abs/2108.03871)]**
 * [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)  (_AAAI '20_) **[[Paper](https://arxiv.org/abs/1811.09729)]** **[[Code](https://github.com/pengzhou1108/GSRNet)]** (*GSRNet*)
 * [ ] SPAN: Spatial Pyramid Attention Network for Image Manipulation Localization  (*ECCV '20*) **[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660307.pdf)]** **[[Project](http://media.ee.ntu.edu.tw/research/SPAN/)]** **[[Code](https://github.com/tsaishien-chen/SPAN)]**
-* [x] [PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](image-forgery/pscc-net.md) (_TCSVT '22_) **[[Paper](https://arxiv.org/abs/2103.10596)]** **[[Code](https://github.com/proteus1991/PSCC-Net)]**
-* [x] [Self-Adversarial Training incorporating Forgery Attention for Image Forgery Localization](image-forgery/satfl.md) (_TIFS '22_) **[[Paper](https://arxiv.org/abs/2107.02434)]** **[[Code](https://github.com/tansq/SATFL)]** (*LocateNet / SATFL*)
-* [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection (_ICMR '22_) **[[Paper](https://arxiv.org/abs/2104.09770)]** **[[Code](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)]**
-* [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement (_PR '23_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322005064)]** (*EMT-Net*)
+
+</p>
+</details>
+
+<details><summary>2021</summary>
+<p>
+
 * [ ] MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention (_TCSVT '21_) **[[Paper](https://ieeexplore.ieee.org/document/9643421)]**
-* [ ] Learning to localize image forgery using end-to-end attention network (_Neurocomputing '22_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222011274)]** **[[Code](https://github.com/sadaf-ali/-Learning-to-Localize-Image-Forgery-Using-End-to-End-Attention-Network)]**
-* [ ] MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection (_TPAMI '22_) **[[Paper](https://arxiv.org/abs/2112.08935)]** **[[Code](https://github.com/dong03/MVSS-Net)]**
 * [ ] Image Manipulation Detection by Multi-View Multi-Scale Supervision (_ICCV '21_)  **[[Paper](https://arxiv.org/abs/2104.06832)]** **[[Code](https://github.com/dong03/MVSS-Net)]**
+* [x] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/transforensics.md) (_ICCV '21_) **[[Paper](https://arxiv.org/abs/2108.03871)]**
 * [ ] Self-supervised Domain Adaptation for Forgery Localization of JPEG Compressed Images (_ICCV '21_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Rao_Self-Supervised_Domain_Adaptation_for_Forgery_Localization_of_JPEG_Compressed_Images_ICCV_2021_paper.html)]** 
 * [ ] Image Tampering Localization Using a Dense Fully Convolutional Network (_TIFS '21_) **[[Paper](https://ieeexplore.ieee.org/document/9393396)]** **[[Code](https://github.com/ZhuangPeiyu/Dense-FCN-for-tampering-localization)]** (*DenseFCN*)
+
+</p>
+</details>
+
+<details><summary>2022</summary>
+<p>
+
 * [ ] MSMG-Net: Multi-scale Multi-grained Supervised Metworks for Multi-task Image Manipulation Detection and Localization (_ArXiv '22_) **[[Paper](https://arxiv.org/abs/2211.03140)]**
 * [ ] Towards JPEG-Resistant Image Forgery Detection and Localization Via Self-Supervised Domain Adaptation (_TPAMI '22_) **[[Paper](https://ieeexplore.ieee.org/document/9904872)]** 
 * [ ] ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection (_TOMCCAP '22_) **[[Paper](https://doi.org/10.1145/3506853)]** **[[Tool](https://github.com/tampered816/rrr)]**
-* [ ] LSTM and encoder–decoder architecture for detection of image forgeries (_TIP '19_) **[[Paper](https://arxiv.org/abs/1903.02495)]** **[[Code](https://github.com/jawadbappy/forgery_localization_HLED)]**
-* [ ] ManTra-Net: Manipulation Tracing Network for Detection and Localization of Image Forgeries With Anomalous Features (_CVPR '19_) **[[Paper](https://ieeexplore.ieee.org/document/8953774)]** **[[Code](https://github.com/ISICV/ManTraNet)]** 
+* [ ] Learning to localize image forgery using end-to-end attention network (_Neurocomputing '22_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222011274)]** **[[Code](https://github.com/sadaf-ali/-Learning-to-Localize-Image-Forgery-Using-End-to-End-Attention-Network)]**
+* [ ] MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection (_TPAMI '22_) **[[Paper](https://arxiv.org/abs/2112.08935)]** **[[Code](https://github.com/dong03/MVSS-Net)]**
 * [ ] Robust Image Forgery Detection Over Online Social Network Shared Images (_CVPR '22_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.pdf)]** **[[Code](https://github.com/HighwayWu/ImageForensicsOSN)]**
+* [x] [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) (_CVPR '22_) **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]**
 * [ ] GCA-Net: Utilizing Gated Context Attention for Improving Image Forgery Localization and Detection (_CVPRW '22_) **[[Paper](https://arxiv.org/abs/2112.04298)]** 
 * [ ] Non-Semantic Evaluation of Image Forensics Tools: Methodology and Database (_WACV '22_) **[[Paper](https://arxiv.org/abs/2105.02700)]** **[[Code](https://github.com/qbammey/trace)]**
+* [ ] JPEG Compression-aware Image Forgery Localization (_MM '22_) **[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)]**
 * [ ] Image Manipulation Localization Using Multi-Scale Feature Fusion and Adaptive Edge Supervision (_TMM '22_) **[[Paper](https://ieeexplore.ieee.org/document/9996125/)]** 
 * [ ] [ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization](image-forgery/reloc.md) (_ArXiv '22_) **[[Paper](https://arxiv.org/abs/2211.03930)]** **[[Code](https://github.com/ZhuangPeiyu/ReLoc)]**
+* [x] [PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](image-forgery/pscc-net.md) (_TCSVT '22_) **[[Paper](https://arxiv.org/abs/2103.10596)]** **[[Code](https://github.com/proteus1991/PSCC-Net)]**
+* [x] [Self-Adversarial Training incorporating Forgery Attention for Image Forgery Localization](image-forgery/satfl.md) (_TIFS '22_) **[[Paper](https://arxiv.org/abs/2107.02434)]** **[[Code](https://github.com/tansq/SATFL)]** (*LocateNet / SATFL*)
+* [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection (_ICMR '22_) **[[Paper](https://arxiv.org/abs/2104.09770)]** **[[Code](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)]**
+</p>
+</details>
+
+<details><summary>2023</summary>
+
+
+* [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement (_PR '23_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322005064)]** (*EMT-Net*)
 * [ ] CFL-Net: Image Forgery Localization Using Contrastive Learning (_WACV '23_) **[[Paper](https://arxiv.org/abs/2210.02182)]** **[[Code](https://github.com/niloy193/CFLNet)]**
 * [ ] TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2212.10957)]** **[[Project](https://grip-unina.github.io/TruFor/)]** **[[Code](https://github.com/grip-unina/TruFor)]**
 * [ ] A Principled Design of Image Representation: Towards Forensic Tasks (_TPAMI '22_) **[[Paper](https://arxiv.org/abs/2203.00913)]** **[[Code](https://github.com/ShurenQi/DIR)]**
-* [x] [TBFormer: Two-Branch Transformer for Image Forgery Localization](image-forgery/tbformer.md)  (_ArXiv '23_) **[[Paper](https://arxiv.org/abs/2212.10957)]**  **[[Code](https://github.com/free1dom1/tbformer)]**
+* [x] [TBFormer: Two-Branch Transformer for Image Forgery Localization](image-forgery/tbformer.md)  (_SPL '23_) **[[Paper](https://arxiv.org/abs/2302.13004)]**  **[[Code](https://github.com/free1dom1/tbformer)]**
 * [ ] [Detecting and Grounding Multi-Modal Media Manipulation](image-forgery/dgm4.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2304.02556)]**  **[[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)]** **[[Project](https://rshaojimmy.github.io/Projects/MultiModal-DeepFake)]**
 * [x] [Hierarchical Fine-Grained Image Forgery Detection and Localization](image-forgery/hifi_ifdl.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.17111)]**  **[[Code](https://github.com/CHELSEA234/HiFi_IFDL)]**
 * [ ] Edge-aware Regional Message Passing Controller for Image Forgery Localization (_CVPR '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.pdf)]** **[[Video](https://youtu.be/2pDR-hOFcQw)]**
-* [ ] JPEG Compression-aware Image Forgery Localization (_MM '22_) **[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)]**
+* [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **[[Paper](https://arxiv.org/abs/2304.06870)]** **[[Dataset](https://github.com/shanface33/autosplice_dataset)]**
+
+</details>
 
 #### CNN-synthesized
 
@@ -77,10 +108,14 @@ description: Deep learning papers notes sharing
 
 **图像的拼接篡改检测定位**
 
+* [ ] Image Splicing Localization via Semi-global Network and Fully Connected Conditional Random Fields (_ECCV '18_)
+* [ ] Locating splicing forgery by adaptive-SVD noise estimation and vicinity noise descriptor (_Neurocomputing '20_)
+* [ ] Deep Fusion Network for Splicing Forgery Localization (_ECCV '18_)
 * [x] [Multi-Task SE-Network for Image Splicing Localization](image-splicing/multi-task-se-network.md) (_TCSVT '21_) **[[Paper](https://ieeexplore.ieee.org/document/9591639)]** **[[Code](https://github.com/YulansZhang/Multi-task-SE-Network-for-Image-Splicing-Localization)]**
 * [x] [CAT-Net: Compression Artifact Tracing Network for Detection and Localization of Image Splicing](image-splicing/cat-net.md) (_WACV '21_) **[[Paper](https://ieeexplore.ieee.org/document/9423390)]** **[[Code](https://github.com/mjkwon2021/CAT-Net)]**
 * [x] [Fighting Fake News: Image Splice Detection via Learned Self-Consistency](image-splicing/self-consistency.md) (_ECCV '18_) **[[Paper](https://openaccess.thecvf.com/content_ECCV_2018/html/Jacob_Huh_Fighting_Fake_News_ECCV_2018_paper.html)]** **[[Code](https://github.com/minyoungg/selfconsistency)]**
 * [ ] Image splicing localization using a multi-task fully convolutional network (mfcn) (_JVCIR '18_) **[[Paper](https://arxiv.org/abs/1709.02016)]** **[[Code](https://github.com/namtpham/image_tampering_detection_references.git)]**
+* [ ] Deep matching and validation network: An end-to-end solution to constrained image splicing localization and detection (_MM '17_) **[[Paper](https://arxiv.org/abs/1705.09765)]**
 * [x] [Image splicing forgery detection by combining synthetic adversarial networks and hybrid dense U-net based on multiple spaces](image-splicing/san-and-hdu-net.md) (_IJIS '22_) **[[Paper](https://doi.org/10.1002/int.22939)]** **[[Code](https://github.com/yelusaleng/SAN_and_HDU-Net)]**
 * [x] [SISL:Self-Supervised Image Signature Learning for Splicing Detection & Localization](image-splicing/sisl.md) (_CVPRW '22_) **[[Paper](https://arxiv.org/abs/2203.07824)]**
 * [ ] Image Splicing Detection, Localization and Attribution via JPEG Primary Quantization Matrix Estimation and Clustering (_TIFS '21_) **[[Paper](https://ieeexplore.ieee.org/document/9622213)]** **[[Code](https://github.com/andreacos/CnnJpegPrimaryQuantizationEstimation)]**
