@@ -3,15 +3,43 @@
 ## Papers List Links
 
 1. ICLR 2023 Papers List https://openreview.net/group?id=ICLR.cc/2023/Conference
+
 2. CVPR 2023 Accepted Papers https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers
-3. WACV 2023 Papers https://openaccess.thecvf.com/WACV2023
-4. IJCAI 2023 Accepted Papers List https://ijcai-23.org/main-track-accepted-papers/
-5. ECCV 2022 Accepted papers https://eccv2022.ecva.net/program/accepted-papers/
-6. MM 2022 Proceedings https://dl.acm.org/doi/proceedings/10.1145/3503161
-7. SIGGRAPH *unofficial* https://kesen.realtimerendering.com/ eg SIGGRAPH 2023 https://kesen.realtimerendering.com/sig2023.html
-8. ICML 2022 https://dblp.org/db/conf/icml/icml2022.html
-9. AAAI 2022 https://dblp.org/db/conf/aaai/aaai2022.html
-10. TIFS https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206 OR TIFS 2023 https://dblp.org/db/journals/tifs/tifs18.html
+
+3. CVPR 2023 Workshops https://openaccess.thecvf.com/CVPR2023_workshops/menu
+
+4. WACV 2023 Papers https://openaccess.thecvf.com/WACV2023
+
+5. IJCAI 2023 Accepted Papers List https://ijcai-23.org/main-track-accepted-papers/
+
+6. ECCV 2022 Accepted papers https://eccv2022.ecva.net/program/accepted-papers/
+
+7. MM 2022 Proceedings https://dl.acm.org/doi/proceedings/10.1145/3503161
+
+8. SIGGRAPH *unofficial* https://kesen.realtimerendering.com/ eg SIGGRAPH 2023 https://kesen.realtimerendering.com/sig2023.html
+
+9. ICML 2022 https://dblp.org/db/conf/icml/icml2022.html
+
+10. AAAI 2022 https://dblp.org/db/conf/aaai/aaai2022.html
+
+11. TIFS https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206 OR TIFS 2023 https://dblp.org/db/journals/tifs/tifs18.html
+
+12. **ArXiv RSS**
+
+    If you want to use RSS to check the newest Paper from arXiv, you may configure your own feed.
+
+    For example: https://export.arxiv.org/api/query?search_query=cat:cs.CV+AND+abs:splicing+AND+abs:image+AND+abs:localization&start=0&max_results=30&sortBy=submittedDate&sortOrder=descending
+
+    As you can see, in this link, we specific the `cat` *Subject Category* to `cs.CV`, and we add more constraints like the `abs` *Abstract* with splicing and localization, also, the `sortBy` and `sortOrder`.
+
+    > arXiv User Manual
+    >
+    > 1. search query: https://info.arxiv.org/help/api/user-manual.html#search_query_and_id_list
+    > 2. Appendices: https://info.arxiv.org/help/api/user-manual.html#5-appendices
+    > 3. Subject: https://arxiv.org/category_taxonomy
+    > 4. sort: https://info.arxiv.org/help/api/user-manual.html#sort
+
+13. 
 
 ## Paper Tool Links
 
