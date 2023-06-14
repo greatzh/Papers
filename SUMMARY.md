@@ -33,6 +33,8 @@
 * [TBFormer](image-forgery/tbformer.md)
 * [HIFI_IFDL](image-forgery/hifi_ifdl.md)
 * [$DGM^4$](image-forgery/dgm4.md)
+* [TruFor](image-forgery/trufor.md)
+* [CFL-Net](image-forgery/cfl-net.md)
 
 ## Image Splicing
 

@@ -64,7 +64,7 @@ description: Deep learning papers notes sharing
 </p>
 </details>
 
-<details><summary>2022</summary>
+<details open><summary>2022</summary>
 <p>
 
 * [ ] MSMG-Net: Multi-scale Multi-grained Supervised Metworks for Multi-task Image Manipulation Detection and Localization (_ArXiv '22_) **[[Paper](https://arxiv.org/abs/2211.03140)]**
@@ -88,17 +88,20 @@ description: Deep learning papers notes sharing
 </p>
 </details>
 
-##### 2023 (This year)
-
+<details open><summary>2023 This year</summary>
+<p>
 
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement (_PR '23_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322005064)]** (*EMT-Net*)
-* [ ] CFL-Net: Image Forgery Localization Using Contrastive Learning (_WACV '23_) **[[Paper](https://arxiv.org/abs/2210.02182)]** **[[Code](https://github.com/niloy193/CFLNet)]**
-* [ ] TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2212.10957)]** **[[Project](https://grip-unina.github.io/TruFor/)]** **[[Code](https://github.com/grip-unina/TruFor)]**
+* [x] [CFL-Net: Image Forgery Localization Using Contrastive Learning](image-forgery/cfl-net.md) (_WACV '23_) **[[Paper](https://arxiv.org/abs/2210.02182)]** **[[Code](https://github.com/niloy193/CFLNet)]**
+* [x] [TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization](image-forgery/trufor.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2212.10957)]** **[[Project](https://grip-unina.github.io/TruFor/)]** **[[Code](https://github.com/grip-unina/TruFor)]**
 * [x] [TBFormer: Two-Branch Transformer for Image Forgery Localization](image-forgery/tbformer.md)  (_SPL '23_) **[[Paper](https://arxiv.org/abs/2302.13004)]**  **[[Code](https://github.com/free1dom1/tbformer)]**
 * [ ] [Detecting and Grounding Multi-Modal Media Manipulation](image-forgery/dgm4.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2304.02556)]**  **[[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)]** **[[Project](https://rshaojimmy.github.io/Projects/MultiModal-DeepFake)]**
 * [x] [Hierarchical Fine-Grained Image Forgery Detection and Localization](image-forgery/hifi_ifdl.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.17111)]**  **[[Code](https://github.com/CHELSEA234/HiFi_IFDL)]**
 * [ ] Edge-aware Regional Message Passing Controller for Image Forgery Localization (_CVPR '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.pdf)]** **[[Video](https://youtu.be/2pDR-hOFcQw)]**
 * [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **[[Paper](https://arxiv.org/abs/2304.06870)]** **[[Dataset](https://github.com/shanface33/autosplice_dataset)]**
+
+</p>
+</details>
 
 #### CNN-synthesized
 
@@ -138,7 +141,8 @@ description: Deep learning papers notes sharing
 </p>
 </details>
 
-##### since 2021
+<details open><summary>Since 2021</summary>
+<p>
 
 * [x] [CAT-Net: Compression Artifact Tracing Network for Detection and Localization of Image Splicing](image-splicing/cat-net.md) (_WACV '21_) **[[Paper](https://ieeexplore.ieee.org/document/9423390)]** **[[Code](https://github.com/mjkwon2021/CAT-Net)]**
 * [ ] Image Splicing Detection, Localization and Attribution via JPEG Primary Quantization Matrix Estimation and Clustering (_TIFS '21_) **[[Paper](https://ieeexplore.ieee.org/document/9622213)]** **[[Code](https://github.com/andreacos/CnnJpegPrimaryQuantizationEstimation)]**
@@ -153,6 +157,9 @@ description: Deep learning papers notes sharing
 * [ ] Deep Metric Color Embeddings for Splicing Localization in Severely Degraded Images (_TIFS '22_) **[[Paper](https://arxiv.org/abs/2206.10737)]**
 * [ ] Coarse-to-fine-grained method for image splicing region detection (_PR '22_) **[[Paper](https://doi.org/10.1016/j.patcog.2021.108347)]**
 * [ ] A New Method to Detect Splicing Image Forgery Using Convolutional Neural Network (_Applied Science (IM: 2.8, not included in CCFs), MDPI, '23_) **[[Paper](https://www.mdpi.com/2076-3417/13/3/1272)]**
+
+</p>
+</details>
 
 ### Image Harmonization
 
@@ -223,6 +230,14 @@ description: Deep learning papers notes sharing
 语义分割，将图片中完整语义（具有标签或者类别）的部分分割出来。不仅要进行目标检测检测到图像中的物体，还需要对每个像素分类。
 
 * [ ] [Generative Semantic Segmentation](semantic-segmentation/gss.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.11316)]** **[[Code](https://github.com/fudan-zvg/GSS)]**
+
+### Low Level Vision
+
+Related resources: [https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision) 
+
+Low-level tasks include super-resolution, denoise, dehze, low-light enhancement, etc. High-level tasks include classification, detection, segmentation, etc. segmentation, and so on. However, the ones I have listed here are probably still mainly related to tampering detection.
+
+* [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations   (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.10883)]** **[[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]** (_including defocus blur, shadow, forgery, camouflaged dection_)
 
 ### Useful Links
 
