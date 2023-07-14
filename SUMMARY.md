@@ -35,6 +35,12 @@
 * [$DGM^4$](image-forgery/dgm4.md)
 * [TruFor](image-forgery/trufor.md)
 * [CFL-Net](image-forgery/cfl-net.md)
+* [ERMPC](image-forgery/ermpc.md)
+* [TBANet](image-forgery/tbanet.md)
+* [MSFF-AES](image-forgery/msff.md)
+* [CA-IFL](image-forgery/caifl.md)
+* [IF-OSN](image-forgery/ifosn.md)
+* [CAT-Net v2](image-forgery/catnetv2.md)
 
 ## Image Splicing
 

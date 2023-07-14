@@ -89,6 +89,10 @@ Refine net 和Coarse net 基本上是一样的结构，将粗粒度网络的feat
 
 那么这个和GAN的区别是在于，GAN的训练策略是用自己的模型生成了一个input adv，而不是借用其他的经典的，有名的，快速的，对抗攻击的方法来生成。
 
+## Result
+
+![image-20230709181319173](https://s2.loli.net/2023/07/09/oyi8GFRQef3XSur.png)
+
 ### Conclusion
 
 其实就是利用了noise feature，不是像普通的CNN直接去提取feature，而是利用CW-HPF获得的noise feature，使用noise feature的好处在于，原图和篡改后的图，他们的noise feature更不可能匹配上，再进行一个之后的无论是，使用coarse to fine的策略，以及加上dual attention进一步确定篡改的地方，dual attention的点子是来源于一个场景分割的工作，然后还是因为数据集太少，采用的self adversarial 训练策略，都在解决了篡改的地方不一定显著，数据集不一定足够这些问题。本质还是一个CNN的监督结构，自对抗或者说自攻击样本的生成只是利用了FGSM，同时，coarse to fine的策略，在coarse net里面生成了粗略的预测结果predict mask以及feature map，然后仅仅是将feature map放进去fine net里面继续卷积，而coarse net阶段生成的predict mask好像并没有起到作用，这，我觉得没有很好的为模型的参数优化真正做出贡献。

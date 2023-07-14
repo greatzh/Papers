@@ -11,3 +11,7 @@ J. Wang _et al._, “ObjectFormer for Image Manipulation Detection and Localizat
 作者在做消融研究的时候，baseline是efficientNet-B4？因为他用的backbone就是efficient-B4，
 
 <figure><img src="https://s2.loli.net/2022/10/24/Im6GnLiCJWXz81e.png" alt=""><figcaption></figcaption></figure>
+
+## Result
+
+![image-20230711173825281](https://s2.loli.net/2023/07/11/FOKdqfyeSIVNvtZ.png)

@@ -27,6 +27,7 @@ description: Deep learning papers notes sharing
 * [ ] Generative Adversarial Networks (_NeurIPS '14_) **[[Paper](https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html)]**
 * [ ] Masked Auto-Encoders Meet Generative Adversarial Networks and Beyond (_CVPR '23_) **[[Paper](https://feizc.github.io/resume/ganmae.pdf)]**
 * [ ] A Kernel Perspective of Skip Connections in Convolutional Networks (_ICLR '23_) **[[Paper](https://arxiv.org/abs/2211.14810)]**
+* [ ] EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2305.07027)]** **[[Code](https://github.com/microsoft/Cream/tree/main/EfficientViT)]** **[[Note_community](https://blog.csdn.net/P_LarT/article/details/130687567)]**
 
 ### Image Tampering
 
@@ -43,7 +44,6 @@ description: Deep learning papers notes sharing
 * [ ] Constrained R-CNN: A general image manipulation detection model (_ICME '20_) **[[Paper](https://arxiv.org/abs/1911.08217)]** **[[Code](https://github.com/VedantWani/Constrained-R-CNN)]**
 * [ ] A CNNBased Camera Model Fingerprint (_TIFS '20_) **[[Paper]()]
 * [ ] An Adaptive Neural Network for Unsupervised Mosaic Consistency Analysis in Image Forensics (_CVPR '20_) **[[Paper]()]
-* [ ] Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization. (_IJCV '22_) **[[Paper]()]
 * [ ] A dense u-net with cross-layer intersection for detection and localization of image forgery (_ICASSP '20_) **[[Paper](https://ieeexplore.ieee.org/document/9054068)]** **[[Note_unofficial](https://blog.csdn.net/weixin_45366180/article/details/128413821)]**
 * [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)  (_AAAI '20_) **[[Paper](https://arxiv.org/abs/1811.09729)]** **[[Code](https://github.com/pengzhou1108/GSRNet)]** (*GSRNet*)
 * [ ] SPAN: Spatial Pyramid Attention Network for Image Manipulation Localization  (*ECCV '20*) **[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660307.pdf)]** **[[Project](http://media.ee.ntu.edu.tw/research/SPAN/)]** **[[Code](https://github.com/tsaishien-chen/SPAN)]**
@@ -72,18 +72,19 @@ description: Deep learning papers notes sharing
 * [ ] ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection (_TOMCCAP '22_) **[[Paper](https://doi.org/10.1145/3506853)]** **[[Tool](https://github.com/tampered816/rrr)]**
 * [ ] Learning to localize image forgery using end-to-end attention network (_Neurocomputing '22_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222011274)]** **[[Code](https://github.com/sadaf-ali/-Learning-to-Localize-Image-Forgery-Using-End-to-End-Attention-Network)]**
 * [ ] MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection (_TPAMI '22_) **[[Paper](https://arxiv.org/abs/2112.08935)]** **[[Code](https://github.com/dong03/MVSS-Net)]**
-* [ ] Robust Image Forgery Detection Over Online Social Network Shared Images (_CVPR '22_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.pdf)]** **[[Code](https://github.com/HighwayWu/ImageForensicsOSN)]**
+* [ ] [Robust Image Forgery Detection Over Online Social Network Shared Images](image-forgery/ifosn.md) (_CVPR '22_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Robust_Image_Forgery_Detection_Over_Online_Social_Network_Shared_Images_CVPR_2022_paper.pdf)]** **[[Code](https://github.com/HighwayWu/ImageForensicsOSN)]**
 * [x] [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) (_CVPR '22_) **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]**
 * [ ] GCA-Net: Utilizing Gated Context Attention for Improving Image Forgery Localization and Detection (_CVPRW '22_) **[[Paper](https://arxiv.org/abs/2112.04298)]** 
 * [ ] Non-Semantic Evaluation of Image Forensics Tools: Methodology and Database (_WACV '22_) **[[Paper](https://arxiv.org/abs/2105.02700)]** **[[Code](https://github.com/qbammey/trace)]**
-* [ ] JPEG Compression-aware Image Forgery Localization (_MM '22_) **[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)]**
-* [ ] Image Manipulation Localization Using Multi-Scale Feature Fusion and Adaptive Edge Supervision (_TMM '22_) **[[Paper](https://ieeexplore.ieee.org/document/9996125/)]** 
+* [ ] [JPEG Compression-aware Image Forgery Localization](caifl.md) (_MM '22_) **[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)]**
+* [ ] [Image Manipulation Localization Using Multi-Scale Feature Fusion and Adaptive Edge Supervision](image-forgery/msff.md) (_TMM '22_) **[[Paper](https://ieeexplore.ieee.org/document/9996125/)]** 
 * [ ] [ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization](image-forgery/reloc.md) (_ArXiv '22_) **[[Paper](https://arxiv.org/abs/2211.03930)]** **[[Code](https://github.com/ZhuangPeiyu/ReLoc)]**
 * [x] [PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](image-forgery/pscc-net.md) (_TCSVT '22_) **[[Paper](https://arxiv.org/abs/2103.10596)]** **[[Code](https://github.com/proteus1991/PSCC-Net)]**
 * [x] [Self-Adversarial Training incorporating Forgery Attention for Image Forgery Localization](image-forgery/satfl.md) (_TIFS '22_) **[[Paper](https://arxiv.org/abs/2107.02434)]** **[[Code](https://github.com/tansq/SATFL)]** (*LocateNet / SATFL*)
 * [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection (_ICMR '22_) **[[Paper](https://arxiv.org/abs/2104.09770)]** **[[Code](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)]**
 * [ ] A Principled Design of Image Representation: Towards Forensic Tasks (_TPAMI '22_) **[[Paper](https://arxiv.org/abs/2203.00913)]** **[[Code](https://github.com/ShurenQi/DIR)]**
-* [ ] TBNet: A Two-stream Boundary-aware Network for Generic Image Manipulation Localization (_KDE '22_) **[[Paper](https://arxiv.org/abs/2108.04508)]**
+* [ ] [TBNet: A Two-stream Boundary-aware Network for Generic Image Manipulation Localization](image-forgery/tbanet.md) (_KDE '22_) **[[Paper](https://arxiv.org/abs/2108.04508)]**
+* [ ] [Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization](image-forgery/catnetv2.md) (_IJCV '22_) **[[Paper](https://arxiv.org/abs/2108.12947)]** **[[Code](https://github.com/mjkwon2021/CAT-Net)]**
 
 </p>
 </details>
@@ -97,7 +98,7 @@ description: Deep learning papers notes sharing
 * [x] [TBFormer: Two-Branch Transformer for Image Forgery Localization](image-forgery/tbformer.md)  (_SPL '23_) **[[Paper](https://arxiv.org/abs/2302.13004)]**  **[[Code](https://github.com/free1dom1/tbformer)]**
 * [ ] [Detecting and Grounding Multi-Modal Media Manipulation](image-forgery/dgm4.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2304.02556)]**  **[[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)]** **[[Project](https://rshaojimmy.github.io/Projects/MultiModal-DeepFake)]**
 * [x] [Hierarchical Fine-Grained Image Forgery Detection and Localization](image-forgery/hifi_ifdl.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.17111)]**  **[[Code](https://github.com/CHELSEA234/HiFi_IFDL)]**
-* [ ] Edge-aware Regional Message Passing Controller for Image Forgery Localization (_CVPR '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.pdf)]** **[[Video](https://youtu.be/2pDR-hOFcQw)]**
+* [ ] [Edge-aware Regional Message Passing Controller for Image Forgery Localization](image-forgery/ermpc.md) (_CVPR '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.pdf)]** **[[Video](https://youtu.be/2pDR-hOFcQw)]**
 * [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **[[Paper](https://arxiv.org/abs/2304.06870)]** **[[Dataset](https://github.com/shanface33/autosplice_dataset)]**
 
 </p>
@@ -110,6 +111,9 @@ description: Deep learning papers notes sharing
 * [ ] MaLP: Manipulation Localization Using a Proactive Scheme (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.16976)]**  **[[Code](https://github.com/vishal3477/pro_loc)]**
 * [ ] Discrepancy-Guided Reconstruction Learning for Image Forgery Detection (_IJCAI '23_) **[[Paper](https://arxiv.org/abs/2304.13349)]** **[[Code](https://github.com/znshi/DisGRL)]**
 * [ ] Generalizable Synthetic Image Detection via Language-guided Contrastive Learning (_ArXiv '23_) **[[Paper](https://arxiv.org/abs/2305.13800)]** **[[Code](https://github.com/HighwayWu/LASTED)]**
+* [ ] Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization (_ArXiv '23_) **[[Paper](https://arxiv.org/abs/2306.17075)]** **[[Code](https://github.com/laiyingxin2/DADF)]**
+* [ ] Discrepancy-Guided Reconstruction Learning for Image Forgery Detection (_ArXiv '23_) **[[Paper](https://arxiv.org/abs/2304.13349)]** 
+* [ ] Masked Relation Learning for DeepFake Detection (_TIFS '23_) **[[Paper](https://doi.org/10.1109/TIFS.2023.3249566)]**  
 
 ### Image Splicing
 
@@ -192,6 +196,7 @@ description: Deep learning papers notes sharing
 * [ ] $F^2$Trans: High-Frequency Fine-Grained Transformer for Face Forgery Detection (_TIFS '23_) **[[Paper](https://ieeexplore.ieee.org/document/10004978)]**
 * [ ] On the Security of the One-and-a-Half-Class Classifier for SPAM Feature-Based Image Forensics (_TIFS '23_) **[[Paper](https://ieeexplore.ieee.org/document/10098583)]**
 * [ ] Multimodaltrace: Deepfake Detection Using Audiovisual Representation Learning (_CVPRW '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/html/Raza_Multimodaltrace_Deepfake_Detection_Using_Audiovisual_Representation_Learning_CVPRW_2023_paper.html)]**
+* [ ] Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection _(arXiv '23')_ **[[Paper](https://arxiv.org/abs/2302.10437)]**
 
 ### Copy Move
 
@@ -230,6 +235,8 @@ description: Deep learning papers notes sharing
 语义分割，将图片中完整语义（具有标签或者类别）的部分分割出来。不仅要进行目标检测检测到图像中的物体，还需要对每个像素分类。
 
 * [ ] [Generative Semantic Segmentation](semantic-segmentation/gss.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.11316)]** **[[Code](https://github.com/fudan-zvg/GSS)]**
+* [ ] EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation **[[Paper](https://arxiv.org/abs/2205.14756)]** **[[Code](https://github.com/mit-han-lab/efficientvit)]**
+* [ ] CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation **[[Paper](https://arxiv.org/abs/2303.11797)]** **[[Code](https://github.com/KU-CVLAB/CAT-Seg)]** **[[Project](https://ku-cvlab.github.io/CAT-Seg/)]** **[[Note_community](https://blog.csdn.net/P_LarT/article/details/131083586)]**
 
 ### Low Level Vision
 
