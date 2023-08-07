@@ -100,6 +100,8 @@ description: Deep learning papers notes sharing
 * [x] [Hierarchical Fine-Grained Image Forgery Detection and Localization](image-forgery/hifi_ifdl.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.17111)]**  **[[Code](https://github.com/CHELSEA234/HiFi_IFDL)]**
 * [ ] [Edge-aware Regional Message Passing Controller for Image Forgery Localization](image-forgery/ermpc.md) (_CVPR '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Edge-Aware_Regional_Message_Passing_Controller_for_Image_Forgery_Localization_CVPR_2023_paper.pdf)]** **[[Video](https://youtu.be/2pDR-hOFcQw)]**
 * [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **[[Paper](https://arxiv.org/abs/2304.06870)]** **[[Dataset](https://github.com/shanface33/autosplice_dataset)]**
+* [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.02158v1)]** 
+* [ ] IML-ViT: Image Manipulation Localization by Vision Transformer (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2307.14863)]** **[[Code](https://github.com/SunnyHaze/IML-ViT)]**
 
 </p>
 </details>
@@ -197,6 +199,8 @@ description: Deep learning papers notes sharing
 * [ ] On the Security of the One-and-a-Half-Class Classifier for SPAM Feature-Based Image Forensics (_TIFS '23_) **[[Paper](https://ieeexplore.ieee.org/document/10098583)]**
 * [ ] Multimodaltrace: Deepfake Detection Using Audiovisual Representation Learning (_CVPRW '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/html/Raza_Multimodaltrace_Deepfake_Detection_Using_Audiovisual_Representation_Learning_CVPRW_2023_paper.html)]**
 * [ ] Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection _(arXiv '23')_ **[[Paper](https://arxiv.org/abs/2302.10437)]**
+* [ ] Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection _(arXiv '23')_ **[[Paper](https://arxiv.org/abs/2308.01520v1)]**
+* [ ] Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (_TIP '23_) **[[Paper](https://doi.org/10.1109/TIP.2023.3246793)]** **[[Code](https://github.com/Jae35/IFFD)]**
 
 ### Copy Move
 
