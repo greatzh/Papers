@@ -102,6 +102,13 @@ description: Deep learning papers notes sharing
 * [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **[[Paper](https://arxiv.org/abs/2304.06870)]** **[[Dataset](https://github.com/shanface33/autosplice_dataset)]**
 * [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.02158v1)]** 
 * [ ] IML-ViT: Image Manipulation Localization by Vision Transformer (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2307.14863)]** **[[Code](https://github.com/SunnyHaze/IML-ViT)]**
+* [ ] TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.05264)]** **[[Code](https://github.com/vimal-isi-edu/TrainFors)]**
+* [ ] Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (_ICCV '23_) **[[News](https://cs.scu.edu.cn/info/1246/17863.htm)]**_*Chinese Only*
+* [ ] Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning (_ICCV '23_) **[[ResearchGate](https://www.researchgate.net/publication/373686108_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning)]**
+* [ ] SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection (_ICCV '23_)
+* [ ] Uncertainty-guided Learning for Improving Image Manipulation Detection (_ICCV '23_)
+* [ ] Controllable Guide-Space for Generalizable Face Forgery Detection (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2307.14039)]**
+* [ ] Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.09307)]** **[[Code](https://github.com/HighwayWu/FOCAL)]**
 
 </p>
 </details>
@@ -163,6 +170,7 @@ description: Deep learning papers notes sharing
 * [ ] Deep Metric Color Embeddings for Splicing Localization in Severely Degraded Images (_TIFS '22_) **[[Paper](https://arxiv.org/abs/2206.10737)]**
 * [ ] Coarse-to-fine-grained method for image splicing region detection (_PR '22_) **[[Paper](https://doi.org/10.1016/j.patcog.2021.108347)]**
 * [ ] A New Method to Detect Splicing Image Forgery Using Convolutional Neural Network (_Applied Science (IM: 2.8, not included in CCFs), MDPI, '23_) **[[Paper](https://www.mdpi.com/2076-3417/13/3/1272)]**
+* [ ] Multi-scale Target-Aware Framework for Constrained Image Splicing Detection and Localization (_MM '23_) **[[Paper](https://arxiv.org/abs/2308.09357)]** 
 
 </p>
 </details>
@@ -201,6 +209,7 @@ description: Deep learning papers notes sharing
 * [ ] Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection _(arXiv '23')_ **[[Paper](https://arxiv.org/abs/2302.10437)]**
 * [ ] Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection _(arXiv '23')_ **[[Paper](https://arxiv.org/abs/2308.01520v1)]**
 * [ ] Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (_TIP '23_) **[[Paper](https://doi.org/10.1109/TIP.2023.3246793)]** **[[Code](https://github.com/Jae35/IFFD)]**
+* [ ] Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2307.08448)]** **[[Code](https://github.com/EnVision-Research/Selective-Diffusion-Distillation)]** 
 
 ### Copy Move
 
@@ -212,6 +221,7 @@ description: Deep learning papers notes sharing
 * [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md) (_TIP '22_) **[[Paper](https://arxiv.org/abs/2012.08697)]**
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method (_Neurocomputing '22_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222011031)]** **[[Code](https://github.com/MehradAria/QDL-CMFD)]**
 * [ ] [Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection](copy-move/word2phrasecmfd.md) _(TIFS '23)_ **[[Paper](https://arxiv.org/abs/2207.09135)]** **[[Code](https://github.com/ChaoWang1016/word2phraseCMFD)]**
+* [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (*arXiv '23*) **[[Paper](https://arxiv.org/abs/2308.04188)]**
 
 ### Image Matching
 
@@ -233,6 +243,9 @@ description: Deep learning papers notes sharing
 * [ ] Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction (_CVPR '23_) **[[Paper](https://openreview.net/pdf?id=lin5jPqCQ6)]** **[[Code](https://github.com/ChunmingHe/FEDER)]**
 * [ ] Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers  (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.14816)]** **[[Code](https://github.com/ZhouHuang23/FSPNet)]**
 * [ ] Locate, Refine and Restore: A Progressive Enhancement Network for Camouflaged Object Detection (_IJCAI '23_)
+* [ ] Spatial-Aware Token for Weakly Supervised Object Localization (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2303.10438)]** **[[Code](https://github.com/wpy1999/SAT)]**
+* [ ] Generative Prompt Model for Weakly Supervised Object Localization (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2307.09756)]** **[[Code](https://github.com/callsys/GenPromp)]**
+* [ ] Category-aware Allocation Transformer for Weakly Supervised Object Localization (_ICCV '23_) 
 
 ### Semantic Segmentation
 
@@ -248,22 +261,24 @@ Related resources: [https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Visio
 
 Low-level tasks include super-resolution, denoise, dehze, low-light enhancement, etc. High-level tasks include classification, detection, segmentation, etc. segmentation, and so on. However, the ones I have listed here are probably still mainly related to tampering detection.
 
-* [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations   (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.10883)]** **[[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]** (_including defocus blur, shadow, forgery, camouflaged dection_)
+* [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.10883)]** **[[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]** (_including defocus blur, shadow, forgery, camouflaged dection_)
+* [ ] SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2308.08137)]** **[[Code](https://github.com/sanechips-multimedia/syenet)]**
 
 ### Useful Links
 
-1. ICLR 2023 Papers List https://openreview.net/group?id=ICLR.cc/2023/Conference
-2. CVPR 2023 Accepted Papers https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers
-2. CVPR 2023 Workshops https://openaccess.thecvf.com/CVPR2023_workshops/menu
-3. WACV 2023 Papers https://openaccess.thecvf.com/WACV2023
-4. IJCAI 2023 Accepted Papers List https://ijcai-23.org/main-track-accepted-papers/
-5. ECCV 2022 Accepted papers https://eccv2022.ecva.net/program/accepted-papers/
-6. MM 2022 Proceedings https://dl.acm.org/doi/proceedings/10.1145/3503161
-7. SIGGRAPH *unofficial* https://kesen.realtimerendering.com/ eg SIGGRAPH 2023 https://kesen.realtimerendering.com/sig2023.html
-8. ICML 2022 https://dblp.org/db/conf/icml/icml2022.html
-9. AAAI 2022 https://dblp.org/db/conf/aaai/aaai2022.html
-10. TIFS https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
-10. [More...](related/papersource.md)
+1. ICCV 2023 Paper List https://huggingface.co/spaces/ICCV2023/ICCV2023-papers
+2. ICLR 2023 Papers List https://openreview.net/group?id=ICLR.cc/2023/Conference
+3. CVPR 2023 Accepted Papers https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers
+4. CVPR 2023 Workshops https://openaccess.thecvf.com/CVPR2023_workshops/menu
+5. WACV 2023 Papers https://openaccess.thecvf.com/WACV2023
+6. IJCAI 2023 Accepted Papers List https://ijcai-23.org/main-track-accepted-papers/
+7. ECCV 2022 Accepted papers https://eccv2022.ecva.net/program/accepted-papers/
+8. MM 2022 Proceedings https://dl.acm.org/doi/proceedings/10.1145/3503161
+9. SIGGRAPH *unofficial* https://kesen.realtimerendering.com/ eg SIGGRAPH 2023 https://kesen.realtimerendering.com/sig2023.html
+10. ICML 2022 https://dblp.org/db/conf/icml/icml2022.html
+11. AAAI 2022 https://dblp.org/db/conf/aaai/aaai2022.html
+12. TIFS https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206
+13. [More...](related/papersource.md)
 
 
 ### [Back to Home](https://zihol.gitbook.io/)
