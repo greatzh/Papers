@@ -78,7 +78,6 @@ description: Deep learning papers notes sharing
 * [ ] Non-Semantic Evaluation of Image Forensics Tools: Methodology and Database (_WACV '22_) **[[Paper](https://arxiv.org/abs/2105.02700)]** **[[Code](https://github.com/qbammey/trace)]**
 * [ ] [JPEG Compression-aware Image Forgery Localization](caifl.md) (_MM '22_) **[[Paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)]**
 * [ ] [Image Manipulation Localization Using Multi-Scale Feature Fusion and Adaptive Edge Supervision](image-forgery/msff.md) (_TMM '22_) **[[Paper](https://ieeexplore.ieee.org/document/9996125/)]** 
-* [ ] [ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization](image-forgery/reloc.md) (_ArXiv '22_) **[[Paper](https://arxiv.org/abs/2211.03930)]** **[[Code](https://github.com/ZhuangPeiyu/ReLoc)]**
 * [x] [PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](image-forgery/pscc-net.md) (_TCSVT '22_) **[[Paper](https://arxiv.org/abs/2103.10596)]** **[[Code](https://github.com/proteus1991/PSCC-Net)]**
 * [x] [Self-Adversarial Training incorporating Forgery Attention for Image Forgery Localization](image-forgery/satfl.md) (_TIFS '22_) **[[Paper](https://arxiv.org/abs/2107.02434)]** **[[Code](https://github.com/tansq/SATFL)]** (*LocateNet / SATFL*)
 * [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection (_ICMR '22_) **[[Paper](https://arxiv.org/abs/2104.09770)]** **[[Code](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)]**
@@ -92,6 +91,7 @@ description: Deep learning papers notes sharing
 <details open><summary>2023 This year</summary>
 <p>
 
+* [ ] [ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization](image-forgery/reloc.md) (_TIFS '23_) **[[Paper](https://arxiv.org/abs/2211.03930)]** **[[Code](https://github.com/ZhuangPeiyu/ReLoc)]**
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement (_PR '23_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322005064)]** (*EMT-Net*)
 * [x] [CFL-Net: Image Forgery Localization Using Contrastive Learning](image-forgery/cfl-net.md) (_WACV '23_) **[[Paper](https://arxiv.org/abs/2210.02182)]** **[[Code](https://github.com/niloy193/CFLNet)]**
 * [x] [TruFor: Leveraging all-round clues for trustworthy image forgery detection and localization](image-forgery/trufor.md) (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2212.10957)]** **[[Project](https://grip-unina.github.io/TruFor/)]** **[[Code](https://github.com/grip-unina/TruFor)]**
@@ -102,13 +102,14 @@ description: Deep learning papers notes sharing
 * [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **[[Paper](https://arxiv.org/abs/2304.06870)]** **[[Dataset](https://github.com/shanface33/autosplice_dataset)]**
 * [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.02158v1)]** 
 * [ ] IML-ViT: Image Manipulation Localization by Vision Transformer (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2307.14863)]** **[[Code](https://github.com/SunnyHaze/IML-ViT)]**
-* [ ] TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.05264)]** **[[Code](https://github.com/vimal-isi-edu/TrainFors)]**
-* [ ] Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (_ICCV '23_) **[[News](https://cs.scu.edu.cn/info/1246/17863.htm)]**_*Chinese Only*
-* [ ] Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning (_ICCV '23_) **[[ResearchGate](https://www.researchgate.net/publication/373686108_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning)]**
-* [ ] SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection (_ICCV '23_)
-* [ ] Uncertainty-guided Learning for Improving Image Manipulation Detection (_ICCV '23_)
+* [ ] TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2308.05264)]** **[[Code](https://github.com/vimal-isi-edu/TrainFors)]**
+* [ ] Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)]** **[[Code](https://github.com/Knightzjz/NCL-IML)]** **[[News](https://cs.scu.edu.cn/info/1246/17863.htm)]**_*Chinese Only*
+* [ ] Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.html)]** **[[Code](https://github.com/yhZhai/WSCL)]** **[[ResearchGate](https://www.researchgate.net/publication/373686108_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning)]**
+* [ ] SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.html)]**
+* [ ] Uncertainty-guided Learning for Improving Image Manipulation Detection (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Uncertainty-guided_Learning_for_Improving_Image_Manipulation_Detection_ICCV_2023_paper.html)]**
 * [ ] Controllable Guide-Space for Generalizable Face Forgery Detection (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2307.14039)]**
 * [ ] Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.09307)]** **[[Code](https://github.com/HighwayWu/FOCAL)]**
+* [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2310.00234)]**
 
 </p>
 </details>
@@ -201,8 +202,8 @@ description: Deep learning papers notes sharing
 * [x] [MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection](face-forgery/mc-lcr.md) (_KBS '22_) **[[Paper](https://arxiv.org/abs/2110.03290)]** 
 * [x] [Multi-Scale Wavelet Transformer for Face Forgery Detection](face-forgery/multi-scale-wavelettransformer.md) (_ACCV '22_) **[[Paper](https://arxiv.org/abs/2210.03899)]**
 * [ ] Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection (_CVPR '22_) **[[Paper](https://arxiv.org/abs/2201.07131)]** **[[Code](https://github.com/ahaliassos/RealForensics)]**
-* [ ] AUNet: Learning Relations Between Action Units for Face Forgery Detection (_CVPR '23_)
-* [ ] AltFreezing for More General Face Forgery Detection (_CVPR '23_)
+* [ ] AUNet: Learning Relations Between Action Units for Face Forgery Detection (_CVPR '23_) **[[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Bai_AUNet_Learning_Relations_Between_Action_Units_for_Face_Forgery_Detection_CVPR_2023_paper.html)]**
+* [ ] AltFreezing for More General Face Forgery Detection (_CVPR '23_) **[[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_AltFreezing_for_More_General_Video_Face_Forgery_Detection_CVPR_2023_paper.html)]** **[[Code](https://github.com/ZhendongWang6/AltFreezing)]88
 * [ ] $F^2$Trans: High-Frequency Fine-Grained Transformer for Face Forgery Detection (_TIFS '23_) **[[Paper](https://ieeexplore.ieee.org/document/10004978)]**
 * [ ] On the Security of the One-and-a-Half-Class Classifier for SPAM Feature-Based Image Forensics (_TIFS '23_) **[[Paper](https://ieeexplore.ieee.org/document/10098583)]**
 * [ ] Multimodaltrace: Deepfake Detection Using Audiovisual Representation Learning (_CVPRW '23_) **[[Paper](https://openaccess.thecvf.com/content/CVPR2023W/WMF/html/Raza_Multimodaltrace_Deepfake_Detection_Using_Audiovisual_Representation_Learning_CVPRW_2023_paper.html)]**
@@ -221,7 +222,7 @@ description: Deep learning papers notes sharing
 * [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md) (_TIP '22_) **[[Paper](https://arxiv.org/abs/2012.08697)]**
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method (_Neurocomputing '22_) **[[Paper](https://www.sciencedirect.com/science/article/pii/S0925231222011031)]** **[[Code](https://github.com/MehradAria/QDL-CMFD)]**
 * [ ] [Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection](copy-move/word2phrasecmfd.md) _(TIFS '23)_ **[[Paper](https://arxiv.org/abs/2207.09135)]** **[[Code](https://github.com/ChaoWang1016/word2phraseCMFD)]**
-* [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (*arXiv '23*) **[[Paper](https://arxiv.org/abs/2308.04188)]**
+* [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (*ICME '23*) **[[Paper](https://arxiv.org/abs/2308.04188)]**
 
 ### Image Matching
 
@@ -242,10 +243,10 @@ description: Deep learning papers notes sharing
 * [ ] Unsupervised Object Localization: Observing the Background to Discover Objects (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2212.07834)]** **[[Code](https://github.com/valeoai/FOUND)]**
 * [ ] Camouflaged Object Detection with Feature Decomposition and Edge Reconstruction (_CVPR '23_) **[[Paper](https://openreview.net/pdf?id=lin5jPqCQ6)]** **[[Code](https://github.com/ChunmingHe/FEDER)]**
 * [ ] Feature Shrinkage Pyramid for Camouflaged Object Detection with Transformers  (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.14816)]** **[[Code](https://github.com/ZhouHuang23/FSPNet)]**
-* [ ] Locate, Refine and Restore: A Progressive Enhancement Network for Camouflaged Object Detection (_IJCAI '23_)
+* [ ] Locate, Refine and Restore: A Progressive Enhancement Network for Camouflaged Object Detection (_IJCAI '23_) **[[Paper](https://www.ijcai.org/proceedings/2023/0124.pdf)]**
 * [ ] Spatial-Aware Token for Weakly Supervised Object Localization (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2303.10438)]** **[[Code](https://github.com/wpy1999/SAT)]**
 * [ ] Generative Prompt Model for Weakly Supervised Object Localization (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2307.09756)]** **[[Code](https://github.com/callsys/GenPromp)]**
-* [ ] Category-aware Allocation Transformer for Weakly Supervised Object Localization (_ICCV '23_) 
+* [ ] Category-aware Allocation Transformer for Weakly Supervised Object Localization (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Category-aware_Allocation_Transformer_for_Weakly_Supervised_Object_Localization_ICCV_2023_paper.html)]**
 
 ### Semantic Segmentation
 
