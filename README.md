@@ -43,7 +43,7 @@ description: Deep learning papers notes sharing
 * [ ] A Full-Image Full-Resolution End-to-EndTrainable CNN Framework for Image Forgery Detection (_IEEE Access '20_) **[[Paper]()]
 * [ ] Constrained R-CNN: A general image manipulation detection model (_ICME '20_) **[[Paper](https://arxiv.org/abs/1911.08217)]** **[[Code](https://github.com/VedantWani/Constrained-R-CNN)]**
 * [ ] A CNNBased Camera Model Fingerprint (_TIFS '20_) **[[Paper]()]
-* [ ] An Adaptive Neural Network for Unsupervised Mosaic Consistency Analysis in Image Forensics (_CVPR '20_) **[[Paper]()]
+* [ ] An Adaptive Neural Network for Unsupervised Mosaic Consistency Analysis in Image Forensics (_CVPR '20_) **[[Paper](http://openaccess.thecvf.com/content_CVPR_2020/html/Bammey_An_Adaptive_Neural_Network_for_Unsupervised_Mosaic_Consistency_Analysis_in_CVPR_2020_paper.html)]** **[[Code](https://github.com/qbammey/adaptive_cfa_forensics)]**
 * [ ] A dense u-net with cross-layer intersection for detection and localization of image forgery (_ICASSP '20_) **[[Paper](https://ieeexplore.ieee.org/document/9054068)]** **[[Note_unofficial](https://blog.csdn.net/weixin_45366180/article/details/128413821)]**
 * [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md)  (_AAAI '20_) **[[Paper](https://arxiv.org/abs/1811.09729)]** **[[Code](https://github.com/pengzhou1108/GSRNet)]** (*GSRNet*)
 * [ ] SPAN: Spatial Pyramid Attention Network for Image Manipulation Localization  (*ECCV '20*) **[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660307.pdf)]** **[[Project](http://media.ee.ntu.edu.tw/research/SPAN/)]** **[[Code](https://github.com/tsaishien-chen/SPAN)]**
@@ -84,6 +84,7 @@ description: Deep learning papers notes sharing
 * [ ] A Principled Design of Image Representation: Towards Forensic Tasks (_TPAMI '22_) **[[Paper](https://arxiv.org/abs/2203.00913)]** **[[Code](https://github.com/ShurenQi/DIR)]**
 * [ ] [TBNet: A Two-stream Boundary-aware Network for Generic Image Manipulation Localization](image-forgery/tbanet.md) (_KDE '22_) **[[Paper](https://arxiv.org/abs/2108.04508)]**
 * [ ] [Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization](image-forgery/catnetv2.md) (_IJCV '22_) **[[Paper](https://arxiv.org/abs/2108.12947)]** **[[Code](https://github.com/mjkwon2021/CAT-Net)]**
+* [ ] Fighting Malicious Media Data: A Survey on Tampering Detection and Deepfake Detection (_arXiv '22_) (__Survey__) **[[Paper](https://arxiv.org/abs/2212.05667)]**
 
 </p>
 </details>
@@ -103,13 +104,15 @@ description: Deep learning papers notes sharing
 * [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.02158v1)]** 
 * [ ] IML-ViT: Image Manipulation Localization by Vision Transformer (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2307.14863)]** **[[Code](https://github.com/SunnyHaze/IML-ViT)]**
 * [ ] TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2308.05264)]** **[[Code](https://github.com/vimal-isi-edu/TrainFors)]**
-* [ ] Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)]** **[[Code](https://github.com/Knightzjz/NCL-IML)]** **[[News](https://cs.scu.edu.cn/info/1246/17863.htm)]**_*Chinese Only*
+* [ ] Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou_Pre-Training-Free_Image_Manipulation_Localization_through_Non-Mutually_Exclusive_Contrastive_Learning_ICCV_2023_paper.html)]** **[[Code](https://github.com/Knightzjz/NCL-IML)]**
 * [ ] Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.html)]** **[[Code](https://github.com/yhZhai/WSCL)]** **[[ResearchGate](https://www.researchgate.net/publication/373686108_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning)]**
 * [ ] SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Sun_SAFL-Net_Semantic-Agnostic_Feature_Learning_Network_with_Auxiliary_Plugins_for_Image_ICCV_2023_paper.html)]**
 * [ ] Uncertainty-guided Learning for Improving Image Manipulation Detection (_ICCV '23_) **[[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Ji_Uncertainty-guided_Learning_for_Improving_Image_Manipulation_Detection_ICCV_2023_paper.html)]**
 * [ ] Controllable Guide-Space for Generalizable Face Forgery Detection (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2307.14039)]**
 * [ ] Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2308.09307)]** **[[Code](https://github.com/HighwayWu/FOCAL)]**
 * [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2310.00234)]**
+* [ ] Perceptual MAE for Image Manipulation Localization: A High-level Vision Learner Focusing on Low-level Features (_arXiv '23_) **[[Paper](https://arxiv.org/abs/2310.06525)]**
+* [ ] On the Security of the One-and-a-Half-Class Classifier for SPAM Feature-Based Image Forensics (_TIFS '23_) __(Traditional method, SVM)__ **[[Paper](https://ieeexplore.ieee.org/abstract/document/10098583/)]**
 
 </p>
 </details>
@@ -258,12 +261,16 @@ description: Deep learning papers notes sharing
 
 ### Low Level Vision
 
-Related resources: [https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision) 
+Related resources: 
+
+* [https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision) 
+* [https://github.com/lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record)
 
 Low-level tasks include super-resolution, denoise, dehze, low-light enhancement, etc. High-level tasks include classification, detection, segmentation, etc. segmentation, and so on. However, the ones I have listed here are probably still mainly related to tampering detection.
 
 * [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) **[[Paper](https://arxiv.org/abs/2303.10883)]** **[[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]** (_including defocus blur, shadow, forgery, camouflaged dection_)
 * [ ] SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device (_ICCV '23_) **[[Paper](https://arxiv.org/abs/2308.08137)]** **[[Code](https://github.com/sanechips-multimedia/syenet)]**
+* [ ] Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision (_arXiv_ '23_) **[[Paper](https://arxiv.org/abs/2309.14181)]** **[[Code](https://github.com/VQAssessment/Q-Bench)]**
 
 ### Useful Links
 
