@@ -285,8 +285,9 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 
 * [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) [📖](https://arxiv.org/abs/2303.10883)[👨‍💻](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) (_including defocus blur, shadow, forgery, camouflaged dection_)
 
-	> [Weihuang Liu](https://github.com/nifangbaage)<sup>1</sup> [Xi Shen](https://xishen0220.github.io/)<sup>2</sup> [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/)<sup>#,1</sup> [Xiaodong Cun](https://vinthony.github.io/)<sup>#,2</sup>
-<sup>1</sup>University of Macau <sup>2</sup>Tencent AI Lab   
+  > [Weihuang Liu](https://github.com/nifangbaage)<sup>1</sup> [Xi Shen](https://xishen0220.github.io/)<sup>2</sup> [Chi-Man Pun](https://www.cis.um.edu.mo/~cmpun/)<sup>#,1</sup> [Xiaodong Cun](https://vinthony.github.io/)<sup>#,2</sup>
+  >
+  > <sup>1</sup>University of Macau <sup>2</sup>Tencent AI Lab   
 
 * [ ] SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device (_ICCV '23_) [📖](https://arxiv.org/abs/2308.08137) [👨‍💻](https://github.com/sanechips-multimedia/syenet)
   > [Weiran Gou](https://github.com/WeiranGou)<sup>∗1,2</sup>, Ziyao Yi<sup>∗1,2</sup>, Yan Xiang<sup>1,2</sup>, Shaoqing Li<sup>1,2</sup>, Zibin Liu<sup>1,2</sup>, Dehui Kong<sup>1,2</sup>, Ke Xu<sup>#1,2</sup>
@@ -295,8 +296,9 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 
 * [ ] Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision (_arXiv_ '23_) [📖](https://arxiv.org/abs/2309.14181) [👨‍💻](https://github.com/VQAssessment/Q-Bench)
   > [Haoning Wu](https://teowu.github.io/)<sup>1\*</sup>, [Zicheng Zhang](https://github.com/zzc-1998)<sup>2\*</sup>, [Erli Zhang](https://github.com/ZhangErliCarl/)<sup>1\*</sup>, [Chaofeng Chen](https://chaofengc.github.io/)<sup>1</sup>, [Liang Liao](https://liaoliang92.github.io/)<sup>1</sup>,
-  [Annan Wang](https://github.com/AnnanWangDaniel)<sup>1</sup>, [Chunyi Li](https://github.com/lcysyzxdxc)<sup>2</sup>, [Wenxiu Sun](https://wenxiusun.com/)<sup>3</sup>, [Qiong Yan](https://scholar.google.com/citations?user=uT9CtPYAAAAJ&hl=en)<sup>3</sup>, [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153)<sup>2</sup>, [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)<sup>1#</sup>
-  <sup>1</sup>Nanyang Technological University, <sup>2</sup>Shanghai Jiaotong University, <sup>3</sup>Sensetime Research
+  > [Annan Wang](https://github.com/AnnanWangDaniel)<sup>1</sup>, [Chunyi Li](https://github.com/lcysyzxdxc)<sup>2</sup>, [Wenxiu Sun](https://wenxiusun.com/)<sup>3</sup>, [Qiong Yan](https://scholar.google.com/citations?user=uT9CtPYAAAAJ&hl=en)<sup>3</sup>, [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153)<sup>2</sup>, [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)<sup>1#</sup>
+  >
+  > <sup>1</sup>Nanyang Technological University, <sup>2</sup>Shanghai Jiaotong University, <sup>3</sup>Sensetime Research
 
 ### Useful Links
 
