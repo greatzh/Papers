@@ -1,0 +1,20 @@
+# 2022
+
+* [ ] MSMG-Net: Multi-scale Multi-grained Supervised Metworks for Multi-task Image Manipulation Detection and Localization (_ArXiv '22_) **\[**[**Paper**](https://arxiv.org/abs/2211.03140)**]**
+* [ ] Towards JPEG-Resistant Image Forgery Detection and Localization Via Self-Supervised Domain Adaptation (_TPAMI '22_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9904872)**]**
+* [ ] ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection (_TOMCCAP '22_) **\[**[**Paper**](https://doi.org/10.1145/3506853)**]** **\[**[**Tool**](https://github.com/tampered816/rrr)**]**
+* [ ] Learning to localize image forgery using end-to-end attention network (_Neurocomputing '22_) **\[**[**Paper**](https://www.sciencedirect.com/science/article/pii/S0925231222011274)**]** **\[**[**Code**](https://github.com/sadaf-ali/-Learning-to-Localize-Image-Forgery-Using-End-to-End-Attention-Network)**]**
+* [ ] MVSS-Net: Multi-View Multi-Scale Supervised Networks for Image Manipulation Detection (_TPAMI '22_) **\[**[**Paper**](https://arxiv.org/abs/2112.08935)**]** **\[**[**Code**](https://github.com/dong03/MVSS-Net)**]**
+* [ ] [Robust Image Forgery Detection Over Online Social Network Shared Images](image-forgery/ifosn.md) (_CVPR '22_) **\[**[**Paper**](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu\_Robust\_Image\_Forgery\_Detection\_Over\_Online\_Social\_Network\_Shared\_Images\_CVPR\_2022\_paper.pdf)**]** **\[**[**Code**](https://github.com/HighwayWu/ImageForensicsOSN)**]**
+* [x] [ObjectFormer for Image Manipulation Detection and Localization](image-forgery/objectformer.md) (_CVPR '22_) **\[**[**Paper**](https://arxiv.org/abs/2203.14681)**]**
+* [ ] GCA-Net: Utilizing Gated Context Attention for Improving Image Forgery Localization and Detection (_CVPRW '22_) **\[**[**Paper**](https://arxiv.org/abs/2112.04298)**]**
+* [ ] Non-Semantic Evaluation of Image Forensics Tools: Methodology and Database (_WACV '22_) **\[**[**Paper**](https://arxiv.org/abs/2105.02700)**]** **\[**[**Code**](https://github.com/qbammey/trace)**]**
+* [ ] [JPEG Compression-aware Image Forgery Localization](image-forgery/caifl.md) (_MM '22_) **\[**[**Paper**](https://dl.acm.org/doi/abs/10.1145/3503161.3547749)**]**
+* [ ] [Image Manipulation Localization Using Multi-Scale Feature Fusion and Adaptive Edge Supervision](image-forgery/msff.md) (_TMM '22_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9996125/)**]**
+* [x] [PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization](image-forgery/pscc-net.md) (_TCSVT '22_) **\[**[**Paper**](https://arxiv.org/abs/2103.10596)**]** **\[**[**Code**](https://github.com/proteus1991/PSCC-Net)**]**
+* [x] [Self-Adversarial Training incorporating Forgery Attention for Image Forgery Localization](image-forgery/satfl.md) (_TIFS '22_) **\[**[**Paper**](https://arxiv.org/abs/2107.02434)**]** **\[**[**Code**](https://github.com/tansq/SATFL)**]** (_LocateNet / SATFL_)
+* [ ] M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection (_ICMR '22_) **\[**[**Paper**](https://arxiv.org/abs/2104.09770)**]** **\[**[**Code**](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)**]**
+* [ ] A Principled Design of Image Representation: Towards Forensic Tasks (_TPAMI '22_) **\[**[**Paper**](https://arxiv.org/abs/2203.00913)**]** **\[**[**Code**](https://github.com/ShurenQi/DIR)**]**
+* [ ] [TBNet: A Two-stream Boundary-aware Network for Generic Image Manipulation Localization](image-forgery/tbanet.md) (_KDE '22_) **\[**[**Paper**](https://arxiv.org/abs/2108.04508)**]**
+* [ ] [Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization](image-forgery/catnetv2.md) (_IJCV '22_) **\[**[**Paper**](https://arxiv.org/abs/2108.12947)**]** **\[**[**Code**](https://github.com/mjkwon2021/CAT-Net)**]**
+* [ ] Fighting Malicious Media Data: A Survey on Tampering Detection and Deepfake Detection (_arXiv '22_) (**Survey**) **\[**[**Paper**](https://arxiv.org/abs/2212.05667)**]**

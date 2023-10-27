@@ -21,6 +21,36 @@
 * [ViT](backbone/vit.md)
 * [Multi-Dimensional Compression ViT](backbone/multi-dimensional-compression-vit.md)
 
+## Image Forgery
+
+* [2023](image-forgery/2023/README.md)
+  * [HIFI_IFDL](image-forgery/2023/hifi_ifdl.md)
+  * [ReLoC](image-forgery/2023/reloc.md)
+  * [TBFormer](image-forgery/2023/tbformer.md)
+  * [$DGM^4$](image-forgery/2023/dgm4.md)
+  * [TruFor](image-forgery/2023/trufor.md)
+  * [CFL-Net](image-forgery/2023/cfl-net.md)
+  * [ERMPC](image-forgery/2023/ermpc.md)
+
+* [2022](image-forgery/2022/README.md)
+  * [ObjectFormer](image-forgery/2022/objectformer.md)
+  * [IF-OSN](image-forgery/2022/ifosn.md)
+  * [PSCC-Net](image-forgery/2022/pscc-net.md)
+  * [SATFL](image-forgery/2022/satfl.md)
+  * [TBANet](image-forgery/2022/tbanet.md)
+  * [MSFF-AES](image-forgery/2022/msff.md)
+  * [CA-IFL](image-forgery/2022/caifl.md)
+  * [CAT-Net v2](image-forgery/2022/catnetv2.md)
+
+* [2021](image-forgery/2021/README.md)
+  * [TransForensics](image-forgery/2021/transforensics.md)
+
+* [2020](image-forgery/2020/README.md)
+  * [GSRNet](image-forgery/2020/gsrnet.md)
+
+* [2019](image-forgery/2019/README.md)
+  * [HLED](image-forgery/2019/hled.md)
+
 ## Image Splicing
 
 * [Multi-task SE-Network](image-splicing/multi-task-se-network.md)

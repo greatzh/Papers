@@ -39,7 +39,7 @@ description: >-
 
 #### Image Editing
 
-<details>
+<details open>
 
 <summary>2023 This year</summary>
 
@@ -68,7 +68,7 @@ description: >-
 
 </details>
 
-<details>
+<details open>
 
 <summary>2022</summary>
 
@@ -137,8 +137,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **图像的拼接篡改检测定位**
 
-<details>
-
+<details open>
 <summary>Since 2021</summary>
 
 * [ ] A Multi-Stream Fusion Network for Image Splicing Localization _(MMM '23)_ **\[**[**Paper**](https://arxiv.org/abs/2212.01128)**]**
@@ -268,7 +267,7 @@ Related resources:
 
 Low-level tasks include super-resolution, denoise, dehze, low-light enhancement, etc. High-level tasks include classification, detection, segmentation, etc. segmentation, and so on. However, the ones I have listed here are probably still mainly related to tampering detection.
 
-> [Testing the new layout of paper title.](image-splicing/2022/testing-et.md)
+> Testing the new layout of paper title.
 >
 > 📖Paper, 👨‍💻Code, 📦Dataset, 🔗Other links, 📜News,
 >

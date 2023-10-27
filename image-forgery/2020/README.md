@@ -1,0 +1,9 @@
+# 2020
+
+* [ ] A Full-Image Full-Resolution End-to-EndTrainable CNN Framework for Image Forgery Detection (_IEEE Access '20_) \*\*\[[Paper](./)]
+* [ ] Constrained R-CNN: A general image manipulation detection model (_ICME '20_) **\[**[**Paper**](https://arxiv.org/abs/1911.08217)**]** **\[**[**Code**](https://github.com/VedantWani/Constrained-R-CNN)**]**
+* [ ] A CNNBased Camera Model Fingerprint (_TIFS '20_) \*\*\[[Paper](./)]
+* [ ] An Adaptive Neural Network for Unsupervised Mosaic Consistency Analysis in Image Forensics (_CVPR '20_) **\[**[**Paper**](http://openaccess.thecvf.com/content\_CVPR\_2020/html/Bammey\_An\_Adaptive\_Neural\_Network\_for\_Unsupervised\_Mosaic\_Consistency\_Analysis\_in\_CVPR\_2020\_paper.html)**]** **\[**[**Code**](https://github.com/qbammey/adaptive\_cfa\_forensics)**]**
+* [ ] A dense u-net with cross-layer intersection for detection and localization of image forgery (_ICASSP '20_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9054068)**]** **\[**[**Note\_unofficial**](https://blog.csdn.net/weixin\_45366180/article/details/128413821)**]**
+* [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/gsrnet.md) (_AAAI '20_) **\[**[**Paper**](https://arxiv.org/abs/1811.09729)**]** **\[**[**Code**](https://github.com/pengzhou1108/GSRNet)**]** (_GSRNet_)
+* [ ] SPAN: Spatial Pyramid Attention Network for Image Manipulation Localization (_ECCV '20_) **\[**[**Paper**](https://www.ecva.net/papers/eccv\_2020/papers\_ECCV/papers/123660307.pdf)**]** **\[**[**Project**](http://media.ee.ntu.edu.tw/research/SPAN/)**]** **\[**[**Code**](https://github.com/tsaishien-chen/SPAN)**]**
