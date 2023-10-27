@@ -21,54 +21,6 @@
 * [ViT](backbone/vit.md)
 * [Multi-Dimensional Compression ViT](backbone/multi-dimensional-compression-vit.md)
 
-## Image Forgery
-
-<details open><summary>2023</summary>
-<p>
-
-* [HIFI_IFDL](image-forgery/2023/hifi_ifdl.md)
-* [ReLoC](image-forgery/2023/reloc.md)
-* [TBFormer](image-forgery/2023/tbformer.md)
-* [$DGM^4$](image-forgery/2023/dgm4.md)
-* [TruFor](image-forgery/2023/trufor.md)
-* [CFL-Net](image-forgery/2023/cfl-net.md)
-* [ERMPC](image-forgery/2023/ermpc.md)
-
-</p>
-</details>
-
-<details open><summary>2022</summary>
-<p>
-
-* [ObjectFormer](image-forgery/2022/objectformer.md)
-* [IF-OSN](image-forgery/2022/ifosn.md)
-* [PSCC-Net](image-forgery/2022/pscc-net.md)
-* [SATFL](image-forgery/2022/satfl.md)
-* [TBANet](image-forgery/2022/tbanet.md)
-* [MSFF-AES](image-forgery/2022/msff.md)
-* [CA-IFL](image-forgery/2022/caifl.md)
-* [CAT-Net v2](image-forgery/2022/catnetv2.md)
-
-</p>
-</details>
-
-<details><summary>2021</summary>
-<p>
-
-* [TransForensics](image-forgery/2021/transforensics.md)
-
-</p>
-</details>
-
-<details><summary>2020 and before</summary>
-<p>
-
-* [HLED](image-forgery/2019/hled.md)
-* [GSRNet](image-forgery/2020/gsrnet.md)
-
-</p>
-</details>
-
 ## Image Splicing
 
 * [Multi-task SE-Network](image-splicing/multi-task-se-network.md)
@@ -79,6 +31,9 @@
 * [RRU-Net](image-splicing/rru-net.md)
 * [ET](image-splicing/et.md)
 * [MWC-Net](image-splicing/mwc-net.md)
+* [2022](image-splicing/2022/README.md)
+  * [Testing-Net](image-splicing/2022/testing-net.md)
+  * [testing-ET](image-splicing/2022/testing-et.md)
 
 ## Image Harmonization
 
