@@ -16,4 +16,4 @@ description: Hybrid LSTM and Encoder-Decoder Architecture for Detection of Image
 
 ### GitHub
 
-[https://github.com/jawadbappy/forgery\_localization\_HLED](https://github.com/jawadbappy/forgery\_localization\_HLED)
+<https://github.com/jawadbappy/forgery\_localization\_HLED>

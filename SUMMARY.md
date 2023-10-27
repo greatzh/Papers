@@ -23,24 +23,51 @@
 
 ## Image Forgery
 
-* [ObjectFormer](image-forgery/objectformer.md)
-* [TransForensics](image-forgery/transforensics.md)
-* [GSRNet](image-forgery/gsrnet.md)
-* [PSCC-Net](image-forgery/pscc-net.md)
-* [SATFL](image-forgery/satfl.md)
-* [HLED](image-forgery/hled.md)
-* [ReLoC](image-forgery/reloc.md)
-* [TBFormer](image-forgery/tbformer.md)
-* [HIFI_IFDL](image-forgery/hifi_ifdl.md)
-* [$DGM^4$](image-forgery/dgm4.md)
-* [TruFor](image-forgery/trufor.md)
-* [CFL-Net](image-forgery/cfl-net.md)
-* [ERMPC](image-forgery/ermpc.md)
-* [TBANet](image-forgery/tbanet.md)
-* [MSFF-AES](image-forgery/msff.md)
-* [CA-IFL](image-forgery/caifl.md)
-* [IF-OSN](image-forgery/ifosn.md)
-* [CAT-Net v2](image-forgery/catnetv2.md)
+<details open><summary>2023</summary>
+<p>
+
+* [HIFI_IFDL](image-forgery/2023/hifi_ifdl.md)
+* [ReLoC](image-forgery/2023/reloc.md)
+* [TBFormer](image-forgery/2023/tbformer.md)
+* [$DGM^4$](image-forgery/2023/dgm4.md)
+* [TruFor](image-forgery/2023/trufor.md)
+* [CFL-Net](image-forgery/2023/cfl-net.md)
+* [ERMPC](image-forgery/2023/ermpc.md)
+
+</p>
+</details>
+
+<details open><summary>2022</summary>
+<p>
+
+* [ObjectFormer](image-forgery/2022/objectformer.md)
+* [IF-OSN](image-forgery/2022/ifosn.md)
+* [PSCC-Net](image-forgery/2022/pscc-net.md)
+* [SATFL](image-forgery/2022/satfl.md)
+* [TBANet](image-forgery/2022/tbanet.md)
+* [MSFF-AES](image-forgery/2022/msff.md)
+* [CA-IFL](image-forgery/2022/caifl.md)
+* [CAT-Net v2](image-forgery/2022/catnetv2.md)
+
+</p>
+</details>
+
+<details><summary>2021</summary>
+<p>
+
+* [TransForensics](image-forgery/2021/transforensics.md)
+
+</p>
+</details>
+
+<details><summary>2020 and before</summary>
+<p>
+
+* [HLED](image-forgery/2019/hled.md)
+* [GSRNet](image-forgery/2020/gsrnet.md)
+
+</p>
+</details>
 
 ## Image Splicing
 

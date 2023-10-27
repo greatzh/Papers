@@ -6,11 +6,11 @@ description: 单词 短语 句子
 
 ### 单词
 
-| Words    | Meaning  | Example                                            |
-| -------- | -------- | -------------------------------------------------- |
-| serrated | 锯齿状的 | the serrated edges caused by the irregular borders |
-|          |          |                                                    |
-|          |          |                                                    |
+| Words           | Meaning  | Example                                            |
+| --------------- | -------- | -------------------------------------------------- |
+| serrated        | 锯齿状的 | the serrated edges caused by the irregular borders |
+| attack-agnostic | 攻击无关 |                                                    |
+|                 |          |                                                    |
 
 #### **distill 提取 蒸馏**
 
@@ -18,7 +18,7 @@ distill the differentiated features 提取特征，类似的还有, extract, min
 
 #### **evade 回避 避开**
 
-evade image forensic system 避开图像取证系统，或者说, defeat, fail
+evade image forensic system 避开图像取证系统，evade detection, evasion attack 或者说, defeat, fail
 
 #### **characterize 描述**
 

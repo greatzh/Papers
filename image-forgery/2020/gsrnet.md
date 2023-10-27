@@ -6,7 +6,7 @@ description: 'Generate, Segment, and Refine: Towards Generic Manipulation Segmen
 
 <figure><img src="https://s2.loli.net/2022/11/23/NsCykaTFq17u2DI.png" alt=""><figcaption></figcaption></figure>
 
-> Peng Zhou, Bor-Chun Chen, Xintong Han, Mahyar Najibi, Abhinav Shrivastava, Ser-Nam Lim, and Larry Davis. 2020. Generate, Segment, and Refine: Towards Generic Manipulation Segmentation. Proc Aaai Conf Artif Intell 34, 07 (2020), 13058–13065. DOI:[https://doi.org/10.1609/aaai.v34i07.7007](https://doi.org/10.1609/aaai.v34i07.7007)
+> Peng Zhou, Bor-Chun Chen, Xintong Han, Mahyar Najibi, Abhinav Shrivastava, Ser-Nam Lim, and Larry Davis. 2020. Generate, Segment, and Refine: Towards Generic Manipulation Segmentation. Proc Aaai Conf Artif Intell 34, 07 (2020), 13058–13065. DOI:<https://doi.org/10.1609/aaai.v34i07.7007>
 
 ## 概述
 
@@ -62,4 +62,4 @@ $$
 
 ## GitHub
 
-TensorFlow: [https://github.com/pengzhou1108/GSRNet](https://github.com/pengzhou1108/GSRNet)
+TensorFlow: <https://github.com/pengzhou1108/GSRNet>

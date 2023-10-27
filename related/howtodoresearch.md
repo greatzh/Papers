@@ -1,6 +1,6 @@
 1. [Learning Research](https://github.com/pengsida/learning_research)
 
-   **The following content from https://github.com/pengsida/learning_research.**
+   **The following content from <https://github.com/pengsida/learning_research>.**
 
    1. [怎么练习写论文](https://pengsida.notion.site/c13c7e52aab64c1a8e3576b97fcb9851)
    2. [论文写作模板](https://pengsida.notion.site/c1a22465a0fa4b15a12985223916048e)
