@@ -43,6 +43,7 @@ description: >-
 
 <summary>2023 This year</summary>
 
+* [ ] Evading Detection Actively: Toward Anti-Forensics against Forgery Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.10036)**]** **\[**[**Code**](https://github.com/tansq/SEAR)**]**
 * [ ] Multi-scale attention context-aware network for detection and localization of image splicing: Efficient and robust identification network _(Appl. Intell. 23')_ **\[**[**Paper**](https://link.springer.com/article/10.1007/s10489-022-04421-3)**]**
 * [ ] [ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization](image-forgery/2023/reloc.md) (_TIFS '23_) **\[**[**Paper**](https://arxiv.org/abs/2211.03930)**]** **\[**[**Code**](https://github.com/ZhuangPeiyu/ReLoc)**]**
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement (_PR '23_) **\[**[**Paper**](https://www.sciencedirect.com/science/article/pii/S0031320322005064)**]** (_EMT-Net_)
@@ -273,21 +274,21 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 >
 > \*Equal contribution. #Corresponding author.
 
-*   [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) [📖](https://arxiv.org/abs/2303.10883)[👨‍💻](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) (_including defocus blur, shadow, forgery, camouflaged dection_)
+*   [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) [📖](https://arxiv.org/abs/2303.10883), [👨‍💻](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) (_including defocus blur, shadow, forgery, camouflaged dection_)
 
-    > [Weihuang Liu](https://github.com/nifangbaage)1 [Xi Shen](https://xishen0220.github.io/)2 [Chi-Man Pun](https://www.cis.um.edu.mo/\~cmpun/)#,1 [Xiaodong Cun](https://vinthony.github.io/)#,2
+    > [Weihuang Liu](https://github.com/nifangbaage)<sup>1</sup>, [Xi Shen](https://xishen0220.github.io/)<sup>2</sup>, [Chi-Man Pun](https://www.cis.um.edu.mo/\~cmpun/)<sup>#,1</sup>, [Xiaodong Cun](https://vinthony.github.io/)<sup>#,2</sup>
     >
-    > 1University of Macau 2Tencent AI Lab
-*   [ ] SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device (_ICCV '23_) [📖](https://arxiv.org/abs/2308.08137) [👨‍💻](https://github.com/sanechips-multimedia/syenet)
+    > <sup>1</sup>University of Macau <sup>2</sup>Tencent AI Lab
+*   [ ] SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device (_ICCV '23_) [📖](https://arxiv.org/abs/2308.08137), [👨‍💻](https://github.com/sanechips-multimedia/syenet)
 
-    > [Weiran Gou](https://github.com/WeiranGou)∗1,2, Ziyao Yi∗1,2, Yan Xiang1,2, Shaoqing Li1,2, Zibin Liu1,2, Dehui Kong1,2, Ke Xu#1,2
+    > [Weiran Gou](https://github.com/WeiranGou)<sup>∗1,2</sup>, Ziyao Yi<sup>∗1,2</sup>, Yan Xiang<sup>1,2</sup>, Shaoqing Li<sup>1,2</sup>, Zibin Liu<sup>1,2</sup>, Dehui Kong<sup>1,2</sup>, Ke Xu<sup>#1,2</sup>
     >
-    > 1State Key Laboratory of Mobile Network and Mobile Multimedia Technology, 2Sanechips Technology, Chengdu, China
-*   [ ] Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision (_arXiv_ '23\_) [📖](https://arxiv.org/abs/2309.14181) [👨‍💻](https://github.com/VQAssessment/Q-Bench)
+    > <sup>1</sup>State Key Laboratory of Mobile Network and Mobile Multimedia Technology, <sup>2</sup>Sanechips Technology, Chengdu, China
+*   [ ] Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision (_arXiv_ '23\_) [📖](https://arxiv.org/abs/2309.14181), [👨‍💻](https://github.com/VQAssessment/Q-Bench)
 
-    > [Haoning Wu](https://teowu.github.io/)1\*, [Zicheng Zhang](https://github.com/zzc-1998)2\*, [Erli Zhang](https://github.com/ZhangErliCarl/)1\*, [Chaofeng Chen](https://chaofengc.github.io/)1, [Liang Liao](https://liaoliang92.github.io/)1, [Annan Wang](https://github.com/AnnanWangDaniel)1, [Chunyi Li](https://github.com/lcysyzxdxc)2, [Wenxiu Sun](https://wenxiusun.com/)3, [Qiong Yan](https://scholar.google.com/citations?user=uT9CtPYAAAAJ\&hl=en)3, [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24\&infoid=153\&flag=153)2, [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)1#
+    > [Haoning Wu](https://teowu.github.io/)<sup>1\*</sup>, [Zicheng Zhang](https://github.com/zzc-1998)<sup>2\*</sup>, [Erli Zhang](https://github.com/ZhangErliCarl/)<sup>1\*</sup>, [Chaofeng Chen](https://chaofengc.github.io/)<sup>1</sup>, [Liang Liao](https://liaoliang92.github.io/)<sup>1</sup>, [Annan Wang](https://github.com/AnnanWangDaniel)<sup>1</sup>, [Chunyi Li](https://github.com/lcysyzxdxc)<sup>2</sup>, [Wenxiu Sun](https://wenxiusun.com/)<sup>3</sup>, [Qiong Yan](https://scholar.google.com/citations?user=uT9CtPYAAAAJ\&hl=en)<sup>3</sup>, [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24\&infoid=153\&flag=153)<sup>2</sup>, [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)<sup>1#</sup>
     >
-    > 1Nanyang Technological University, 2Shanghai Jiaotong University, 3Sensetime Research
+    > <sup>1</sup>Nanyang Technological University, <sup>2</sup>Shanghai Jiaotong University, <sup>3</sup>Sensetime Research
 
 ### Useful Links
 
