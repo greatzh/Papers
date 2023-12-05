@@ -24,43 +24,42 @@ description: 'TBFormer: Two-Branch Transformer for Image Forgery Localization'
 
 ![TBFormer网络框架图](https://s2.loli.net/2023/03/16/gzTnDclFH6BKsqu.png)
 
-如图所示，一个RGB分支和一个噪声分支，RGB颜色域的图片 $\boldsymbol{I}_{c} \in \mathbb{R}^{H \times W \times 3}$ 经过BayarConv (Constrained Convolutional Neural Networks: A New Approach Towards General Purpose Image Manipulation Detection) 网络得到图片的噪声图$\boldsymbol{I}_{n} \in \mathbb{R}^{H \times W \times 3}$ ，然后将RGB图片划分为多个16 x 16的patch，$\boldsymbol{X}_{c}=\left\{\boldsymbol{x}_{c}^{(1)}, \boldsymbol{x}_{c}^{(2)}, \cdots, \boldsymbol{x}_{c}^{(N)}\right\}$, where $\boldsymbol{x}_{c}^{(i)} \in \mathbb{R}^{16 \times 16 \times 3}$ and $N=H / 16 \times W / 16$ 组成序列，通过线性映射，序列中的每个图片块都会被reshape成1维向量，而一维向量组成的序列就构成了块嵌入序列，patch embedding sequence $\boldsymbol{P}_{c}=\left\{\boldsymbol{p}_{c}^{(1)}, \boldsymbol{p}_{c}^{(2)}, \cdots, \boldsymbol{p}_{c}^{(N)}\right\} \in \mathbb{R}^{N \times L}$；而对应的位置编码则是如图中所示，直接分别加到对应的嵌入序列里面，组成最后的输入序列。$\boldsymbol{E}_{c}=\left\{\boldsymbol{e}_{c}^{(1)}, \boldsymbol{e}_{c}^{(2)}, \ldots, \boldsymbol{e}_{c}^{(N)}\right\} \in \mathbb{R}^{N \times L}$, where $\boldsymbol{e}_{c}^{(i)}=\boldsymbol{p}_{c}^{(i)}+\operatorname{pos}_{c}^{(i)}$
+如图所示，一个RGB分支和一个噪声分支，RGB颜色域的图片 $\boldsymbol{I}_{c} \in \mathbb{R}^{H \times W \times 3}$ 经过BayarConv (Constrained Convolutional Neural Networks: A New Approach Towards General Purpose Image Manipulation Detection) 网络得到图片的噪声图$\boldsymbol{I}_{n} \in \mathbb{R}^{H \times W \times 3}$ ，然后将RGB图片划分为多个16 x 16的patch，$\boldsymbol{X}_{c}=\left\{\boldsymbol{x}_{c}^{(1)}, \boldsymbol{x}_{c}^{(2)}, \cdots, \boldsymbol{x}_{c}^{(N)}\right\}$, where $\boldsymbol{x}_{c}^{(i)} \in \mathbb{R}^{16 \times 16 \times 3}$ and $N=H / 16 \times W / 16$ 组成序列，通过线性映射，序列中的每个图片块都会被reshape成1维向量，而一维向量组成的序列就构成了块嵌入序列，patch embedding sequence $\boldsymbol{P}_{c}=\left\{\boldsymbol{p}_{c}^{(1)}, \boldsymbol{p}_{c}^{(2)}, \cdots, \boldsymbol{p}_{c}^{(N)}\right\} \in \mathbb{R}^{N \times L}$；而对应的位置编码则是如图中所示，直接分别加到对应的嵌入序列里面，组成最后的输入序列。$\boldsymbol{E}_{c}=\left\{\boldsymbol{e}_{c}^{(1)}, \boldsymbol{e}_{c}^{(2)}, \ldots, \boldsymbol{e}_{c}^{(N)}\right\} \in \mathbb{R}^{N \times L}$, where $\boldsymbol{e}_{c}^{(i)}=\boldsymbol{p}_{c}^{(i)}+\text{pos}_{c}^{(i)}$
 
 接着将输入序列喂进由12个Transformer层（多头自注意力模块和一个多层感知模块(这不就是CNN？MLP)）组成的特征提取器，然后收集第4，8，12层的输出$\boldsymbol{T}_{c}^{(4)}, \boldsymbol{T}_{c}^{(8)}, \boldsymbol{T}_{c}^{(12)}$；
+
 $$
 \boldsymbol{T}_{c}=\left\{\boldsymbol{T}_{c}^{(4)}, \boldsymbol{T}_{c}^{(8)}, \boldsymbol{T}_{c}^{(12)}\right\}=f_{c}\left(\boldsymbol{E}_{c}\right)
 $$
 
 $$
 \begin{aligned}
-\boldsymbol{M}_{c}^{(i)} & =\operatorname{MSA}_{c}^{(i)}\left(\operatorname{LN}\left(\boldsymbol{T}_{c}^{(i-1)}\right)\right)+\boldsymbol{T}_{c}^{(i-1)} \\
-\boldsymbol{T}_{c}^{(i)} & =\operatorname{MLP}_{c}^{(i)}\left(\operatorname{LN}\left(\boldsymbol{M}_{c}^{(i)}\right)\right)+\boldsymbol{M}_{c}^{(i)}
+\boldsymbol{M}_{c}^{(i)} & =\text{MSA}_{c}^{(i)}\left(\text{LN}\left(\boldsymbol{T}_{c}^{(i-1)}\right)\right)+\boldsymbol{T}_{c}^{(i-1)} \\
+\boldsymbol{T}_{c}^{(i)} & =\text{MLP}_{c}^{(i)}\left(\text{LN}\left(\boldsymbol{M}_{c}^{(i)}\right)\right)+\boldsymbol{M}_{c}^{(i)}
 \end{aligned}
 $$
 
 $$
-\operatorname{SA}_{c}^{(i)}\left(\boldsymbol{T}_{c}^{(i-1)}\right)=\operatorname{softmax}\left(\boldsymbol{Q}_{c}^{(i)}\left(\boldsymbol{K}_{c}^{(i)}\right)^{\mathrm{T}} / \sqrt{L}\right) \boldsymbol{V}_{c}^{(i)}
+\text{SA}_{c}^{(i)}\left(\boldsymbol{T}_{c}^{(i-1)}\right)=\text{softmax}\left(\boldsymbol{Q}_{c}^{(i)}\left(\boldsymbol{K}_{c}^{(i)}\right)^{\mathrm{T}} / \sqrt{L}\right) \boldsymbol{V}_{c}^{(i)}
 $$
 
 $$
-\boldsymbol{Q}_{c}^{(i)}=\boldsymbol{T}_{c}^{(i-1)} \boldsymbol{W}_{\mathrm{cQ}}^{(i)},  \\\boldsymbol{K}_{c}^{(i)}=\boldsymbol{T}_{c}^{(i-1)} \boldsymbol{W}_{\mathrm{cK}}^{(i)}, \\
-\boldsymbol{V}_{c}^{(i)}=\boldsymbol{T}_{c}^{(i-1)} \boldsymbol{W}_{\mathrm{cV}}^{(i)}, \\
-and \boldsymbol{W}_{\mathrm{cQ}}^{(i)}, \boldsymbol{W}_{\mathrm{cK}}^{(i)}, \boldsymbol{W}_{\mathrm{cV}}^{(i)}
+\boldsymbol{Q}_{c}^{(i)}=\boldsymbol{T}_{c}^{(i-1)} \boldsymbol{W}_{\mathrm{cQ}}^{(i)},  \\\boldsymbol{K}_{c}^{(i)}=\boldsymbol{T}_{c}^{(i-1)} \boldsymbol{W}_{\mathrm{cK}}^{(i)}, \\\boldsymbol{V}_{c}^{(i)}=\boldsymbol{T}_{c}^{(i-1)} \boldsymbol{W}_{\mathrm{cV}}^{(i)}, \\and \boldsymbol{W}_{\mathrm{cQ}}^{(i)}, \boldsymbol{W}_{\mathrm{cK}}^{(i)}, \boldsymbol{W}_{\mathrm{cV}}^{(i)}
 $$
 
 同样的，在噪声分支上，以相同的模块，但是不共享的权重。紧接着来到AHFM模块，进行两个分支的特征的融合。由于两个分支的特征相差较大，所以在注意力感知层次特征模块里面，作者构建了一个位置注意力模块（position attention PA）模块。如下图所示，分别将从特征提取器第4/8/12层得到的特征图，首先经过转置然后reshape成三维向量；接着将两个分支的转置变换后的特征相加（concatenate，以通道维度），再经过卷积，再次经过三个不同卷积核的卷积，得到三个新的特征图，再经过softmax得到位置注意力权重，最后进一步得到融合的特征图。以同样的方式得到第八层，12层，三个融合后的特征图，经过逐个元素的相加，3*3的卷积，批标准化，ReLU激活得encoder阶段最后的融合的特征图。
 
 ![位置注意力模块](https://s2.loli.net/2023/03/21/raUZ68HEn7mDxfX.png)
 $$
-\boldsymbol{A}^{(4)}=\operatorname{softmax}\left(\left(\boldsymbol{T}^{\left(4 \_1\right)}\right)^{\mathrm{T}} \boldsymbol{T}^{\left(4 \_2\right)}\right)
+\boldsymbol{A}^{(4)}=\text{softmax}\left(\left(\boldsymbol{T}^{\left(4 \_1\right)}\right)^{\mathrm{T}} \boldsymbol{T}^{\left(4 \_2\right)}\right)
 $$
 
 $$
-\boldsymbol{Z}^{(4)}=\operatorname{Conv}^{(4)}\left(\alpha^{(4)}\left(\boldsymbol{T}^{\left(4 \_3\right)} \boldsymbol{A}^{(4)}\right)_{\text {reshape }} \oplus \hat{\boldsymbol{T}}^{(4)}\right)
+\boldsymbol{Z}^{(4)}=\text{Conv}^{(4)}\left(\alpha^{(4)}\left(\boldsymbol{T}^{\left(4 \_3\right)} \boldsymbol{A}^{(4)}\right)_{\text {reshape }} \oplus \hat{\boldsymbol{T}}^{(4)}\right)
 $$
 
 $$
-\boldsymbol{Z}=\operatorname{Conv}\left(\boldsymbol{Z}^{(12)} \oplus \boldsymbol{Z}^{(8)} \oplus \boldsymbol{Z}^{(4)}\right)
+\boldsymbol{Z} = \text{Conv}\left(\boldsymbol{Z}^{(12)} \oplus \boldsymbol{Z}^{(8)} \oplus \boldsymbol{Z}^{(4)}\right)
 $$
 
 接着来到了解码阶段，直接当做语义分割的任务来对待，设置两个可学习的类别嵌入（真实的，篡改的）来进一步学习真实的和篡改的特征表示，这两个类别嵌入和融合特征的块嵌入一起输入到解码器的两个Transformer层里面，来得到预测掩码。为了得到融合特征的块嵌入，patch embeddings，首先是reshape，transpose，然后线性映射；这些嵌入和类别嵌入一起输入到Transformer层，经过正则化上采样等操作得到最后的预测掩码。
@@ -69,7 +68,7 @@ $$
 $$
 
 $$
-\boldsymbol{M}=\operatorname{softmax}(\operatorname{Upsample}(\boldsymbol{Y}))
+\boldsymbol{M}=\text{softmax}(\text{Upsample}(\boldsymbol{Y}))
 $$
 
 如上述公式，Z代表encoder的融合特征的嵌入，而S代表类别嵌入，经过proj（线性映射函数）以及L2（正则）的带最后的量化值Y，然后再经过对Y的上采样，得到M 预测掩码。

@@ -40,9 +40,14 @@ description: >-
 #### Image Editing
 
 <details open>
-
 <summary>2023 This year</summary>
 
+* [ ] GP-Net: Image Manipulation Detection and Localization via Long-Range Modeling and Transformers (_Appl. Sci.  (IF: 2.8, not included in CCFs), MDPI, '23_) **\[[Paper](https://www.mdpi.com/2076-3417/13/21/12053)]**
+* [ ] DS-Net: Dual supervision neural network for image manipulation localization _(IET-IPR '23)_ **[[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.12885)]**
+* [ ] Learning to Immunize Images for Tamper Localization and Self Recovery _(TPAMI ‘23)_ **[[Paper](https://arxiv.org/pdf/2210.15902.pdf)]** 
+* [ ] Semantic-agnostic progressive subtractive network for image manipulation detection and localization _(Neurocomputing '23)_ **[[Paper](https://doi.org/10.1016/j.neucom.2023.126263)]**
+* [ ] Towards Effective Image Manipulation Detection with Proposal Contrastive Learning _(TCSVT '23)_ **[[Paper](https://arxiv.org/pdf/2210.08529.pdf)]** **[[Code](https://github.com/Sandy-Zeng/PCL)]**
+* [ ] Effective image tampering localization with multi-scale ConvNeXt feature fusion (_JVCIR '23)_ **\[**[**Paper**](https://arxiv.org/abs/2208.13739)**]** **[[Code](https://github.com/multimediaFor/ConvNeXtFF)]**
 * [ ] Evading Detection Actively: Toward Anti-Forensics against Forgery Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.10036)**]** **\[**[**Code**](https://github.com/tansq/SEAR)**]**
 * [ ] Multi-scale attention context-aware network for detection and localization of image splicing: Efficient and robust identification network _(Appl. Intell. 23')_ **\[**[**Paper**](https://link.springer.com/article/10.1007/s10489-022-04421-3)**]**
 * [ ] [ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization](image-forgery/2023/reloc.md) (_TIFS '23_) **\[**[**Paper**](https://arxiv.org/abs/2211.03930)**]** **\[**[**Code**](https://github.com/ZhuangPeiyu/ReLoc)**]**
@@ -73,6 +78,7 @@ description: >-
 
 <summary>2022</summary>
 
+* [ ] DS-UNet: A dual streams UNet for refined image forgery localization _(InfoS '22)_ **[[Paper](https://dl.acm.org/doi/abs/10.1016/j.ins.2022.08.005)]**
 * [ ] MSMG-Net: Multi-scale Multi-grained Supervised Metworks for Multi-task Image Manipulation Detection and Localization (_ArXiv '22_) **\[**[**Paper**](https://arxiv.org/abs/2211.03140)**]**
 * [ ] Towards JPEG-Resistant Image Forgery Detection and Localization Via Self-Supervised Domain Adaptation (_TPAMI '22_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9904872)**]**
 * [ ] ESRNet: Efficient Search and Recognition Network for Image Manipulation Detection (_TOMCCAP '22_) **\[**[**Paper**](https://doi.org/10.1145/3506853)**]** **\[**[**Tool**](https://github.com/tampered816/rrr)**]**
@@ -228,6 +234,50 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] [Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection](copy-move/word2phrasecmfd.md) _(TIFS '23)_ **\[**[**Paper**](https://arxiv.org/abs/2207.09135)**]** **\[**[**Code**](https://github.com/ChaoWang1016/word2phraseCMFD)**]**
 * [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (_ICME '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.04188)**]**
 
+### Tamper Text in Detection
+
+图像中的**文本篡改检测**问题 (parts of)
+
+- [ ] Towards Robust Tampered Text Detection in Document Image: New dataset and New Solution (_CVPR '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Towards_Robust_Tampered_Text_Detection_in_Document_Image_New_Dataset_CVPR_2023_paper.pdf)**]** **[[Code](https://github.com/qcf-568/DocTamper)]**
+- [ ] Progressive Supervision for Tampering Localization in Document Images (_ICONIP '23_) **[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8184-7_11)]**
+- [ ] SigScatNet: A Siamese + Scattering based Deep Learning Approach for Signature Forgery Detection and Similarity Assessment _(arXiv '23)_ **[[Paper](https://arxiv.org/pdf/2311.05579.pdf)]**
+- [ ] Image Generation and Learning Strategy for Deep Document Forgery Detection _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.03650)]**
+- [ ] Forgery-free signature verification with stroke-aware cycle-consistent generative adversarial network _(Neurocomputing '22)_ **[[Paper](https://doi.org/10.1016/j.neucom.2022.08.017)]** **[[Code](https://github.com/KAKAFEI123/Stroke-cCycleGAN)]**
+- [ ] Document Forgery Detection in the Context of Double JPEG Compression _(ICPR '22)_ **[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-37745-7_5)]**
+
+### Low Level Vision
+
+Related resources:
+
+* [https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
+* [https://github.com/lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record)
+
+Low-level tasks include super-resolution, denoise, dehze, low-light enhancement, etc. High-level tasks include classification, detection, segmentation, etc. segmentation, and so on. However, the ones I have listed here are probably still mainly related to tampering detection.
+
+> Testing the new layout of paper title.
+>
+> 📖Paper, 👨‍💻Code, 📦Dataset, 🔗Other links, 📜News,
+>
+> \*Equal contribution. #Corresponding author.
+
+* [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) [📖](https://arxiv.org/abs/2303.10883), [👨‍💻](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) (_including defocus blur, shadow, forgery, camouflaged dection_)
+
+  > [Weihuang Liu](https://github.com/nifangbaage)<sup>1</sup>, [Xi Shen](https://xishen0220.github.io/)<sup>2</sup>, [Chi-Man Pun](https://www.cis.um.edu.mo/\~cmpun/)<sup>#,1</sup>, [Xiaodong Cun](https://vinthony.github.io/)<sup>#,2</sup>
+  >
+  > <sup>1</sup>University of Macau <sup>2</sup>Tencent AI Lab
+
+* [ ] SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device (_ICCV '23_) [📖](https://arxiv.org/abs/2308.08137), [👨‍💻](https://github.com/sanechips-multimedia/syenet)
+
+  > [Weiran Gou](https://github.com/WeiranGou)<sup>∗1,2</sup>, Ziyao Yi<sup>∗1,2</sup>, Yan Xiang<sup>1,2</sup>, Shaoqing Li<sup>1,2</sup>, Zibin Liu<sup>1,2</sup>, Dehui Kong<sup>1,2</sup>, Ke Xu<sup>#1,2</sup>
+  >
+  > <sup>1</sup>State Key Laboratory of Mobile Network and Mobile Multimedia Technology, <sup>2</sup>Sanechips Technology, Chengdu, China
+
+* [ ] Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision (_arXiv_ '23\_) [📖](https://arxiv.org/abs/2309.14181), [👨‍💻](https://github.com/VQAssessment/Q-Bench)
+
+  > [Haoning Wu](https://teowu.github.io/)<sup>1\*</sup>, [Zicheng Zhang](https://github.com/zzc-1998)<sup>2\*</sup>, [Erli Zhang](https://github.com/ZhangErliCarl/)<sup>1\*</sup>, [Chaofeng Chen](https://chaofengc.github.io/)<sup>1</sup>, [Liang Liao](https://liaoliang92.github.io/)<sup>1</sup>, [Annan Wang](https://github.com/AnnanWangDaniel)<sup>1</sup>, [Chunyi Li](https://github.com/lcysyzxdxc)<sup>2</sup>, [Wenxiu Sun](https://wenxiusun.com/)<sup>3</sup>, [Qiong Yan](https://scholar.google.com/citations?user=uT9CtPYAAAAJ\&hl=en)<sup>3</sup>, [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24\&infoid=153\&flag=153)<sup>2</sup>, [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)<sup>1#</sup>
+  >
+  > <sup>1</sup>Nanyang Technological University, <sup>2</sup>Shanghai Jiaotong University, <sup>3</sup>Sensetime Research
+
 ### Image Matching
 
 **特征匹配**，图像匹配问题。
@@ -260,37 +310,6 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] [Generative Semantic Segmentation](semantic-segmentation/gss.md) (_CVPR '23_) **\[**[**Paper**](https://arxiv.org/abs/2303.11316)**]** **\[**[**Code**](https://github.com/fudan-zvg/GSS)**]**
 * [ ] EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation **\[**[**Paper**](https://arxiv.org/abs/2205.14756)**]** **\[**[**Code**](https://github.com/mit-han-lab/efficientvit)**]**
 * [ ] CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation **\[**[**Paper**](https://arxiv.org/abs/2303.11797)**]** **\[**[**Code**](https://github.com/KU-CVLAB/CAT-Seg)**]** **\[**[**Project**](https://ku-cvlab.github.io/CAT-Seg/)**]** **\[**[**Note\_community**](https://blog.csdn.net/P\_LarT/article/details/131083586)**]**
-
-### Low Level Vision
-
-Related resources:
-
-* [https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision](https://github.com/Kobaayyy/Awesome-ICCV2021-Low-Level-Vision)
-* [https://github.com/lcybuzz/Low-Level-Vision-Paper-Record](https://github.com/lcybuzz/Low-Level-Vision-Paper-Record)
-
-Low-level tasks include super-resolution, denoise, dehze, low-light enhancement, etc. High-level tasks include classification, detection, segmentation, etc. segmentation, and so on. However, the ones I have listed here are probably still mainly related to tampering detection.
-
-> Testing the new layout of paper title.
->
-> 📖Paper, 👨‍💻Code, 📦Dataset, 🔗Other links, 📜News,
->
-> \*Equal contribution. #Corresponding author.
-
-*   [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) [📖](https://arxiv.org/abs/2303.10883), [👨‍💻](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) (_including defocus blur, shadow, forgery, camouflaged dection_)
-
-    > [Weihuang Liu](https://github.com/nifangbaage)<sup>1</sup>, [Xi Shen](https://xishen0220.github.io/)<sup>2</sup>, [Chi-Man Pun](https://www.cis.um.edu.mo/\~cmpun/)<sup>#,1</sup>, [Xiaodong Cun](https://vinthony.github.io/)<sup>#,2</sup>
-    >
-    > <sup>1</sup>University of Macau <sup>2</sup>Tencent AI Lab
-*   [ ] SYENet: A Simple Yet Effective Network for Multiple Low-Level Vision Tasks with Real-time Performance on Mobile Device (_ICCV '23_) [📖](https://arxiv.org/abs/2308.08137), [👨‍💻](https://github.com/sanechips-multimedia/syenet)
-
-    > [Weiran Gou](https://github.com/WeiranGou)<sup>∗1,2</sup>, Ziyao Yi<sup>∗1,2</sup>, Yan Xiang<sup>1,2</sup>, Shaoqing Li<sup>1,2</sup>, Zibin Liu<sup>1,2</sup>, Dehui Kong<sup>1,2</sup>, Ke Xu<sup>#1,2</sup>
-    >
-    > <sup>1</sup>State Key Laboratory of Mobile Network and Mobile Multimedia Technology, <sup>2</sup>Sanechips Technology, Chengdu, China
-*   [ ] Q-Bench: A Benchmark for General-Purpose Foundation Models on Low-level Vision (_arXiv_ '23\_) [📖](https://arxiv.org/abs/2309.14181), [👨‍💻](https://github.com/VQAssessment/Q-Bench)
-
-    > [Haoning Wu](https://teowu.github.io/)<sup>1\*</sup>, [Zicheng Zhang](https://github.com/zzc-1998)<sup>2\*</sup>, [Erli Zhang](https://github.com/ZhangErliCarl/)<sup>1\*</sup>, [Chaofeng Chen](https://chaofengc.github.io/)<sup>1</sup>, [Liang Liao](https://liaoliang92.github.io/)<sup>1</sup>, [Annan Wang](https://github.com/AnnanWangDaniel)<sup>1</sup>, [Chunyi Li](https://github.com/lcysyzxdxc)<sup>2</sup>, [Wenxiu Sun](https://wenxiusun.com/)<sup>3</sup>, [Qiong Yan](https://scholar.google.com/citations?user=uT9CtPYAAAAJ\&hl=en)<sup>3</sup>, [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24\&infoid=153\&flag=153)<sup>2</sup>, [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html)<sup>1#</sup>
-    >
-    > <sup>1</sup>Nanyang Technological University, <sup>2</sup>Shanghai Jiaotong University, <sup>3</sup>Sensetime Research
 
 ### Useful Links
 
