@@ -40,8 +40,8 @@ description: >-
 #### Image Editing
 
 <details open>
-<summary>2023 This year</summary>
-
+<summary>2023</summary>
+* [ ] Secondary Labeling  A Novel Labeling Strategy for Image Manipulation Detection _(MM '23)_ **[[Paper](https://doi.org/10.1145/3581783.3613839)]**
 * [ ] GP-Net: Image Manipulation Detection and Localization via Long-Range Modeling and Transformers (_Appl. Sci.  (IF: 2.8, not included in CCFs), MDPI, '23_) **\[[Paper](https://www.mdpi.com/2076-3417/13/21/12053)]**
 * [ ] DS-Net: Dual supervision neural network for image manipulation localization _(IET-IPR '23)_ **[[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.12885)]**
 * [ ] Learning to Immunize Images for Tamper Localization and Self Recovery _(TPAMI ‘23)_ **[[Paper](https://arxiv.org/pdf/2210.15902.pdf)]** 
@@ -207,20 +207,23 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
-* [ ] SSTNet: Detecting Manipulated Faces Through Spatial, Steganalysis and Temporal Features (_ICASSP '20_) **\[**[**Paper**](https://ieeexplore.ieee.org/abstract/document/9053969/)**]**
-* [x] Portrait shadow manipulation (_ACM MM / TOG '20_) **\[**[**Paper**](https://arxiv.org/abs/2005.08925)**]** **\[**[**Code**](https://github.com/google/portrait-shadow-manipulation)**]**
-* [x] [MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection](face-forgery/mc-lcr.md) (_KBS '22_) **\[**[**Paper**](https://arxiv.org/abs/2110.03290)**]**
-* [x] [Multi-Scale Wavelet Transformer for Face Forgery Detection](face-forgery/multi-scale-wavelettransformer.md) (_ACCV '22_) **\[**[**Paper**](https://arxiv.org/abs/2210.03899)**]**
-* [ ] Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection (_CVPR '22_) **\[**[**Paper**](https://arxiv.org/abs/2201.07131)**]** **\[**[**Code**](https://github.com/ahaliassos/RealForensics)**]**
+* [ ] Improving Fairness in Deepfake Detection _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2306.16635)]** **[[Code](https://github.com/littlejuyan/DF_Fairness)]**
+* [ ] Weakly-Supervised Deepfake Localization in Diffusion-Generated Images _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2311.04584)]** **[[Code](https://github.com/bit-ml/dolos)]**
+* [ ] RAIRNet: Region-Aware Identity Rectification for Face Forgery Detection _(MM '23)_ **[[Paper](https://dl.acm.org/doi/10.1145/3581783.3612321)]**
+* [ ] Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.08448)**]** **\[**[**Code**](https://github.com/EnVision-Research/Selective-Diffusion-Distillation)**]**
+* [ ] Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (_TIP '23_) **\[**[**Paper**](https://doi.org/10.1109/TIP.2023.3246793)**]** **\[**[**Code**](https://github.com/Jae35/IFFD)**]**
+* [ ] Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection _(arXiv '23')_ **\[**[**Paper**](https://arxiv.org/abs/2308.01520v1)**]**
+* [ ] Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection _(arXiv '23')_ **\[**[**Paper**](https://arxiv.org/abs/2302.10437)**]**
 * [ ] AUNet: Learning Relations Between Action Units for Face Forgery Detection (_CVPR '23_) **\[**[**Paper**](http://openaccess.thecvf.com/content/CVPR2023/html/Bai\_AUNet\_Learning\_Relations\_Between\_Action\_Units\_for\_Face\_Forgery\_Detection\_CVPR\_2023\_paper.html)**]**
 * [ ] AltFreezing for More General Face Forgery Detection (_CVPR '23_) **\[**[**Paper**](http://openaccess.thecvf.com/content/CVPR2023/html/Wang\_AltFreezing\_for\_More\_General\_Video\_Face\_Forgery\_Detection\_CVPR\_2023\_paper.html)**]** \*\*\[[Code](https://github.com/ZhendongWang6/AltFreezing)]88
 * [ ] $F^2$Trans: High-Frequency Fine-Grained Transformer for Face Forgery Detection (_TIFS '23_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/10004978)**]**
 * [ ] On the Security of the One-and-a-Half-Class Classifier for SPAM Feature-Based Image Forensics (_TIFS '23_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/10098583)**]**
 * [ ] Multimodaltrace: Deepfake Detection Using Audiovisual Representation Learning (_CVPRW '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/CVPR2023W/WMF/html/Raza\_Multimodaltrace\_Deepfake\_Detection\_Using\_Audiovisual\_Representation\_Learning\_CVPRW\_2023\_paper.html)**]**
-* [ ] Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection _(arXiv '23')_ **\[**[**Paper**](https://arxiv.org/abs/2302.10437)**]**
-* [ ] Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection _(arXiv '23')_ **\[**[**Paper**](https://arxiv.org/abs/2308.01520v1)**]**
-* [ ] Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (_TIP '23_) **\[**[**Paper**](https://doi.org/10.1109/TIP.2023.3246793)**]** **\[**[**Code**](https://github.com/Jae35/IFFD)**]**
-* [ ] Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.08448)**]** **\[**[**Code**](https://github.com/EnVision-Research/Selective-Diffusion-Distillation)**]**
+* [x] [MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection](face-forgery/mc-lcr.md) (_KBS '22_) **\[**[**Paper**](https://arxiv.org/abs/2110.03290)**]**
+* [x] [Multi-Scale Wavelet Transformer for Face Forgery Detection](face-forgery/multi-scale-wavelettransformer.md) (_ACCV '22_) **\[**[**Paper**](https://arxiv.org/abs/2210.03899)**]**
+* [ ] Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection (_CVPR '22_) **\[**[**Paper**](https://arxiv.org/abs/2201.07131)**]** **\[**[**Code**](https://github.com/ahaliassos/RealForensics)**]**
+* [ ] SSTNet: Detecting Manipulated Faces Through Spatial, Steganalysis and Temporal Features (_ICASSP '20_) **\[**[**Paper**](https://ieeexplore.ieee.org/abstract/document/9053969/)**]**
+* [x] Portrait shadow manipulation (_ACM MM / TOG '20_) **\[**[**Paper**](https://arxiv.org/abs/2005.08925)**]** **\[**[**Code**](https://github.com/google/portrait-shadow-manipulation)**]**
 
 ### Copy Move
 
@@ -309,22 +312,30 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 
 * [ ] [Generative Semantic Segmentation](semantic-segmentation/gss.md) (_CVPR '23_) **\[**[**Paper**](https://arxiv.org/abs/2303.11316)**]** **\[**[**Code**](https://github.com/fudan-zvg/GSS)**]**
 * [ ] EfficientViT: Lightweight Multi-Scale Attention for On-Device Semantic Segmentation **\[**[**Paper**](https://arxiv.org/abs/2205.14756)**]** **\[**[**Code**](https://github.com/mit-han-lab/efficientvit)**]**
-* [ ] CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation **\[**[**Paper**](https://arxiv.org/abs/2303.11797)**]** **\[**[**Code**](https://github.com/KU-CVLAB/CAT-Seg)**]** **\[**[**Project**](https://ku-cvlab.github.io/CAT-Seg/)**]** **\[**[**Note\_community**](https://blog.csdn.net/P\_LarT/article/details/131083586)**]**
+* [ ] CAT-Seg: Cost Aggregation for Open-Vocabulary Semantic Segmentation **\[**[**Paper**](https://arxiv.org/abs/2303.11797)**]** **\[**[**Code**](https://github.com/KU-CVLAB/CAT-Seg)**]** **\[**[**Project**](https://ku-cvlab.github.io/CAT-Seg/)**]** **\[**[**Note\_community**](https://blog.csdn.net/P\_LarT/article/details/131083586)**]
+
+### Anomaly Detection
+
+异常检测，通常用于发现与正常模式或预期模式不符的图像与视频。
+
+* [ ] Contextual Affinity Distillation for Image Anomaly Detection _(WACV '24)_  **[[Paper](https://arxiv.org/abs/2307.03101)]**
+* [ ] PromptAD: Zero-Shot Anomaly Detection Using Text Prompts _(WACV '24)_  **[[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Li_PromptAD_Zero-Shot_Anomaly_Detection_Using_Text_Prompts_WACV_2024_paper.html)]**
+* [ ] Holistic Representation Learning for Multitask Trajectory Anomaly Detection _(WACV '24)_  **[[Paper](https://arxiv.org/abs/2311.01851)]** **[[Code](https://alexandrosstergiou.github.io/project_pages/TrajREC/index.html)]**
 
 ### Useful Links
 
-1. ICCV 2023 Paper List <https://huggingface.co/spaces/ICCV2023/ICCV2023-papers>
-2. ICLR 2023 Papers List <https://openreview.net/group?id=ICLR.cc/2023/Conference>
-3. CVPR 2023 Accepted Papers [https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
-4. CVPR 2023 Workshops [https://openaccess.thecvf.com/CVPR2023\_workshops/menu](https://openaccess.thecvf.com/CVPR2023\_workshops/menu)
-5. WACV 2023 Papers [https://openaccess.thecvf.com/WACV2023](https://openaccess.thecvf.com/WACV2023)
-6. IJCAI 2023 Accepted Papers List [https://ijcai-23.org/main-track-accepted-papers/](https://ijcai-23.org/main-track-accepted-papers/)
-7. ECCV 2022 Accepted papers [https://eccv2022.ecva.net/program/accepted-papers/](https://eccv2022.ecva.net/program/accepted-papers/)
-8. MM 2022 Proceedings [https://dl.acm.org/doi/proceedings/10.1145/3503161](https://dl.acm.org/doi/proceedings/10.1145/3503161)
-9. SIGGRAPH _unofficial_ [https://kesen.realtimerendering.com/](https://kesen.realtimerendering.com/) eg SIGGRAPH 2023 [https://kesen.realtimerendering.com/sig2023.html](https://kesen.realtimerendering.com/sig2023.html)
-10. ICML 2022 [https://dblp.org/db/conf/icml/icml2022.html](https://dblp.org/db/conf/icml/icml2022.html)
-11. AAAI 2022 [https://dblp.org/db/conf/aaai/aaai2022.html](https://dblp.org/db/conf/aaai/aaai2022.html)
-12. TIFS [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+1. WACV 2024 Papers <https://openaccess.thecvf.com/WACV2024>
+2. MM 2023 Proceedings <https://dl.acm.org/doi/proceedings/10.1145/3581783>
+3. ICML 2023 https://dblp.org/db/conf/icml/icml2023.html
+4. ICCV 2023 Paper List <https://huggingface.co/spaces/ICCV2023/ICCV2023-papers>
+5. ICLR 2023 Papers List <https://openreview.net/group?id=ICLR.cc/2023/Conference>
+6. CVPR 2023 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers>
+7. CVPR 2023 Workshops <https://openaccess.thecvf.com/CVPR2023\_workshops/menu>
+8. IJCAI 2023 Accepted Papers List <https://ijcai-23.org/main-track-accepted-papers/>
+9. ECCV 2022 Accepted papers <https://eccv2022.ecva.net/program/accepted-papers/>
+10. SIGGRAPH _unofficial_ <https://kesen.realtimerendering.com/> eg SIGGRAPH 2023 <https://kesen.realtimerendering.com/sig2023.html>
+11. AAAI 2022 <https://dblp.org/db/conf/aaai/aaai2022.html>
+12. TIFS <https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206>
 13. [More...](related/papersource.md)
 
 ### [Back to Home](https://zihol.gitbook.io/)
