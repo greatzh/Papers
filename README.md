@@ -41,6 +41,7 @@ description: >-
 
 <details open>
 <summary>2023</summary>
+
 * [ ] Secondary Labeling  A Novel Labeling Strategy for Image Manipulation Detection _(MM '23)_ **[[Paper](https://doi.org/10.1145/3581783.3613839)]**
 * [ ] GP-Net: Image Manipulation Detection and Localization via Long-Range Modeling and Transformers (_Appl. Sci.  (IF: 2.8, not included in CCFs), MDPI, '23_) **\[[Paper](https://www.mdpi.com/2076-3417/13/21/12053)]**
 * [ ] DS-Net: Dual supervision neural network for image manipulation localization _(IET-IPR '23)_ **[[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.12885)]**
@@ -229,13 +230,14 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] An approach for copy-move image multiple forgery detection based on an optimized pre-trained deep learning model _(KBS '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705123002587)]**
+* [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (_ICME '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.04188)**]**
 * [x] [BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization](copy-move/busternet.md) (_ECCV '18_) **\[**[**Paper**](http://openaccess.thecvf.com/content\_ECCV\_2018/html/Rex\_Yue\_Wu\_BusterNet\_Detecting\_Copy-Move\_ECCV\_2018\_paper.html)**]** **\[**[**Code**](https://github.com/isi-vista/BusterNet)**]**
 * [x] [A Serial Image Copy-Move Forgery Localization Scheme With Source/Target Distinguishment](copy-move/cmsdnet.md) (_TMM '20_) **\[**[**Paper**](https://ieeexplore.ieee.org/abstract/document/9207851/)**]** **\[**[**Code**](https://github.com/imagecbj/A-serial-image-copy-move-forgery-localization-scheme-with-source-target-distinguishment)**]**
 * [x] [DOA-GAN: Dual-Order Attentive Generative Adversarial Network for Image Copy-Move Forgery Detection and Localization](copy-move/doa-gan.md) (_CVPR '20_) **\[**[**Paper**](http://openaccess.thecvf.com/content\_CVPR\_2020/html/Islam\_DOA-GAN\_Dual-Order\_Attentive\_Generative\_Adversarial\_Network\_for\_Image\_Copy-Move\_Forgery\_CVPR\_2020\_paper.html)**]** **\[**[**Code**](https://github.com/asrafulashiq/doagan\_clean)**]**
 * [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md) (_TIP '22_) **\[**[**Paper**](https://arxiv.org/abs/2012.08697)**]**
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method (_Neurocomputing '22_) **\[**[**Paper**](https://www.sciencedirect.com/science/article/pii/S0925231222011031)**]** **\[**[**Code**](https://github.com/MehradAria/QDL-CMFD)**]**
 * [ ] [Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection](copy-move/word2phrasecmfd.md) _(TIFS '23)_ **\[**[**Paper**](https://arxiv.org/abs/2207.09135)**]** **\[**[**Code**](https://github.com/ChaoWang1016/word2phraseCMFD)**]**
-* [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (_ICME '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.04188)**]**
 
 ### Tamper Text in Detection
 
