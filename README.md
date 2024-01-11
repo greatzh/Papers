@@ -42,6 +42,7 @@ description: >-
 <details open>
 <summary>2023</summary>
 
+* [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries _(IMAGE '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S092359652300111X)]** **[[Code](https://github.com/znshi/PL-GNet)]**
 * [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.00234)]**
 * [ ] Progressive Feedback-Enhanced Transformer for Image Forgery Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.08910)]** **[[Code(N/A)](https://github.com/multimediaFor/ProFact)]**
 * [ ] Secondary Labeling  A Novel Labeling Strategy for Image Manipulation Detection _(MM '23)_ **[[Paper](https://doi.org/10.1145/3581783.3613839)]**
@@ -236,6 +237,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.13263)]**
 * [ ] An approach for copy-move image multiple forgery detection based on an optimized pre-trained deep learning model _(KBS '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705123002587)]**
 * [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (_ICME '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.04188)**]**
 * [x] [BusterNet: Detecting Copy-Move Image Forgery with Source/Target Localization](copy-move/busternet.md) (_ECCV '18_) **\[**[**Paper**](http://openaccess.thecvf.com/content\_ECCV\_2018/html/Rex\_Yue\_Wu\_BusterNet\_Detecting\_Copy-Move\_ECCV\_2018\_paper.html)**]** **\[**[**Code**](https://github.com/isi-vista/BusterNet)**]**
