@@ -40,8 +40,16 @@ description: >-
 #### Image Editing
 
 <details open>
+<summary>2024</summary>
+
+* [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2401.13006)]**
+
+</details>
+
+<details open>
 <summary>2023</summary>
 
+* [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2312.08883)]** **[[Code](https://github.com/xuanyuzhang21/EditGuard)]**
 * [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries _(IMAGE '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S092359652300111X)]** **[[Code](https://github.com/znshi/PL-GNet)]**
 * [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.00234)]**
 * [ ] Progressive Feedback-Enhanced Transformer for Image Forgery Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.08910)]** **[[Code(N/A)](https://github.com/multimediaFor/ProFact)]**
@@ -53,7 +61,6 @@ description: >-
 * [ ] Towards Effective Image Manipulation Detection with Proposal Contrastive Learning _(TCSVT '23)_ **[[Paper](https://arxiv.org/pdf/2210.08529.pdf)]** **[[Code](https://github.com/Sandy-Zeng/PCL)]**
 * [ ] Effective image tampering localization with multi-scale ConvNeXt feature fusion (_JVCIR '23)_ **\[**[**Paper**](https://arxiv.org/abs/2208.13739)**]** **[[Code](https://github.com/multimediaFor/ConvNeXtFF)]**
 * [ ] Evading Detection Actively: Toward Anti-Forensics against Forgery Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.10036)**]** **\[**[**Code**](https://github.com/tansq/SEAR)**]**
-* [ ] Multi-scale attention context-aware network for detection and localization of image splicing: Efficient and robust identification network _(Appl. Intell. 23')_ **\[**[**Paper**](https://link.springer.com/article/10.1007/s10489-022-04421-3)**]**
 * [ ] [ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization](image-forgery/2023/reloc.md) (_TIFS '23_) **\[**[**Paper**](https://arxiv.org/abs/2211.03930)**]** **\[**[**Code**](https://github.com/ZhuangPeiyu/ReLoc)**]**
 * [ ] Image manipulation detection by multiple tampering traces and edge artifact enhancement (_PR '23_) **\[**[**Paper**](https://www.sciencedirect.com/science/article/pii/S0031320322005064)**]** (_EMT-Net_)
 * [x] [CFL-Net: Image Forgery Localization Using Contrastive Learning](image-forgery/2023/cfl-net.md) (_WACV '23_) **\[**[**Paper**](https://arxiv.org/abs/2210.02182)**]** **\[**[**Code**](https://github.com/niloy193/CFLNet)**]**
@@ -70,7 +77,6 @@ description: >-
 * [ ] Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Zhai\_Towards\_Generic\_Image\_Manipulation\_Detection\_with\_Weakly-Supervised\_Self-Consistency\_Learning\_ICCV\_2023\_paper.html)**]** **\[**[**Code**](https://github.com/yhZhai/WSCL)**]** **\[**[**ResearchGate**](https://www.researchgate.net/publication/373686108\_Towards\_Generic\_Image\_Manipulation\_Detection\_with\_Weakly-Supervised\_Self-Consistency\_Learning)**]**
 * [ ] SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Sun\_SAFL-Net\_Semantic-Agnostic\_Feature\_Learning\_Network\_with\_Auxiliary\_Plugins\_for\_Image\_ICCV\_2023\_paper.html)**]**
 * [ ] Uncertainty-guided Learning for Improving Image Manipulation Detection (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Ji\_Uncertainty-guided\_Learning\_for\_Improving\_Image\_Manipulation\_Detection\_ICCV\_2023\_paper.html)**]**
-* [ ] Controllable Guide-Space for Generalizable Face Forgery Detection (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.14039)**]**
 * [ ] Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.09307)**]** **\[**[**Code**](https://github.com/HighwayWu/FOCAL)**]**
 * [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.00234)**]**
 * [ ] Perceptual MAE for Image Manipulation Localization: A High-level Vision Learner Focusing on Low-level Features (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.06525)**]**
@@ -148,14 +154,28 @@ _Some of the above papers also contain methods to detect tampered images generat
 **图像的拼接篡改检测定位**
 
 <details open>
-<summary>Since 2022</summary>
+<summary>2024</summary>
+
+* [ ] Towards Effective Image Forensics via A Novel Computationally Efficient Framework and A New Image Splice Dataset _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2401.06998)]**
+
+</details>
+
+<details open>
+<summary>2023</summary>
 
 * [ ] GreatSplicing: A Semantically Rich Splicing Dataset _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.10070)]** **[[Dataset](http://www.greatsplicing.net/)]**
+* [ ] Multi-scale attention context-aware network for detection and localization of image splicing: Efficient and robust identification network _(Appl. Intell. 23')_ **[[Paper](https://link.springer.com/article/10.1007/s10489-022-04421-3)]**
 * [ ] A Multi-Stream Fusion Network for Image Splicing Localization _(MMM '23)_ **\[**[**Paper**](https://arxiv.org/abs/2212.01128)**]**
-* [ ] Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces _(arXiv '23)_ **\[**[**Paper**](https://arxiv.org/abs/2211.12314)**]**
+* [ ] Attacking Image Splicing Detection and Localization Algorithms Using Synthetic Traces _(TIFS '23)_ **\[**[**Paper**](https://arxiv.org/abs/2211.12314)**]** **[[IEEE Paper](https://doi.org/10.1109/TIFS.2023.3346312)]**
 * [ ] Biomedical Image Splicing Detection using Uncertainty-Guided Refinement _(arXiv '23)_ **\[**[**Paper**](https://arxiv.org/abs/2309.16388)**]**
 * [ ] A New Method to Detect Splicing Image Forgery Using Convolutional Neural Network (_Applied Science (IF: 2.8, not included in CCFs), MDPI, '23_) **\[**[**Paper**](https://www.mdpi.com/2076-3417/13/3/1272)**]**
 * [ ] Multi-scale Target-Aware Framework for Constrained Image Splicing Detection and Localization (_MM '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.09357)**]**
+
+</details>
+
+<details open>
+<summary>2022</summary>
+
 * [x] [Multi-Task SE-Network for Image Splicing Localization](image-splicing/multi-task-se-network.md) (_TCSVT '22_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9591639)**]** **\[**[**Code**](https://github.com/YulansZhang/Multi-task-SE-Network-for-Image-Splicing-Localization)**]**
 * [x] [ET: Edge-Enhanced Transformer for Image Splicing Detection](image-splicing/et.md) (_SPL '22_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9769936)**]**
 * [x] [Image splicing forgery detection by combining synthetic adversarial networks and hybrid dense U-net based on multiple spaces](image-splicing/san-and-hdu-net.md) (_IJIS '22_) **\[**[**Paper**](https://doi.org/10.1002/int.22939)**]** **\[**[**Code**](https://github.com/yelusaleng/SAN\_and\_HDU-Net)**]**
@@ -217,6 +237,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 * [ ] Improving Fairness in Deepfake Detection _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2306.16635)]** **[[Code](https://github.com/littlejuyan/DF_Fairness)]**
 * [ ] Weakly-Supervised Deepfake Localization in Diffusion-Generated Images _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2311.04584)]** **[[Code](https://github.com/bit-ml/dolos)]**
+* [ ] Controllable Guide-Space for Generalizable Face Forgery Detection (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.14039)**]**
 * [ ] RAIRNet: Region-Aware Identity Rectification for Face Forgery Detection _(MM '23)_ **[[Paper](https://dl.acm.org/doi/10.1145/3581783.3612321)]**
 * [ ] Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.08448)**]** **\[**[**Code**](https://github.com/EnVision-Research/Selective-Diffusion-Distillation)**]**
 * [ ] Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (_TIP '23_) **\[**[**Paper**](https://doi.org/10.1109/TIP.2023.3246793)**]** **\[**[**Code**](https://github.com/Jae35/IFFD)**]**
@@ -237,6 +258,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] An effective image copy-move forgery detection using entropy image _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2312.11793)]**
 * [ ] CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.13263)]**
 * [ ] An approach for copy-move image multiple forgery detection based on an optimized pre-trained deep learning model _(KBS '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705123002587)]**
 * [ ] Image Copy-Move Forgery Detection via Deep Cross-Scale PatchMatch (_ICME '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.04188)**]**
