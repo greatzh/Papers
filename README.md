@@ -43,17 +43,17 @@ description: >-
 <details open>
 <summary>2024</summary>
 
-* [ ] ![ConfnPubs](https://img.shields.io/badge/MMM-'24-73d13d.svg) Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
-* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) A New Benchmark and Model for Challenging Image Manipulation Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14218)
-* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)
-* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) Learning Discriminative Noise Guidance for Image Forgery Detection and Localization 
-* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) CatmullRom Splines-Based Regression for Image Forgery Localization 
-* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization 
-* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods 
-* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
-* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization 
-* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) IML-ViT: Image Manipulation Localization by Vision Transformer [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14863) [![GitHub](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=flat)](https://github.com/SunnyHaze/IML-ViT)
-* [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13006)
+* [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization _(MMM '24)_  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
+* [ ] A New Benchmark and Model for Challenging Image Manipulation Detection _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14218)
+* [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)
+* [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_ 
+* [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_ 
+* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_  
+* [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods _(CVPR '24)_  
+* [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(CVPR '24)_   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
+* [ ] DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization _(CVPR '24)_ 
+* [ ] IML-ViT: Image Manipulation Localization by Vision Transformer _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14863) [![GitHub](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=flat)](https://github.com/SunnyHaze/IML-ViT)
+* [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data _(arXiv '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13006)
 
 </details>
 
