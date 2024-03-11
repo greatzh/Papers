@@ -43,10 +43,16 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization _(MMM '24)_ **[[Paper](http://arxiv.org/abs/2312.01790)]** **[[Code](https://github.com/idt-iti/mmfusion-iml)]**
+* [ ] A New Benchmark and Model for Challenging Image Manipulation Detection _(AAAI '24)_ **[[Paper](https://arxiv.org/abs/2311.14218)]**
+* [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ **[[News_ZH](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)]**
+* [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_
+* [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_
 * [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_ 
 * [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods _(CVPR '24)_ 
 * [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2312.08883)]** **[[Code](https://github.com/xuanyuzhang21/EditGuard)]**
 * [ ] DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization _(CVPR '24)_
+* [ ] IML-ViT: Image Manipulation Localization by Vision Transformer (_AAAI '24_) **\[**[**Paper**](https://arxiv.org/abs/2307.14863)**]** **\[**[**Code**](https://github.com/SunnyHaze/IML-ViT)**]**
 * [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2401.13006)]**
 
 </details>
@@ -75,7 +81,6 @@ description: >-
 * [ ] [Edge-aware Regional Message Passing Controller for Image Forgery Localization](image-forgery/2023/ermpc.md) (_CVPR '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li\_Edge-Aware\_Regional\_Message\_Passing\_Controller\_for\_Image\_Forgery\_Localization\_CVPR\_2023\_paper.pdf)**]** **\[**[**Video**](https://youtu.be/2pDR-hOFcQw)**]**
 * [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **\[**[**Paper**](https://arxiv.org/abs/2304.06870)**]** **\[**[**Dataset**](https://github.com/shanface33/autosplice\_dataset)**]**
 * [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.02158v1)**]**
-* [ ] IML-ViT: Image Manipulation Localization by Vision Transformer (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.14863)**]** **\[**[**Code**](https://github.com/SunnyHaze/IML-ViT)**]**
 * [ ] TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.05264)**]** **\[**[**Code**](https://github.com/vimal-isi-edu/TrainFors)**]**
 * [ ] Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou\_Pre-Training-Free\_Image\_Manipulation\_Localization\_through\_Non-Mutually\_Exclusive\_Contrastive\_Learning\_ICCV\_2023\_paper.html)**]** **\[**[**Code**](https://github.com/Knightzjz/NCL-IML)**]**
 * [ ] Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Zhai\_Towards\_Generic\_Image\_Manipulation\_Detection\_with\_Weakly-Supervised\_Self-Consistency\_Learning\_ICCV\_2023\_paper.html)**]** **\[**[**Code**](https://github.com/yhZhai/WSCL)**]** **\[**[**ResearchGate**](https://www.researchgate.net/publication/373686108\_Towards\_Generic\_Image\_Manipulation\_Detection\_with\_Weakly-Supervised\_Self-Consistency\_Learning)**]**
@@ -242,6 +247,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection _(AAAI '24)_ **[[Paper](https://arxiv.org/abs/2403.01786)]** **[[Code](https://github.com/QingyuLiu/Exposing-the-Deception)]**
 * [ ] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking _(CVPR '24)_
 * [ ] Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2311.11278)]**
 * [ ] Poisoned Forgery Face: Towards Backdoor Attacks on Face Forgery Detection _(ICLR '24)_ **[[Paper](https://openreview.net/pdf?id=8iTpB4RNvP)]** **[[Code](https://github.com/JWLiang007/PFF)]**
@@ -250,6 +256,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] Controllable Guide-Space for Generalizable Face Forgery Detection (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.14039)**]**
 * [ ] RAIRNet: Region-Aware Identity Rectification for Face Forgery Detection _(MM '23)_ **[[Paper](https://dl.acm.org/doi/10.1145/3581783.3612321)]**
 * [ ] Not All Steps are Created Equal: Selective Diffusion Distillation for Image Manipulation (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2307.08448)**]** **\[**[**Code**](https://github.com/EnVision-Research/Selective-Diffusion-Distillation)**]**
+* [ ] UCF: Uncovering Common Features for Generalizable Deepfake Detection _(ICCV '23)_ **[[Paper](https://arxiv.org/abs/2304.13949)]**
 * [ ] Learning Patch-Channel Correspondence for Interpretable Face Forgery Detection (_TIP '23_) **\[**[**Paper**](https://doi.org/10.1109/TIP.2023.3246793)**]** **\[**[**Code**](https://github.com/Jae35/IFFD)**]**
 * [ ] Contrastive Multi-FaceForensics: An End-to-end Bi-grained Contrastive Learning Approach for Multi-face Forgery Detection _(arXiv '23')_ **\[**[**Paper**](https://arxiv.org/abs/2308.01520v1)**]**
 * [ ] Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection _(arXiv '23')_ **\[**[**Paper**](https://arxiv.org/abs/2302.10437)**]**
@@ -339,6 +346,9 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 
 **目标检测**，包括伪装物体目标检测和突出目标检测，COD以及SOD。
 
+* [ ] HEAP: Unsupervised Object Discovery and Localization with Contrastive Grouping *(AAAI '24)* **[[Paper](https://arxiv.org/abs/2312.17492)]**
+* [ ] Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection _(CVPR '24)_
+* [ ] VSCode: General Visual Salient and Camouflaged Object Detection with 2D Prompt Learning _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2311.15011)]**
 * [ ] Weakly Supervised Open-Vocabulary Object Detection _(AAAI '24)_ **[[Paper](https://arxiv.org/abs/2312.12437)]**
 * [ ] OTA: Optimal Transport Assignment for Object Detection (_CVPR '21_) **\[**[**Paper**](https://arxiv.org/abs/2103.14259)**]** **\[**[**Code**](https://github.com/Megvii-BaseDetection/OTA)**]**
 * [ ] Consistency-basd Active Learning for Object Detection (_CVPRW '22_) **\[**[**Paper**](http://128.84.21.203/abs/2103.10374)**]** **\[**[**Code**](https://github.com/we1pingyu/CALD)**]**
@@ -375,8 +385,6 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 4. MM 2023 Proceedings <https://dl.acm.org/doi/proceedings/10.1145/3581783>
 5. ICML 2023 https://dblp.org/db/conf/icml/icml2023.html
 6. ICCV 2023 Paper List <https://huggingface.co/spaces/ICCV2023/ICCV2023-papers>
-7. CVPR 2023 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers>
-8. CVPR 2023 Workshops <https://openaccess.thecvf.com/CVPR2023\_workshops/menu>
 9. IJCAI 2023 Accepted Papers List <https://ijcai-23.org/main-track-accepted-papers/>
 10. AAAI 2023 <https://dblp.org/db/conf/aaai/aaai2023.html>
 11. ECCV 2022 Accepted papers <https://eccv2022.ecva.net/program/accepted-papers/>

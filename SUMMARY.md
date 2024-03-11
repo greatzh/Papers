@@ -23,6 +23,8 @@
 
 ## Image Forgery
 
+* [2024](image-forgery/2024/README.md)
+  
 * [2023](image-forgery/2023/README.md)
   * [HIFI_IFDL](image-forgery/2023/hifi_ifdl.md)
   * [ReLoC](image-forgery/2023/reloc.md)
