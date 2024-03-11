@@ -43,17 +43,17 @@ description: >-
 <details open>
 <summary>2024</summary>
 
-* [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization _(MMM '24)_ **[[Paper](http://arxiv.org/abs/2312.01790)]** **[[Code](https://github.com/idt-iti/mmfusion-iml)]**
-* [ ] A New Benchmark and Model for Challenging Image Manipulation Detection _(AAAI '24)_ **[[Paper](https://arxiv.org/abs/2311.14218)]**
-* [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ **[[News_ZH](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)]**
-* [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_
-* [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_
-* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_ 
-* [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods _(CVPR '24)_ 
-* [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2312.08883)]** **[[Code](https://github.com/xuanyuzhang21/EditGuard)]**
-* [ ] DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization _(CVPR '24)_
-* [ ] IML-ViT: Image Manipulation Localization by Vision Transformer (_AAAI '24_) **\[**[**Paper**](https://arxiv.org/abs/2307.14863)**]** **\[**[**Code**](https://github.com/SunnyHaze/IML-ViT)**]**
-* [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2401.13006)]**
+* [ ] ![ConfnPubs](https://img.shields.io/badge/MMM-'24-73d13d.svg) Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
+* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) A New Benchmark and Model for Challenging Image Manipulation Detection [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14218)
+* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)
+* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) Learning Discriminative Noise Guidance for Image Forgery Detection and Localization 
+* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) CatmullRom Splines-Based Regression for Image Forgery Localization 
+* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization 
+* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods 
+* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
+* [ ] ![ConfnPubs](https://img.shields.io/badge/CVPR-'24-ff4d4f.svg) DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization 
+* [ ] ![ConfnPubs](https://img.shields.io/badge/AAAI-'24-ff4d4f.svg) IML-ViT: Image Manipulation Localization by Vision Transformer [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14863) [![GitHub](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=flat)](https://github.com/SunnyHaze/IML-ViT)
+* [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13006)
 
 </details>
 
@@ -134,12 +134,12 @@ description: >-
 <summary>2020 and before</summary>
 
 * [ ] A Full-Image Full-Resolution End-to-EndTrainable CNN Framework for Image Forgery Detection (_IEEE Access '20_) \*\*\[[Paper](./)]
-* [ ] Constrained R-CNN: A general image manipulation detection model (_ICME '20_) **\[**[**Paper**](https://arxiv.org/abs/1911.08217)**]** **\[**[**Code**](https://github.com/VedantWani/Constrained-R-CNN)**]**
+* [ ]  ![ConfnPubs](https://img.shields.io/badge/ICME-'20-ffc53d.svg)Constrained R-CNN: A general image manipulation detection model **\[**[**Paper**](https://arxiv.org/abs/1911.08217)**]** **\[**[**Code**](https://github.com/VedantWani/Constrained-R-CNN)**]**
 * [ ] A CNNBased Camera Model Fingerprint (_TIFS '20_) \*\*\[[Paper](./)]
 * [ ] An Adaptive Neural Network for Unsupervised Mosaic Consistency Analysis in Image Forensics (_CVPR '20_) **\[**[**Paper**](http://openaccess.thecvf.com/content\_CVPR\_2020/html/Bammey\_An\_Adaptive\_Neural\_Network\_for\_Unsupervised\_Mosaic\_Consistency\_Analysis\_in\_CVPR\_2020\_paper.html)**]** **\[**[**Code**](https://github.com/qbammey/adaptive\_cfa\_forensics)**]**
 * [ ] A dense u-net with cross-layer intersection for detection and localization of image forgery (_ICASSP '20_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9054068)**]** **\[**[**Note\_unofficial**](https://blog.csdn.net/weixin\_45366180/article/details/128413821)**]**
 * [x] [Generate, Segment, and Refine: Towards Generic Manipulation Segmentation](image-forgery/2020/gsrnet.md) (_AAAI '20_) **\[**[**Paper**](https://arxiv.org/abs/1811.09729)**]** **\[**[**Code**](https://github.com/pengzhou1108/GSRNet)**]** (_GSRNet_)
-* [ ] SPAN: Spatial Pyramid Attention Network for Image Manipulation Localization (_ECCV '20_) **\[**[**Paper**](https://www.ecva.net/papers/eccv\_2020/papers\_ECCV/papers/123660307.pdf)**]** **\[**[**Project**](http://media.ee.ntu.edu.tw/research/SPAN/)**]** **\[**[**Code**](https://github.com/tsaishien-chen/SPAN)**]**
+* [ ] SPAN: Spatial Pyramid Attention Network for Image Manipulation Localization (_ECCV '20_) **\[**[**Paper**](https://www.ecva.net/papers/eccv\_2020/papers\_ECCV/papers/123660307.pdf)**]** **\[**[**Code**](https://github.com/tsaishien-chen/SPAN)**]**  [![GitHub Page](https://img.shields.io/badge/Project-Page-159957.svg)](http://media.ee.ntu.edu.tw/research/SPAN/) 
 * [ ] [Hybrid LSTM and Encoder-Decoder Architecture for Detection of Image Forgeries](image-forgery/2019/hled.md) (_TIP '19_) **\[**[**Paper**](https://arxiv.org/abs/1903.02495)**]** **\[**[**Code**](https://github.com/jawadbappy/forgery\_localization\_HLED)**]**
 * [ ] ManTra-Net: Manipulation Tracing Network for Detection and Localization of Image Forgeries With Anomalous Features (_CVPR '19_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/8953774)**]** **\[**[**Code**](https://github.com/ISICV/ManTraNet)**]**
 
