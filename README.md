@@ -43,11 +43,16 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] PROMPT-IML: Image Manipulation Localization with Pre-trained Foundation Models Through Prompt Tuning _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2401.00653)
+* [ ] Diffusion models meet image counter-forensics _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2311.13629)]** **[[Code](https://github.com/mtailanian/diff-cf)]**
+* [ ] Research about the Ability of LLM in the Tamper-Detection Area _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2401.13504)
+* [ ] Deep Image Composition Meets Image Forgery _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2404.02897) **[[Code](https://github.com/99eren99/DIS25k)]**
+* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis **[[Paper](https://arxiv.org/abs/2403.12229)]**
 * [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization _(MMM '24)_  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
 * [ ] A New Benchmark and Model for Challenging Image Manipulation Detection _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14218)
-* [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)
-* [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_ 
-* [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_ 
+* [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm) **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28520)]**
+* [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28608)]**
+* [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28548)]**
 * [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_  
 * [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods _(CVPR '24)_  
 * [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(CVPR '24)_   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
@@ -60,7 +65,8 @@ description: >-
 <details open>
 <summary>2023</summary>
 
-* [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries _(IMAGE '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S092359652300111X)]** **[[Code](https://github.com/znshi/PL-GNet)]**
+* [ ] A survey on deep learning-based image forgery detection _(PR '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323004764)]**
+* [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries _(IMAGE '23)_  [![paper](https://img.shields.io/badge/ScienceDirect-ff6a5a.svg)](https://www.sciencedirect.com/science/article/pii/S092359652300111X) [![GitHub](https://img.shields.io/github/stars/znshi/PL-GNet?style=flat)](https://github.com/znshi/PL-GNet)
 * [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.00234)]**
 * [ ] Progressive Feedback-Enhanced Transformer for Image Forgery Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.08910)]** **[[Code(N/A)](https://github.com/multimediaFor/ProFact)]**
 * [ ] Secondary Labeling  A Novel Labeling Strategy for Image Manipulation Detection _(MM '23)_ **[[Paper](https://doi.org/10.1145/3581783.3613839)]**
@@ -168,6 +174,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 <details open>
 <summary>2024</summary>
 
+* [ ] Feature Aggregation and Region-Aware Learning for Detection of Splicing Forgery _(SPL '24)_ **[[Paper](https://ieeexplore.ieee.org/abstract/document/10378732/)]**
 * [ ] Towards Effective Image Forensics via A Novel Computationally Efficient Framework and A New Image Splice Dataset _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2401.06998)]**
 
 </details>
@@ -247,6 +254,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] MCS-GAN: A Different Understanding for Generalization of Deep Forgery Detection (_TMM '23_) **[[Paper](https://ieeexplore.ieee.org/document/10141892)]**
 * [ ] Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection _(AAAI '24)_ **[[Paper](https://arxiv.org/abs/2403.01786)]** **[[Code](https://github.com/QingyuLiu/Exposing-the-Deception)]**
 * [ ] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking _(CVPR '24)_
 * [ ] Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2311.11278)]**
@@ -275,6 +283,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] Object-level Copy-Move Forgery Image Detection based on Inconsistency Mining (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2404.00611)]**
+* [ ] UCM-Net: A U-Net-Like Tampered-Region-Related Framework for Copy-Move Forgery Detection (_TMM '24_) **[[Paper](https://ieeexplore.ieee.org/document/10109179)]** 
 * [ ] An effective image copy-move forgery detection using entropy image _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2312.11793)]**
 * [ ] CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.13263)]**
 * [ ] An approach for copy-move image multiple forgery detection based on an optimized pre-trained deep learning model _(KBS '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0950705123002587)]**
