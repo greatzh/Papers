@@ -4,6 +4,7 @@ description: >-
   localization
 ---
 
+
 # 😀 Overview
 
 > Newly added papers will be organized at the top of every category now.
@@ -43,17 +44,19 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] Effective Image Tampering Localization via Enhanced Transformer and Co-attention Fusion _(ICASSP '24)_ **[[Paper](https://arxiv.org/abs/2309.09306)]**  [![GitHub](https://img.shields.io/github/stars/multimediaFor/EITLNet?style=flat)](https://github.com/multimediaFor/EITLNet)
 * [ ] PROMPT-IML: Image Manipulation Localization with Pre-trained Foundation Models Through Prompt Tuning _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2401.00653)
 * [ ] Diffusion models meet image counter-forensics _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2311.13629)]** **[[Code](https://github.com/mtailanian/diff-cf)]**
 * [ ] Research about the Ability of LLM in the Tamper-Detection Area _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2401.13504)
+* [ ] Deep Image Restoration For Image Anti-Forensics _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2405.02751) **[[Code](https://github.com/99eren99/DIRFIAF)]**
 * [ ] Deep Image Composition Meets Image Forgery _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2404.02897) **[[Code](https://github.com/99eren99/DIS25k)]**
-* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis **[[Paper](https://arxiv.org/abs/2403.12229)]**
+* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2403.12229)]**
 * [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization _(MMM '24)_  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
-* [ ] A New Benchmark and Model for Challenging Image Manipulation Detection _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14218)
+* [ ] A New Benchmark and Model for Challenging Image Manipulation Detection _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14218) [![GitHub](https://img.shields.io/github/stars/ZhenfeiZ/CIMD?style=flat)](https://github.com/ZhenfeiZ/CIMD)
 * [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm) **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28520)]**
 * [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28608)]**
 * [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28548)]**
-* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_  
+* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_  **[[Abstract](https://cvpr2023.thecvf.com/virtual/2024/poster/29281)]**
 * [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods _(CVPR '24)_  
 * [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(CVPR '24)_   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
 * [ ] DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization _(CVPR '24)_ 
@@ -65,10 +68,11 @@ description: >-
 <details open>
 <summary>2023</summary>
 
+* [ ] Improving CoatNet for Spatial and JPEG Domain Steganalysis (_ICME '23_) **[[Paper](https://ieeexplore.ieee.org/abstract/document/10219598/)]**
 * [ ] A survey on deep learning-based image forgery detection _(PR '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323004764)]**
 * [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries _(IMAGE '23)_  [![paper](https://img.shields.io/badge/ScienceDirect-ff6a5a.svg)](https://www.sciencedirect.com/science/article/pii/S092359652300111X) [![GitHub](https://img.shields.io/github/stars/znshi/PL-GNet?style=flat)](https://github.com/znshi/PL-GNet)
 * [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.00234)]**
-* [ ] Progressive Feedback-Enhanced Transformer for Image Forgery Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.08910)]** **[[Code(N/A)](https://github.com/multimediaFor/ProFact)]**
+* [ ] Progressive Feedback-Enhanced Transformer for Image Forgery Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.08910)]** **[[Code](https://github.com/multimediaFor/ProFact)]**
 * [ ] Secondary Labeling  A Novel Labeling Strategy for Image Manipulation Detection _(MM '23)_ **[[Paper](https://doi.org/10.1145/3581783.3613839)]**
 * [ ] GP-Net: Image Manipulation Detection and Localization via Long-Range Modeling and Transformers (_Appl. Sci.  (IF: 2.8, not included in CCFs), MDPI, '23_) **\[[Paper](https://www.mdpi.com/2076-3417/13/21/12053)]**
 * [ ] DS-Net: Dual supervision neural network for image manipulation localization _(IET-IPR '23)_ **[[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/ipr2.12885)]**
@@ -121,6 +125,7 @@ description: >-
 * [ ] [TBNet: A Two-stream Boundary-aware Network for Generic Image Manipulation Localization](image-forgery/2022/tbanet.md) (_KDE '22_) **\[**[**Paper**](https://arxiv.org/abs/2108.04508)**]**
 * [ ] [Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization](image-forgery/2022/catnetv2.md) (_IJCV '22_) **\[**[**Paper**](https://arxiv.org/abs/2108.12947)**]** **\[**[**Code**](https://github.com/mjkwon2021/CAT-Net)**]**
 * [ ] Fighting Malicious Media Data: A Survey on Tampering Detection and Deepfake Detection (_arXiv '22_) (**Survey**) **\[**[**Paper**](https://arxiv.org/abs/2212.05667)**]**
+* [ ] Generic Image Manipulation Localization through the Lens of Multi-scale Spatial Inconsistence _(MM '22)_ **[[Paper](http://dl.acm.org/citation.cfm?id=3548100)]**
 
 </details>
 
@@ -174,8 +179,11 @@ _Some of the above papers also contain methods to detect tampered images generat
 <details open>
 <summary>2024</summary>
 
+* [ ] DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention (_arXiv '24_) **[[Paper](http://arxiv.org/abs/2406.01489)]**
+* [ ] Research on Splicing Image Detection Algorithms Based on Natural Image Statistical Characteristics (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2404.16296)]**
+* [ ] A Visually Attentive Splice Localization Network with Multi-Domain Feature Extractor and Multi-Receptive Field Upsampler
 * [ ] Feature Aggregation and Region-Aware Learning for Detection of Splicing Forgery _(SPL '24)_ **[[Paper](https://ieeexplore.ieee.org/abstract/document/10378732/)]**
-* [ ] Towards Effective Image Forensics via A Novel Computationally Efficient Framework and A New Image Splice Dataset _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2401.06998)]**
+* [ ] Towards Effective Image Forensics via A Novel Computationally Efficient Framework and A New Image Splice Dataset _( Signal, Image and Video Processing (IF: 2.3, not included in CCFs), '24 )_ **[[Paper](https://arxiv.org/abs/2401.06998)]**
 
 </details>
 
@@ -283,7 +291,9 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
-* [ ] Object-level Copy-Move Forgery Image Detection based on Inconsistency Mining (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2404.00611)]**
+* [ ] Image Copy-Move Forgery Detection and Localization Scheme: How to Avoid Missed Detection and False Alarm *(arXiv '24)* **[[Paper](https://arxiv.org/abs/2406.03271v1)]** **[[Code](https://github.com/LUZW1998/CMFDL)]**
+* [ ] Image Copy-Move Forgery Detection via Deep PatchMatch and Pairwise Ranking Learning *(arXiv '24)* **[[Paper](https://arxiv.org/abs/2404.17310)]**
+* [ ] Object-level Copy-Move Forgery Image Detection based on Inconsistency Mining (_WWW '24_) **[[Paper](https://arxiv.org/abs/2404.00611)]**
 * [ ] UCM-Net: A U-Net-Like Tampered-Region-Related Framework for Copy-Move Forgery Detection (_TMM '24_) **[[Paper](https://ieeexplore.ieee.org/document/10109179)]** 
 * [ ] An effective image copy-move forgery detection using entropy image _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2312.11793)]**
 * [ ] CMFDFormer: Transformer-based Copy-Move Forgery Detection with Continual Learning _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.13263)]**
@@ -389,17 +399,17 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 
 ### Useful Links
 
-1. CVPR 2024 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2024/AcceptedPapers>
-2. ICLR 2024 Papers List <https://openreview.net/group?id=ICLR.cc/2024/Conference>
-3. WACV 2024 Papers <https://openaccess.thecvf.com/WACV2024>
-4. MM 2023 Proceedings <https://dl.acm.org/doi/proceedings/10.1145/3581783>
-5. ICML 2023 https://dblp.org/db/conf/icml/icml2023.html
-6. ICCV 2023 Paper List <https://huggingface.co/spaces/ICCV2023/ICCV2023-papers>
-9. IJCAI 2023 Accepted Papers List <https://ijcai-23.org/main-track-accepted-papers/>
-10. AAAI 2023 <https://dblp.org/db/conf/aaai/aaai2023.html>
-11. ECCV 2022 Accepted papers <https://eccv2022.ecva.net/program/accepted-papers/>
-12. SIGGRAPH _unofficial_ <https://kesen.realtimerendering.com/> eg SIGGRAPH 2023 <https://kesen.realtimerendering.com/sig2023.html>
-13. TIFS <https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206>
-14. [More...](related/papersource.md)
+1. IJCAI 2024 Main Track Accepted Papers <https://ijcai24.org/main-track-accepted-papers/>
+2. CVPR 2024 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2024/AcceptedPapers>
+3. ICLR 2024 Papers List <https://openreview.net/group?id=ICLR.cc/2024/Conference>
+4. WACV 2024 Papers <https://openaccess.thecvf.com/WACV2024>
+5. MM 2023 Proceedings <https://dl.acm.org/doi/proceedings/10.1145/3581783>
+6. ICML 2023 https://dblp.org/db/conf/icml/icml2023.html
+7. ICCV 2023 Paper List <https://huggingface.co/spaces/ICCV2023/ICCV2023-papers>
+8. AAAI 2023 <https://dblp.org/db/conf/aaai/aaai2023.html>
+9. ECCV 2022 Accepted papers <https://eccv2022.ecva.net/program/accepted-papers/>
+10. SIGGRAPH _unofficial_ <https://kesen.realtimerendering.com/> eg SIGGRAPH 2023 <https://kesen.realtimerendering.com/sig2023.html>
+11. TIFS <https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206>
+12. [More...](related/papersource.md)
 
 ### [Back to Home](https://zihol.gitbook.io/)
