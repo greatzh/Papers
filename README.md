@@ -44,6 +44,9 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] EC-Net: General image tampering localization network based on edge distribution guidance and contrastive learning (_KBS '24_) **[[Paper](https://doi.org/10.1016/j.knosys.2024.111656)]**
+* [ ] Frequency-constrained transferable adversarial attack on image manipulation detection and localization (_TVC '24_) **[[Paper](https://link.springer.com/article/10.1007/s00371-024-03482-4)]**
+* [ ] A Contribution-Aware Noise Feature representation model for image manipulation localization (_KBS '24_) **[[Paper](https://doi.org/10.1016/j.knosys.2024.111988)]**
 * [ ] Effective Image Tampering Localization via Enhanced Transformer and Co-attention Fusion _(ICASSP '24)_ **[[Paper](https://arxiv.org/abs/2309.09306)]**  [![GitHub](https://img.shields.io/github/stars/multimediaFor/EITLNet?style=flat)](https://github.com/multimediaFor/EITLNet)
 * [ ] PROMPT-IML: Image Manipulation Localization with Pre-trained Foundation Models Through Prompt Tuning _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2401.00653)
 * [ ] Diffusion models meet image counter-forensics _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2311.13629)]** **[[Code](https://github.com/mtailanian/diff-cf)]**
@@ -56,7 +59,7 @@ description: >-
 * [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm) **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28520)]**
 * [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28608)]**
 * [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28548)]**
-* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_  **[[Abstract](https://cvpr2023.thecvf.com/virtual/2024/poster/29281)]**
+* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_  **[[Abstract](https://cvpr2023.thecvf.com/virtual/2024/poster/29281)]** **[[Paper](https://jianweiguo.net/publications/papers/2024-CVPR-unionformer.pdf)]**
 * [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods _(CVPR '24)_  
 * [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(CVPR '24)_   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
 * [ ] DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization _(CVPR '24)_ 
@@ -68,6 +71,7 @@ description: >-
 <details open>
 <summary>2023</summary>
 
+* [ ] Image Manipulation Detection Based on Ringed Residual Edge Artifact Enhancement and Multiple Attention Mechanisms (_PRCV '23_) **[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8543-2_30)]**
 * [ ] Improving CoatNet for Spatial and JPEG Domain Steganalysis (_ICME '23_) **[[Paper](https://ieeexplore.ieee.org/abstract/document/10219598/)]**
 * [ ] A survey on deep learning-based image forgery detection _(PR '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323004764)]**
 * [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries _(IMAGE '23)_  [![paper](https://img.shields.io/badge/ScienceDirect-ff6a5a.svg)](https://www.sciencedirect.com/science/article/pii/S092359652300111X) [![GitHub](https://img.shields.io/github/stars/znshi/PL-GNet?style=flat)](https://github.com/znshi/PL-GNet)
@@ -179,6 +183,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 <details open>
 <summary>2024</summary>
 
+* [ ] UGEE-Net: Uncertainty-Guided and Edge-Enhanced Network for Image Splicing Localization (_Neural Networks '24_) **[[Paper](  https://doi.org/10.1016/j.neunet.2024.106430)]** **[[Dataset](https://github.com/QixianHao/-HTSI12K-dataset)]**
 * [ ] DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention (_arXiv '24_) **[[Paper](http://arxiv.org/abs/2406.01489)]**
 * [ ] Research on Splicing Image Detection Algorithms Based on Natural Image Statistical Characteristics (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2404.16296)]**
 * [ ] A Visually Attentive Splice Localization Network with Multi-Domain Feature Extractor and Multi-Receptive Field Upsampler
@@ -291,6 +296,10 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] Robust Image Hashing via CP Decomposition and DCT for Copy Detection (_TOMM '24_) **[[Paper](https://dl.acm.org/doi/full/10.1145/3650112)]**
+* [ ] Lightweight and High-Precision Network for Image Copy-Move Forgery Detection (_SPL '24_) **[[Paper](https://doi.org/10.1109/LSP.2024.3400055)]**
+* [ ] Advancing Copy-Move Manipulation Detection in Complex Image Scenarios Through Multiscale Detector (_IEEE Access ‘24_) **[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10521517)]**
+* [ ] Cascaded Adaptive Graph Representation Learning for Image Copy-Move Forgery Detection (_TOMM '24_) **[[Paper](https://dl.acm.org/doi/abs/10.1145/3669905)]**
 * [ ] Image Copy-Move Forgery Detection and Localization Scheme: How to Avoid Missed Detection and False Alarm *(arXiv '24)* **[[Paper](https://arxiv.org/abs/2406.03271v1)]** **[[Code](https://github.com/LUZW1998/CMFDL)]**
 * [ ] Image Copy-Move Forgery Detection via Deep PatchMatch and Pairwise Ranking Learning *(arXiv '24)* **[[Paper](https://arxiv.org/abs/2404.17310)]**
 * [ ] Object-level Copy-Move Forgery Image Detection based on Inconsistency Mining (_WWW '24_) **[[Paper](https://arxiv.org/abs/2404.00611)]**
