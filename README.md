@@ -7,6 +7,8 @@ description: >-
 
 # 😀 Overview
 
+> [ccf-rankings](https://www.ccf.org.cn/en/About_CCF/Media_Center/) now marked with different colors(![arXiv](https://img.shields.io/badge/CCF_A-dc3545)![Static Badge](https://img.shields.io/badge/CCF_B-ffc107)![Static Badge](https://img.shields.io/badge/CCF_C-28a745)![Static Badge](https://img.shields.io/badge/CCF_None-6c757d))[^1]
+>
 > Newly added papers will be organized at the top of every category now.
 
 ### Related
@@ -44,27 +46,32 @@ description: >-
 <details open>
 <summary>2024</summary>
 
-* [ ] EC-Net: General image tampering localization network based on edge distribution guidance and contrastive learning (_KBS '24_) **[[Paper](https://doi.org/10.1016/j.knosys.2024.111656)]**
-* [ ] Frequency-constrained transferable adversarial attack on image manipulation detection and localization (_TVC '24_) **[[Paper](https://link.springer.com/article/10.1007/s00371-024-03482-4)]**
-* [ ] A Contribution-Aware Noise Feature representation model for image manipulation localization (_KBS '24_) **[[Paper](https://doi.org/10.1016/j.knosys.2024.111988)]**
-* [ ] Effective Image Tampering Localization via Enhanced Transformer and Co-attention Fusion _(ICASSP '24)_ **[[Paper](https://arxiv.org/abs/2309.09306)]**  [![GitHub](https://img.shields.io/github/stars/multimediaFor/EITLNet?style=flat)](https://github.com/multimediaFor/EITLNet)
-* [ ] PROMPT-IML: Image Manipulation Localization with Pre-trained Foundation Models Through Prompt Tuning _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2401.00653)
-* [ ] Diffusion models meet image counter-forensics _(WACV '24)_ **[[Paper](https://arxiv.org/abs/2311.13629)]** **[[Code](https://github.com/mtailanian/diff-cf)]**
-* [ ] Research about the Ability of LLM in the Tamper-Detection Area _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2401.13504)
-* [ ] Deep Image Restoration For Image Anti-Forensics _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2405.02751) **[[Code](https://github.com/99eren99/DIRFIAF)]**
-* [ ] Deep Image Composition Meets Image Forgery _(arXiv '24)_ [**[Paper]**](https://arxiv.org/abs/2404.02897) **[[Code](https://github.com/99eren99/DIS25k)]**
-* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2403.12229)]**
-* [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization _(MMM '24)_  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
-* [ ] A New Benchmark and Model for Challenging Image Manipulation Detection _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.14218) [![GitHub](https://img.shields.io/github/stars/ZhenfeiZ/CIMD?style=flat)](https://github.com/ZhenfeiZ/CIMD)
-* [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm) **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28520)]**
-* [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28608)]**
-* [ ] CatmullRom Splines-Based Regression for Image Forgery Localization _(AAAI '24)_ **[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28548)]**
-* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization _(CVPR '24)_  **[[Abstract](https://cvpr2023.thecvf.com/virtual/2024/poster/29281)]** **[[Paper](https://jianweiguo.net/publications/papers/2024-CVPR-unionformer.pdf)]**
-* [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods _(CVPR '24)_  
-* [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection _(CVPR '24)_   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
-* [ ] DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization _(CVPR '24)_ 
-* [ ] IML-ViT: Image Manipulation Localization by Vision Transformer _(AAAI '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14863) [![GitHub](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=flat)](https://github.com/SunnyHaze/IML-ViT)
-* [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data _(arXiv '24)_ [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.13006)
+* [ ] Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.13565) [![GitHub](https://img.shields.io/github/stars/multimediaFor/MPC?style=flat)](https://github.com/multimediaFor/MPC)
+* [ ] GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.16531) [![GitHub](https://img.shields.io/github/stars/chenyirui/GIM?style=flat)](https://github.com/chenyirui/GIM)
+* [ ] IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.10580) [![GitHub](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=flat)](https://github.com/scu-zjz/IMDLBenCo)
+* [ ] DH-GAN: Image manipulation localization via a dual homology-aware generative adversarial network [![Static Badge](https://img.shields.io/badge/PR_'24-ffc107)](https://doi.org/10.1016/j.patcog.2024.110658)
+* [ ] DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2406.01489)
+* [ ] EC-Net: General image tampering localization network based on edge distribution guidance and contrastive learning [![Static Badge](https://img.shields.io/badge/KBS_'24-28a745)](https://doi.org/10.1016/j.knosys.2024.111656)
+* [ ] Frequency-constrained transferable adversarial attack on image manipulation detection and localization [![Static Badge](https://img.shields.io/badge/TVC_'24-28a745)](https://link.springer.com/article/10.1007/s00371-024-03482-4)
+* [ ] A Contribution-Aware Noise Feature representation model for image manipulation localization [![Static Badge](https://img.shields.io/badge/KBS_'24-28a745)](https://doi.org/10.1016/j.knosys.2024.111988)
+* [ ] Effective Image Tampering Localization via Enhanced Transformer and Co-attention Fusion [![Static Badge](https://img.shields.io/badge/ICASSP_'24-ffc107)](https://arxiv.org/abs/2309.09306) [![GitHub](https://img.shields.io/github/stars/multimediaFor/EITLNet?style=flat)](https://github.com/multimediaFor/EITLNet)
+* [ ] PROMPT-IML: Image Manipulation Localization with Pre-trained Foundation Models Through Prompt Tuning [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2401.00653)
+* [ ] Diffusion models meet image counter-forensics [![Static Badge](https://img.shields.io/badge/WACV_'24-ffc107)](https://arxiv.org/abs/2311.13629) [![GitHub](https://img.shields.io/github/stars/mtailanian/diff-cf?style=flat)](https://github.com/mtailanian/diff-cf)
+* [ ] Research about the Ability of LLM in the Tamper-Detection Area [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2401.13504)
+* [ ] Deep Image Restoration For Image Anti-Forensics [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2405.02751) [![GitHub](https://img.shields.io/github/stars/99eren99/DIRFIAF?style=flat)](https://github.com/99eren99/DIRFIAF)
+* [ ] Deep Image Composition Meets Image Forgery [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2404.02897) [![GitHub](https://img.shields.io/github/stars/99eren99/DIS25k?style=flat)](https://github.com/99eren99/DIS25k)
+* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2403.12229)
+* [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization [![arXiv](https://img.shields.io/badge/MMM_'24-28a745)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
+* [ ] A New Benchmark and Model for Challenging Image Manipulation Detection [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://arxiv.org/abs/2311.14218) [![GitHub](https://img.shields.io/github/stars/ZhenfeiZ/CIMD?style=flat)](https://github.com/ZhenfeiZ/CIMD)
+* [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://ojs.aaai.org/index.php/AAAI/article/view/28520) [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)
+* [ ] Learning Discriminative Noise Guidance for Image Forgery Detection and Localization [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://ojs.aaai.org/index.php/AAAI/article/view/28608)
+* [ ] CatmullRom Splines-Based Regression for Image Forgery Localization [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://ojs.aaai.org/index.php/AAAI/article/view/28548)
+* [ ] UnionFormer: Unified-Learning Transformer with Multi-View Representation for Image Manipulation Detection and Localization [![arXiv](https://img.shields.io/badge/CVPR_'24-dc3545)](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_UnionFormer_Unified-Learning_Transformer_with_Multi-View_Representation_for_Image_Manipulation_Detection_CVPR_2024_paper.pdf)
+* [ ] Towards Modern Image Manipulation Localization: A Large-Scale Dataset and Novel Methods [![arXiv](https://img.shields.io/badge/CVPR_'24-dc3545)](https://openaccess.thecvf.com/content/CVPR2024/papers/Qu_Towards_Modern_Image_Manipulation_Localization_A_Large-Scale_Dataset_and_Novel_CVPR_2024_paper.pdf) [![GitHub](https://img.shields.io/github/stars/qcf-568/MIML?style=flat)](https://github.com/qcf-568/MIML)
+* [ ] EditGuard: Versatile Image Watermarking for Tamper Localization and Copyright Protection [![arXiv](https://img.shields.io/badge/CVPR_'24-dc3545)](https://arxiv.org/abs/2312.08883) [![GitHub](https://img.shields.io/github/stars/xuanyuzhang21/EditGuard?style=flat)](https://github.com/xuanyuzhang21/EditGuard)
+* [ ] DiffForensics: Leveraging Diffusion Prior to Image Forgery Detection and Localization [![arXiv](https://img.shields.io/badge/CVPR_'24-dc3545)](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_DiffForensics_Leveraging_Diffusion_Prior_to_Image_Forgery_Detection_and_Localization_CVPR_2024_paper.pdf)
+* [ ] IML-ViT: Image Manipulation Localization by Vision Transformer [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://arxiv.org/abs/2307.14863) [![GitHub](https://img.shields.io/github/stars/SunnyHaze/IML-ViT?style=flat)](https://github.com/SunnyHaze/IML-ViT)
+* [ ] CIMGEN: Controlled Image Manipulation by Finetuning Pretrained Generative Models on Limited Data [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2401.13006)
 
 </details>
 
@@ -74,7 +81,7 @@ description: >-
 * [ ] Image Manipulation Detection Based on Ringed Residual Edge Artifact Enhancement and Multiple Attention Mechanisms (_PRCV '23_) **[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8543-2_30)]**
 * [ ] Improving CoatNet for Spatial and JPEG Domain Steganalysis (_ICME '23_) **[[Paper](https://ieeexplore.ieee.org/abstract/document/10219598/)]**
 * [ ] A survey on deep learning-based image forgery detection _(PR '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323004764)]**
-* [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries _(IMAGE '23)_  [![paper](https://img.shields.io/badge/ScienceDirect-ff6a5a.svg)](https://www.sciencedirect.com/science/article/pii/S092359652300111X) [![GitHub](https://img.shields.io/github/stars/znshi/PL-GNet?style=flat)](https://github.com/znshi/PL-GNet)
+* [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries [![paper](https://img.shields.io/badge/IMAGE_'23-28a745)](https://www.sciencedirect.com/science/article/pii/S092359652300111X) [![GitHub](https://img.shields.io/github/stars/znshi/PL-GNet?style=flat)](https://github.com/znshi/PL-GNet)
 * [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.00234)]**
 * [ ] Progressive Feedback-Enhanced Transformer for Image Forgery Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.08910)]** **[[Code](https://github.com/multimediaFor/ProFact)]**
 * [ ] Secondary Labeling  A Novel Labeling Strategy for Image Manipulation Detection _(MM '23)_ **[[Paper](https://doi.org/10.1145/3581783.3613839)]**
@@ -183,8 +190,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 <details open>
 <summary>2024</summary>
 
+* [ ] D-Net: A dual-encoder network for image splicing forgery detection and localization [![Static Badge](https://img.shields.io/badge/PR_'24-ffc107)](https://arxiv.org/abs/2012.01821) 
 * [ ] UGEE-Net: Uncertainty-Guided and Edge-Enhanced Network for Image Splicing Localization (_Neural Networks '24_) **[[Paper](  https://doi.org/10.1016/j.neunet.2024.106430)]** **[[Dataset](https://github.com/QixianHao/-HTSI12K-dataset)]**
-* [ ] DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention (_arXiv '24_) **[[Paper](http://arxiv.org/abs/2406.01489)]**
 * [ ] Research on Splicing Image Detection Algorithms Based on Natural Image Statistical Characteristics (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2404.16296)]**
 * [ ] A Visually Attentive Splice Localization Network with Multi-Domain Feature Extractor and Multi-Receptive Field Upsampler
 * [ ] Feature Aggregation and Region-Aware Learning for Detection of Splicing Forgery _(SPL '24)_ **[[Paper](https://ieeexplore.ieee.org/abstract/document/10378732/)]**
@@ -422,3 +429,7 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 12. [More...](related/papersource.md)
 
 ### [Back to Home](https://zihol.gitbook.io/)
+
+
+
+[^1]: For the convenience of readers in checking the information of each paper, I have used different colors to mark the ranking of the conferences or journals where each paper was published on the CCF(China Computer Federation) Recommended List of International Conferences and Periodicals: A is marked in red, B in yellow, C in green, and sources not included are marked in grey. **All articles are the result of the researchers' hard work, and the development and progress in the field of image tampering detection and localization cannot be separated from these outstanding researchers.** "It should be pointed out that the recommended List by CCF for professionals and researchers on computing to publish their findings and results, is not sole criteria for academic evaluation, but as a suggestion or reference for the industry."
