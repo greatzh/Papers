@@ -7,7 +7,7 @@ description: >-
 
 # 😀 Overview
 
-> [ccf-rankings](https://www.ccf.org.cn/en/About_CCF/Media_Center/) now marked with different colors(![arXiv](https://img.shields.io/badge/CCF_A-dc3545)![Static Badge](https://img.shields.io/badge/CCF_B-ffc107)![Static Badge](https://img.shields.io/badge/CCF_C-28a745)![Static Badge](https://img.shields.io/badge/CCF_None-6c757d))[^1]
+> [ccf-rankings](https://www.ccf.org.cn/en/About_CCF/Media_Center/) now marked with different colors(![arXiv](https://img.shields.io/badge/CCF_A-dc3545) ![Static Badge](https://img.shields.io/badge/CCF_B-ffc107) ![Static Badge](https://img.shields.io/badge/CCF_C-28a745) ![Static Badge](https://img.shields.io/badge/CCF_None-6c757d))[^1]
 >
 > Newly added papers will be organized at the top of every category now.
 
@@ -46,6 +46,9 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] Multi-view Feature Extraction via Tunable Prompts is Enough for Image Manipulation Localization [![paper](https://img.shields.io/badge/MM_'24-dc3545)](https://openreview.net/forum?id=Ci5g2dnrMK)
+* [ ] Datasets, Clues and State-of-the-Arts for Multimedia Forensics: An Extensive Review [![Static Badge](https://img.shields.io/badge/ESWA_'24-28a745)](https://arxiv.org/abs/2401.06999)
+* [ ] TGIF: Text-Guided Inpainting Forgery Dataset [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2407.11566) [![GitHub](https://img.shields.io/github/stars/IDLabMedia/tgif-dataset?style=flat)](https://github.com/IDLabMedia/tgif-dataset)
 * [ ] Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.13565) [![GitHub](https://img.shields.io/github/stars/multimediaFor/MPC?style=flat)](https://github.com/multimediaFor/MPC)
 * [ ] GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.16531) [![GitHub](https://img.shields.io/github/stars/chenyirui/GIM?style=flat)](https://github.com/chenyirui/GIM)
 * [ ] IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.10580) [![GitHub](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=flat)](https://github.com/scu-zjz/IMDLBenCo)
@@ -78,7 +81,7 @@ description: >-
 <details open>
 <summary>2023</summary>
 
-* [ ] Image Manipulation Detection Based on Ringed Residual Edge Artifact Enhancement and Multiple Attention Mechanisms (_PRCV '23_) **[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8543-2_30)]**
+* [ ] Image Manipulation Detection Based on Ringed Residual Edge Artifact Enhancement and Multiple Attention Mechanisms [![Static Badge](https://img.shields.io/badge/PRCV_'24-28a745)](https://link.springer.com/chapter/10.1007/978-981-99-8543-2_30)
 * [ ] Improving CoatNet for Spatial and JPEG Domain Steganalysis (_ICME '23_) **[[Paper](https://ieeexplore.ieee.org/abstract/document/10219598/)]**
 * [ ] A survey on deep learning-based image forgery detection _(PR '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323004764)]**
 * [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries [![paper](https://img.shields.io/badge/IMAGE_'23-28a745)](https://www.sciencedirect.com/science/article/pii/S092359652300111X) [![GitHub](https://img.shields.io/github/stars/znshi/PL-GNet?style=flat)](https://github.com/znshi/PL-GNet)
@@ -101,7 +104,6 @@ description: >-
 * [x] [Hierarchical Fine-Grained Image Forgery Detection and Localization](image-forgery/2023/hifi\_ifdl.md) (_CVPR '23_) **\[**[**Paper**](https://arxiv.org/abs/2303.17111)**]** **\[**[**Code**](https://github.com/CHELSEA234/HiFi\_IFDL)**]**
 * [ ] [Edge-aware Regional Message Passing Controller for Image Forgery Localization](image-forgery/2023/ermpc.md) (_CVPR '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li\_Edge-Aware\_Regional\_Message\_Passing\_Controller\_for\_Image\_Forgery\_Localization\_CVPR\_2023\_paper.pdf)**]** **\[**[**Video**](https://youtu.be/2pDR-hOFcQw)**]**
 * [ ] AutoSplice: A Text-prompt Manipulated Image Dataset for Media Forensics (_CVPRW '23_) **\[**[**Paper**](https://arxiv.org/abs/2304.06870)**]** **\[**[**Dataset**](https://github.com/shanface33/autosplice\_dataset)**]**
-* [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.02158v1)**]**
 * [ ] TrainFors: A Large Benchmark Training Dataset for Image Manipulation Detection and Localization (_ICCV '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.05264)**]** **\[**[**Code**](https://github.com/vimal-isi-edu/TrainFors)**]**
 * [ ] Pre-training-free Image Manipulation Localization through Non-Mutually Exclusive Contrastive Learning (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Zhou\_Pre-Training-Free\_Image\_Manipulation\_Localization\_through\_Non-Mutually\_Exclusive\_Contrastive\_Learning\_ICCV\_2023\_paper.html)**]** **\[**[**Code**](https://github.com/Knightzjz/NCL-IML)**]**
 * [ ] Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Zhai\_Towards\_Generic\_Image\_Manipulation\_Detection\_with\_Weakly-Supervised\_Self-Consistency\_Learning\_ICCV\_2023\_paper.html)**]** **\[**[**Code**](https://github.com/yhZhai/WSCL)**]** **\[**[**ResearchGate**](https://www.researchgate.net/publication/373686108\_Towards\_Generic\_Image\_Manipulation\_Detection\_with\_Weakly-Supervised\_Self-Consistency\_Learning)**]**
@@ -114,7 +116,7 @@ description: >-
 
 </details>
 
-<details open>
+<details>
 <summary>2022</summary>
 
 * [ ] DS-UNet: A dual streams UNet for refined image forgery localization _(InfoS '22)_ **[[Paper](https://dl.acm.org/doi/abs/10.1016/j.ins.2022.08.005)]**
@@ -212,7 +214,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 </details>
 
-<details open>
+<details>
 <summary>2022</summary>
 
 * [x] [Multi-Task SE-Network for Image Splicing Localization](image-splicing/multi-task-se-network.md) (_TCSVT '22_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9591639)**]** **\[**[**Code**](https://github.com/YulansZhang/Multi-task-SE-Network-for-Image-Splicing-Localization)**]**
@@ -274,6 +276,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] Identity-Driven Multimedia Forgery Detection via Reference Assistance [![paper](https://img.shields.io/badge/MM_'24-dc3545)](https://openreview.net/forum?id=aspe8HE0ZA)
 * [ ] MCS-GAN: A Different Understanding for Generalization of Deep Forgery Detection (_TMM '23_) **[[Paper](https://ieeexplore.ieee.org/document/10141892)]**
 * [ ] Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection _(AAAI '24)_ **[[Paper](https://arxiv.org/abs/2403.01786)]** **[[Code](https://github.com/QingyuLiu/Exposing-the-Deception)]**
 * [ ] Contrastive Learning for DeepFake Classification and Localization via Multi-Label Ranking _(CVPR '24)_
@@ -327,6 +330,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 图像中的**文本篡改检测**问题 (parts of)
 
 - [ ] A Two-Stage Dual-Path Framework for Text Tampering Detection and Recognition _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2402.13545)]**
+- [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.02158v1)**]** [![GitHub](https://img.shields.io/github/stars/FCTMdataset/FCTM?style=flat)](https://github.com/FCTMdataset/FCTM)
 - [ ] Toward Real Text Manipulation Detection: New Dataset and New Solution _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2312.06934)]** **[[Code](https://github.com/DrLuo/RTM)]**
 - [ ] Towards Robust Tampered Text Detection in Document Image: New dataset and New Solution (_CVPR '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Towards_Robust_Tampered_Text_Detection_in_Document_Image_New_Dataset_CVPR_2023_paper.pdf)**]** **[[Code](https://github.com/qcf-568/DocTamper)]**
 - [ ] Progressive Supervision for Tampering Localization in Document Images (_ICONIP '23_) **[[Paper](https://link.springer.com/chapter/10.1007/978-981-99-8184-7_11)]**
