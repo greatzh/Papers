@@ -46,6 +46,9 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2407.18614)
+* [ ] Image manipulation detection and localization using multi-scale contrastive learning [![paper](https://img.shields.io/badge/Appl._Soft_Comput._'24-6c757d)](https://doi.org/10.1016/j.asoc.2024.111914) 
+* [ ] Attentive and Contrastive Image Manipulation Localization With Boundary Guidance [![paper](https://img.shields.io/badge/TIFS_'24-dc3545)](https://ieeexplore.ieee.org/document/10589438)
 * [ ] Multi-view Feature Extraction via Tunable Prompts is Enough for Image Manipulation Localization [![paper](https://img.shields.io/badge/MM_'24-dc3545)](https://openreview.net/forum?id=Ci5g2dnrMK)
 * [ ] Datasets, Clues and State-of-the-Arts for Multimedia Forensics: An Extensive Review [![Static Badge](https://img.shields.io/badge/ESWA_'24-28a745)](https://arxiv.org/abs/2401.06999)
 * [ ] TGIF: Text-Guided Inpainting Forgery Dataset [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2407.11566) [![GitHub](https://img.shields.io/github/stars/IDLabMedia/tgif-dataset?style=flat)](https://github.com/IDLabMedia/tgif-dataset)
@@ -63,7 +66,7 @@ description: >-
 * [ ] Research about the Ability of LLM in the Tamper-Detection Area [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2401.13504)
 * [ ] Deep Image Restoration For Image Anti-Forensics [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2405.02751) [![GitHub](https://img.shields.io/github/stars/99eren99/DIRFIAF?style=flat)](https://github.com/99eren99/DIRFIAF)
 * [ ] Deep Image Composition Meets Image Forgery [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2404.02897) [![GitHub](https://img.shields.io/github/stars/99eren99/DIS25k?style=flat)](https://github.com/99eren99/DIS25k)
-* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2403.12229)
+* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis [![Static Badge](https://img.shields.io/badge/CVPRW_'24-dc3545)](https://arxiv.org/abs/2403.12229) [![GitHub](https://img.shields.io/github/stars/mever-team/omgfuser?style=flat)](https://github.com/mever-team/omgfuser)
 * [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization [![arXiv](https://img.shields.io/badge/MMM_'24-28a745)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
 * [ ] A New Benchmark and Model for Challenging Image Manipulation Detection [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://arxiv.org/abs/2311.14218) [![GitHub](https://img.shields.io/github/stars/ZhenfeiZ/CIMD?style=flat)](https://github.com/ZhenfeiZ/CIMD)
 * [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://ojs.aaai.org/index.php/AAAI/article/view/28520) [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)
@@ -85,7 +88,6 @@ description: >-
 * [ ] Improving CoatNet for Spatial and JPEG Domain Steganalysis (_ICME '23_) **[[Paper](https://ieeexplore.ieee.org/abstract/document/10219598/)]**
 * [ ] A survey on deep learning-based image forgery detection _(PR '23)_ **[[Paper](https://www.sciencedirect.com/science/article/pii/S0031320323004764)]**
 * [ ] PL-GNet: Pixel Level Global Network for detection and localization of image forgeries [![paper](https://img.shields.io/badge/IMAGE_'23-28a745)](https://www.sciencedirect.com/science/article/pii/S092359652300111X) [![GitHub](https://img.shields.io/github/stars/znshi/PL-GNet?style=flat)](https://github.com/znshi/PL-GNet)
-* [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.00234)]**
 * [ ] Progressive Feedback-Enhanced Transformer for Image Forgery Localization _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.08910)]** **[[Code](https://github.com/multimediaFor/ProFact)]**
 * [ ] Secondary Labeling  A Novel Labeling Strategy for Image Manipulation Detection _(MM '23)_ **[[Paper](https://doi.org/10.1145/3581783.3613839)]**
 * [ ] GP-Net: Image Manipulation Detection and Localization via Long-Range Modeling and Transformers (_Appl. Sci.  (IF: 2.8, not included in CCFs), MDPI, '23_) **\[[Paper](https://www.mdpi.com/2076-3417/13/21/12053)]**
@@ -175,7 +177,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 * [ ] Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2312.16649)]**
 * [ ] Preserving Fairness Generalization in Deepfake Detection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2402.17229)]** **[[Code](https://github.com/Purdue-M2/Fairness-Generalization)]**
-* [ ] Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2402.19091)]** **[[Code](https://github.com/mever-team/rine)]**
+* [ ] Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection _(ECCV '24)_ **[[Paper](https://arxiv.org/abs/2402.19091)]** **[[Code](https://github.com/mever-team/rine)]**
 * [ ] Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2312.16649)]**
 * [ ] AntifakePrompt: Prompt-Tuned Vision-Language Models are Fake Image Detectors (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.17419)**]** **[[Code](https://github.com/nctu-eva-lab/AntifakePrompt)]**
 * [ ] MaLP: Manipulation Localization Using a Proactive Scheme (_CVPR '23_) **\[**[**Paper**](https://arxiv.org/abs/2303.16976)**]** **\[**[**Code**](https://github.com/vishal3477/pro\_loc)**]**
@@ -329,6 +331,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 图像中的**文本篡改检测**问题 (parts of)
 
+- [ ] Image-based Freeform Handwriting Authentication with Energy-oriented Self-Supervised Learning [![paper](https://img.shields.io/badge/TMM_'24-dc3545)](https://arxiv.org/abs/2408.09676)
+- [ ] Generalized Tampered Scene Text Detection in the era of Generative AI [![paper](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2407.21422) 
 - [ ] A Two-Stage Dual-Path Framework for Text Tampering Detection and Recognition _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2402.13545)]**
 - [ ] CTP-Net: Character Texture Perception Network for Document Image Forgery Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.02158v1)**]** [![GitHub](https://img.shields.io/github/stars/FCTMdataset/FCTM?style=flat)](https://github.com/FCTMdataset/FCTM)
 - [ ] Toward Real Text Manipulation Detection: New Dataset and New Solution _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2312.06934)]** **[[Code](https://github.com/DrLuo/RTM)]**
