@@ -46,6 +46,8 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] FastForensics: Efficient Two-Stream Design for Real-Time Image Manipulation Detection [![conf](https://img.shields.io/badge/BMVC_'24-28a745)](https://doi.org/10.1016/j.knosys.2024.111988)
+* [ ] Auto-focus tracing: Image manipulation detection with artifact graph contrastive [![Static Badge](https://img.shields.io/badge/KBS_'24-28a745)](https://doi.org/10.1016/j.knosys.2024.112545) [![GitHub](https://img.shields.io/github/stars/pwy-cmd/AFGCL?style=flat)](https://github.com/pwy-cmd/AFGCL)
 * [ ] LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2407.18614)
 * [ ] Image manipulation detection and localization using multi-scale contrastive learning [![paper](https://img.shields.io/badge/Appl._Soft_Comput._'24-6c757d)](https://doi.org/10.1016/j.asoc.2024.111914) 
 * [ ] Attentive and Contrastive Image Manipulation Localization With Boundary Guidance [![paper](https://img.shields.io/badge/TIFS_'24-dc3545)](https://ieeexplore.ieee.org/document/10589438)
@@ -278,6 +280,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://arxiv.org/abs/2212.14629) [![GitHub](https://img.shields.io/github/stars/EdWhites/HFC-MFFD?style=flat)](https://github.com/EdWhites/HFC-MFFD)
 * [ ] Identity-Driven Multimedia Forgery Detection via Reference Assistance [![paper](https://img.shields.io/badge/MM_'24-dc3545)](https://openreview.net/forum?id=aspe8HE0ZA)
 * [ ] MCS-GAN: A Different Understanding for Generalization of Deep Forgery Detection (_TMM '23_) **[[Paper](https://ieeexplore.ieee.org/document/10141892)]**
 * [ ] Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection _(AAAI '24)_ **[[Paper](https://arxiv.org/abs/2403.01786)]** **[[Code](https://github.com/QingyuLiu/Exposing-the-Deception)]**
@@ -308,6 +311,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] CMCF-Net: An End-to-End Context Multiscale Cross-Fusion Network for Robust Copy-Move Forgery Detection [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://doi.org/10.1109/TMM.2023.3345160)
 * [ ] Robust Image Hashing via CP Decomposition and DCT for Copy Detection (_TOMM '24_) **[[Paper](https://dl.acm.org/doi/full/10.1145/3650112)]**
 * [ ] Lightweight and High-Precision Network for Image Copy-Move Forgery Detection (_SPL '24_) **[[Paper](https://doi.org/10.1109/LSP.2024.3400055)]**
 * [ ] Advancing Copy-Move Manipulation Detection in Complex Image Scenarios Through Multiscale Detector (_IEEE Access ‘24_) **[[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10521517)]**
