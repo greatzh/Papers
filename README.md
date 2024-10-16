@@ -36,6 +36,7 @@ description: >-
 * [ ] A Kernel Perspective of Skip Connections in Convolutional Networks (_ICLR '23_) **\[**[**Paper**](https://arxiv.org/abs/2211.14810)**]**
 * [ ] EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention (_CVPR '23_) **\[**[**Paper**](https://arxiv.org/abs/2305.07027)**]** **\[**[**Code**](https://github.com/microsoft/Cream/tree/main/EfficientViT)**]** **\[**[**Note\_community**](https://blog.csdn.net/P\_LarT/article/details/130687567)**]**
 * [ ] Vision Transformers Need Registers _(ICLR '24)_ **[[Paper](https://openreview.net/forum?id=2dnO3LLiJ1)]**
+* [ ] LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors _(ECCV '24)_ **[[Paper](https://www.cs.umd.edu/~sakshams/LiFT/)]**
 
 ### Image Tampering
 
@@ -46,6 +47,13 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] ForgeryTTT: Zero-Shot Image Manipulation Localization with Test-Time Training [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.04032)
+* [ ] ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.10238)
+* [ ] FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2404.13306) [![GitHub](https://img.shields.io/github/stars/Yixuan423/FakeBench?style=flat)](https://github.com/Yixuan423/FakeBench)
+* [ ] FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.02761) [![GitHub](https://img.shields.io/github/stars/zhipeixu/FakeShield?style=flat)](https://github.com/zhipeixu/FakeShield)
+* [ ] EL-FDL: Improving Image Forgery Detection and Localization via Ensemble Learning [![conf](https://img.shields.io/badge/ICANN_'24-28a745)](https://link.springer.com/chapter/10.1007/978-3-031-72335-3_17)
+* [ ] Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [![paper](https://img.shields.io/badge/IJCV_'24-dc3545)](https://arxiv.org/abs/2309.09667)
+* [ ] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [![paper](https://img.shields.io/badge/TPAMI_'24-dc3545)](https://ieeexplore.ieee.org/abstract/document/10440475/) [![GitHub](https://img.shields.io/github/stars/rshaojimmy/MultiModal-DeepFake?style=flat)](https://github.com/rshaojimmy/MultiModal-DeepFake)
 * [ ] FastForensics: Efficient Two-Stream Design for Real-Time Image Manipulation Detection [![conf](https://img.shields.io/badge/BMVC_'24-28a745)](https://doi.org/10.1016/j.knosys.2024.111988)
 * [ ] Auto-focus tracing: Image manipulation detection with artifact graph contrastive [![Static Badge](https://img.shields.io/badge/KBS_'24-28a745)](https://doi.org/10.1016/j.knosys.2024.112545) [![GitHub](https://img.shields.io/github/stars/pwy-cmd/AFGCL?style=flat)](https://github.com/pwy-cmd/AFGCL)
 * [ ] LookupForensics: A Large-Scale Multi-Task Dataset for Multi-Phase Image-Based Fact Verification [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2407.18614)
@@ -56,7 +64,7 @@ description: >-
 * [ ] TGIF: Text-Guided Inpainting Forgery Dataset [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2407.11566) [![GitHub](https://img.shields.io/github/stars/IDLabMedia/tgif-dataset?style=flat)](https://github.com/IDLabMedia/tgif-dataset)
 * [ ] Exploring Multi-view Pixel Contrast for General and Robust Image Forgery Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.13565) [![GitHub](https://img.shields.io/github/stars/multimediaFor/MPC?style=flat)](https://github.com/multimediaFor/MPC)
 * [ ] GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.16531) [![GitHub](https://img.shields.io/github/stars/chenyirui/GIM?style=flat)](https://github.com/chenyirui/GIM)
-* [ ] IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2406.10580) [![GitHub](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=flat)](https://github.com/scu-zjz/IMDLBenCo)
+* [ ] IMDL-BenCo: A Comprehensive Benchmark and Codebase for Image Manipulation Detection & Localization [![Static Badge](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/abs/2406.10580) [![GitHub](https://img.shields.io/github/stars/scu-zjz/IMDLBenCo?style=flat)](https://github.com/scu-zjz/IMDLBenCo)
 * [ ] DH-GAN: Image manipulation localization via a dual homology-aware generative adversarial network [![Static Badge](https://img.shields.io/badge/PR_'24-ffc107)](https://doi.org/10.1016/j.patcog.2024.110658)
 * [ ] DA-HFNet: Progressive Fine-Grained Forgery Image Detection and Localization Based on Dual Attention [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2406.01489)
 * [ ] EC-Net: General image tampering localization network based on edge distribution guidance and contrastive learning [![Static Badge](https://img.shields.io/badge/KBS_'24-28a745)](https://doi.org/10.1016/j.knosys.2024.111656)
@@ -280,6 +288,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.12791)
 * [ ] Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://arxiv.org/abs/2212.14629) [![GitHub](https://img.shields.io/github/stars/EdWhites/HFC-MFFD?style=flat)](https://github.com/EdWhites/HFC-MFFD)
 * [ ] Identity-Driven Multimedia Forgery Detection via Reference Assistance [![paper](https://img.shields.io/badge/MM_'24-dc3545)](https://openreview.net/forum?id=aspe8HE0ZA)
 * [ ] MCS-GAN: A Different Understanding for Generalization of Deep Forgery Detection (_TMM '23_) **[[Paper](https://ieeexplore.ieee.org/document/10141892)]**
@@ -330,6 +339,11 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [x] [Two-Stage Copy-Move Forgery Detection with Self Deep Matching and Proposal SuperGlue](copy-move/selfdm-ps.md) (_TIP '22_) **\[**[**Paper**](https://arxiv.org/abs/2012.08697)**]**
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method (_Neurocomputing '22_) **\[**[**Paper**](https://www.sciencedirect.com/science/article/pii/S0925231222011031)**]** **\[**[**Code**](https://github.com/MehradAria/QDL-CMFD)**]**
 * [ ] [Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection](copy-move/word2phrasecmfd.md) _(TIFS '23)_ **\[**[**Paper**](https://arxiv.org/abs/2207.09135)**]** **\[**[**Code**](https://github.com/ChaoWang1016/word2phraseCMFD)**]**
+
+### Image Inpainting
+
+- [ ] Wavelet based inpainting detection [![paper](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.06429) 
+- [ ] Enhanced Wavelet Scattering Network for image inpainting detection [![paper](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2409.17023) [![GitHub](https://img.shields.io/github/stars/jmaba/Wavelet-based-inpainting-detection?style=flat)](https://github.com/jmaba/Wavelet-based-inpainting-detection)
 
 ### Tamper Text in Detection
 
