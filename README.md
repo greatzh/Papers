@@ -37,6 +37,7 @@ description: >-
 * [ ] EfficientViT: Memory Efficient Vision Transformer with Cascaded Group Attention (_CVPR '23_) **\[**[**Paper**](https://arxiv.org/abs/2305.07027)**]** **\[**[**Code**](https://github.com/microsoft/Cream/tree/main/EfficientViT)**]** **\[**[**Note\_community**](https://blog.csdn.net/P\_LarT/article/details/130687567)**]**
 * [ ] Vision Transformers Need Registers _(ICLR '24)_ **[[Paper](https://openreview.net/forum?id=2dnO3LLiJ1)]**
 * [ ] LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors _(ECCV '24)_ **[[Paper](https://www.cs.umd.edu/~sakshams/LiFT/)]**
+* [ ] DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain [![paper](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/abs/2410.14980) [![GitHub](https://img.shields.io/github/stars/w2kun/DCDepth?style=flat)](https://github.com/w2kun/DCDepth)
 
 ### Image Tampering
 
@@ -47,6 +48,8 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] Learning Universal Features for Generalizable Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=OKzvovmUbh)
+* [ ] A Large-scale Interpretable Multi-modality Benchmark for Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=7AvYFqcNfn)
 * [ ] ForgeryTTT: Zero-Shot Image Manipulation Localization with Test-Time Training [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.04032)
 * [ ] ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.10238)
 * [ ] FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2404.13306) [![GitHub](https://img.shields.io/github/stars/Yixuan423/FakeBench?style=flat)](https://github.com/Yixuan423/FakeBench)
@@ -157,6 +160,7 @@ description: >-
 <details>
 <summary>2021</summary>
 
+* [ ] Multi-modality image manipulation detection (_ICME '21_) **\[**[**Paper**](https://doi.org/10.1109/ICME51207.2021.9428232)**]**
 * [ ] MSTA-Net: Forgery Detection by Generating Manipulation Trace Based on Multi-Scale Self-Texture Attention (_TCSVT '21_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/9643421)**]**
 * [ ] Image Manipulation Detection by Multi-View Multi-Scale Supervision (_ICCV '21_) **\[**[**Paper**](https://arxiv.org/abs/2104.06832)**]** **\[**[**Code**](https://github.com/dong03/MVSS-Net)**]**
 * [x] [TransForensics: Image Forgery Localization with Dense Self-Attention](image-forgery/2021/transforensics.md) (_ICCV '21_) **\[**[**Paper**](https://arxiv.org/abs/2108.03871)**]**
@@ -207,7 +211,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] D-Net: A dual-encoder network for image splicing forgery detection and localization [![Static Badge](https://img.shields.io/badge/PR_'24-ffc107)](https://arxiv.org/abs/2012.01821) 
 * [ ] UGEE-Net: Uncertainty-Guided and Edge-Enhanced Network for Image Splicing Localization (_Neural Networks '24_) **[[Paper](  https://doi.org/10.1016/j.neunet.2024.106430)]** **[[Dataset](https://github.com/QixianHao/-HTSI12K-dataset)]**
 * [ ] Research on Splicing Image Detection Algorithms Based on Natural Image Statistical Characteristics (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2404.16296)]**
-* [ ] A Visually Attentive Splice Localization Network with Multi-Domain Feature Extractor and Multi-Receptive Field Upsampler
+* [ ] A Visually Attentive Splice Localization Network with Multi-Domain Feature Extractor and Multi-Receptive Field Upsampler (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2401.06995)]**
 * [ ] Feature Aggregation and Region-Aware Learning for Detection of Splicing Forgery _(SPL '24)_ **[[Paper](https://ieeexplore.ieee.org/abstract/document/10378732/)]**
 * [ ] Towards Effective Image Forensics via A Novel Computationally Efficient Framework and A New Image Splice Dataset _( Signal, Image and Video Processing (IF: 2.3, not included in CCFs), '24 )_ **[[Paper](https://arxiv.org/abs/2401.06998)]**
 
@@ -288,6 +292,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] Can We Leave Deepfake Data Behind in Training Deepfake Detector? [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.17052)
 * [ ] Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.12791)
 * [ ] Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://arxiv.org/abs/2212.14629) [![GitHub](https://img.shields.io/github/stars/EdWhites/HFC-MFFD?style=flat)](https://github.com/EdWhites/HFC-MFFD)
 * [ ] Identity-Driven Multimedia Forgery Detection via Reference Assistance [![paper](https://img.shields.io/badge/MM_'24-dc3545)](https://openreview.net/forum?id=aspe8HE0ZA)
@@ -376,6 +381,8 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 >
 > \*Equal contribution. #Corresponding author.
 
+* [ ] Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models [![arXiv](https://img.shields.io/badge/CVPR_'24-dc3545)](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Q-Instruct_Improving_Low-level_Visual_Abilities_for_Multi-modality_Foundation_Models_CVPR_2024_paper.html) [![GitHub](https://img.shields.io/github/stars/qcf-568/MIML?style=flat)](https://github.com/Q-Future/Q-Instruct/)
+
 * [ ] (**EVP**) Explicit Visual Prompting for Low-Level Structure Segmentations (_CVPR '23_) [📖](https://arxiv.org/abs/2303.10883), [👨‍💻](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt) (_including defocus blur, shadow, forgery, camouflaged dection_)
 
   > [Weihuang Liu](https://github.com/nifangbaage)<sup>1</sup>, [Xi Shen](https://xishen0220.github.io/)<sup>2</sup>, [Chi-Man Pun](https://www.cis.um.edu.mo/\~cmpun/)<sup>#,1</sup>, [Xiaodong Cun](https://vinthony.github.io/)<sup>#,2</sup>
@@ -438,6 +445,11 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 * [ ] Contextual Affinity Distillation for Image Anomaly Detection _(WACV '24)_  **[[Paper](https://arxiv.org/abs/2307.03101)]**
 * [ ] PromptAD: Zero-Shot Anomaly Detection Using Text Prompts _(WACV '24)_  **[[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Li_PromptAD_Zero-Shot_Anomaly_Detection_Using_Text_Prompts_WACV_2024_paper.html)]**
 * [ ] Holistic Representation Learning for Multitask Trajectory Anomaly Detection _(WACV '24)_  **[[Paper](https://arxiv.org/abs/2311.01851)]** **[[Code](https://alexandrosstergiou.github.io/project_pages/TrajREC/index.html)]**
+
+### Image Steganography
+
+* [ ] Finding Incompatible Blocks for Reliable JPEG Steganalysis [![paper](https://img.shields.io/badge/TIFS_'24-dc3545)](https://arxiv.org/abs/2402.13660) 
+* [ ] LiDiNet: A Lightweight Deep Invertible Network for Image-in-Image Steganography [![paper](https://img.shields.io/badge/TIFS_'24-dc3545)](https://doi.org/10.1109/TIFS.2024.3463547) 
 
 ### Useful Links
 
