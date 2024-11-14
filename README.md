@@ -48,6 +48,11 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] HRGR: Enhancing Image Manipulation Detection via Hierarchical Region-aware Graph Reasoning [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.21861)
+* [ ] Language-guided Hierarchical Fine-grained Image Forgery Detection and Localization (HiFi-Net++) [![paper](https://img.shields.io/badge/IJCV_'24-dc3545)](https://arxiv.org/abs/2410.23556) [![GitHub](https://img.shields.io/github/stars/CHELSEA234/HiFi_IFDL?style=flat)](https://github.com/CHELSEA234/HiFi_IFDL)
+* [ ] Image Manipulation Detection With Implicit Neural Representation and Limited Supervision [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12164.pdf)
+* [ ] AdaIFL: Adaptive Image Forgery Localization via a Dynamic and Importance-aware Transformer Network [![conf](https://img.shields.io/badge/ECCV_'24-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06023.pdf)
+* [ ] Noise-assisted Prompt Learning for Image Forgery Detection and Localization [![conf](https://img.shields.io/badge/ECCV_'24-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01688.pdf)
 * [ ] Learning Universal Features for Generalizable Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=OKzvovmUbh)
 * [ ] A Large-scale Interpretable Multi-modality Benchmark for Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=7AvYFqcNfn)
 * [ ] ForgeryTTT: Zero-Shot Image Manipulation Localization with Test-Time Training [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.04032)
@@ -354,6 +359,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 图像中的**文本篡改检测**问题 (parts of)
 
+- [ ] Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf)
+- [ ] Delving into Adversarial Robustness on Document Tampering Localization [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf)
 - [ ] Image-based Freeform Handwriting Authentication with Energy-oriented Self-Supervised Learning [![paper](https://img.shields.io/badge/TMM_'24-dc3545)](https://arxiv.org/abs/2408.09676)
 - [ ] Generalized Tampered Scene Text Detection in the era of Generative AI [![paper](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2407.21422) 
 - [ ] A Two-Stage Dual-Path Framework for Text Tampering Detection and Recognition _(arXiv '24)_ **[[Paper](https://arxiv.org/abs/2402.13545)]**
@@ -453,15 +460,15 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 
 ### Useful Links
 
-1. IJCAI 2024 Main Track Accepted Papers <https://ijcai24.org/main-track-accepted-papers/>
-2. CVPR 2024 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2024/AcceptedPapers>
-3. ICLR 2024 Papers List <https://openreview.net/group?id=ICLR.cc/2024/Conference>
-4. WACV 2024 Papers <https://openaccess.thecvf.com/WACV2024>
-5. MM 2023 Proceedings <https://dl.acm.org/doi/proceedings/10.1145/3581783>
-6. ICML 2023 https://dblp.org/db/conf/icml/icml2023.html
-7. ICCV 2023 Paper List <https://huggingface.co/spaces/ICCV2023/ICCV2023-papers>
-8. AAAI 2023 <https://dblp.org/db/conf/aaai/aaai2023.html>
-9. ECCV 2022 Accepted papers <https://eccv2022.ecva.net/program/accepted-papers/>
+1. ECCV 2024 Accepted papers <https://eccv.ecva.net/virtual/2024/papers.html?filter=titles/>
+2. IJCAI 2024 Main Track Accepted Papers <https://ijcai24.org/main-track-accepted-papers/>
+3. CVPR 2024 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2024/AcceptedPapers>
+4. ICLR 2024 Papers List <https://openreview.net/group?id=ICLR.cc/2024/Conference>
+5. WACV 2024 Papers <https://openaccess.thecvf.com/WACV2024>
+6. MM 2023 Proceedings <https://dl.acm.org/doi/proceedings/10.1145/3581783>
+7. ICML 2023 https://dblp.org/db/conf/icml/icml2023.html
+8. ICCV 2023 Paper List <https://huggingface.co/spaces/ICCV2023/ICCV2023-papers>
+9. AAAI 2023 <https://dblp.org/db/conf/aaai/aaai2023.html>
 10. SIGGRAPH _unofficial_ <https://kesen.realtimerendering.com/> eg SIGGRAPH 2023 <https://kesen.realtimerendering.com/sig2023.html>
 11. TIFS <https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206>
 12. [More...](related/papersource.md)
