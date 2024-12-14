@@ -46,8 +46,23 @@ description: >-
 #### Image Editing
 
 <details open>
+<summary>2025</summary>
+
+* [ ] SAFIRE: Segment Any Forged Image Region [![Static Badge](https://img.shields.io/badge/AAAI_'25-dc3545)](https://arxiv.org/abs/2412.08197) [![GitHub](https://img.shields.io/github/stars/mjkwon2021/SAFIRE?style=flat)](https://github.com/mjkwon2021/SAFIRE)
+
+</details>
+
+<details open>
 <summary>2024</summary>
 
+* [ ] FD-GAN: Generalizable and Robust Forgery Detection via Generative Adversarial Networks
+* [ ] Omni-IML: Towards Unified Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.14823)
+* [ ] ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.19466)
+* [ ] SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2412.04292)
+* [ ] Dual JPEG Compatibility: a Reliable and Explainable Tool for Image Forensics [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2408.17106)
+* [ ] Is JPEG AI going to change image forensics? [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.03261)
+* [ ] Image Forgery Localization via Guided Noise and Multi-Scale Feature Aggregation [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.01622)
+* [ ] Image manipulation localization via dynamic cross-modality fusion and progressive integration [![Static Badge](https://img.shields.io/badge/Neurocomputing_'24-28a745)](https://doi.org/10.1016/j.neucom.2024.128607)
 * [ ] HRGR: Enhancing Image Manipulation Detection via Hierarchical Region-aware Graph Reasoning [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.21861)
 * [ ] Language-guided Hierarchical Fine-grained Image Forgery Detection and Localization (HiFi-Net++) [![paper](https://img.shields.io/badge/IJCV_'24-dc3545)](https://arxiv.org/abs/2410.23556) [![GitHub](https://img.shields.io/github/stars/CHELSEA234/HiFi_IFDL?style=flat)](https://github.com/CHELSEA234/HiFi_IFDL)
 * [ ] Image Manipulation Detection With Implicit Neural Representation and Limited Supervision [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12164.pdf)
@@ -297,6 +312,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] FD-GAN: Generalizable and Robust Forgery Detection via Generative Adversarial Networks [![paper](https://img.shields.io/badge/IJCV_'24-dc3545)](https://link.springer.com/article/10.1007/s11263-024-02136-1)
+* [ ] DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion [![Static Badge](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/pdf/2410.04372) [![GitHub](https://img.shields.io/github/stars/skJack/DiffusionFake?style=flat)](https://github.com/skJack/DiffusionFake) 
 * [ ] Can We Leave Deepfake Data Behind in Training Deepfake Detector? [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.17052)
 * [ ] Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.12791)
 * [ ] Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://arxiv.org/abs/2212.14629) [![GitHub](https://img.shields.io/github/stars/EdWhites/HFC-MFFD?style=flat)](https://github.com/EdWhites/HFC-MFFD)
@@ -330,6 +347,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] Copy-Move Forgery Detection and Question Answering for Remote Sensing Image [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.02575) [![GitHub](https://img.shields.io/github/stars/shenyedepisa/RSCMQA?style=flat)](https://github.com/shenyedepisa/RSCMQA) 
 * [ ] CMCF-Net: An End-to-End Context Multiscale Cross-Fusion Network for Robust Copy-Move Forgery Detection [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://doi.org/10.1109/TMM.2023.3345160)
 * [ ] Robust Image Hashing via CP Decomposition and DCT for Copy Detection (_TOMM '24_) **[[Paper](https://dl.acm.org/doi/full/10.1145/3650112)]**
 * [ ] Lightweight and High-Precision Network for Image Copy-Move Forgery Detection (_SPL '24_) **[[Paper](https://doi.org/10.1109/LSP.2024.3400055)]**
