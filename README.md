@@ -55,7 +55,6 @@ description: >-
 <details open>
 <summary>2024</summary>
 
-* [ ] FD-GAN: Generalizable and Robust Forgery Detection via Generative Adversarial Networks
 * [ ] Omni-IML: Towards Unified Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.14823)
 * [ ] ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.19466)
 * [ ] SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2412.04292)
