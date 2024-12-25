@@ -38,6 +38,7 @@ description: >-
 * [ ] Vision Transformers Need Registers _(ICLR '24)_ **[[Paper](https://openreview.net/forum?id=2dnO3LLiJ1)]**
 * [ ] LiFT: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors _(ECCV '24)_ **[[Paper](https://www.cs.umd.edu/~sakshams/LiFT/)]**
 * [ ] DCDepth: Progressive Monocular Depth Estimation in Discrete Cosine Domain [![paper](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/abs/2410.14980) [![GitHub](https://img.shields.io/github/stars/w2kun/DCDepth?style=flat)](https://github.com/w2kun/DCDepth)
+* [ ] Segment Anything [![paper](https://img.shields.io/badge/ICCV_'23-dc3545)](https://openaccess.thecvf.com/content/ICCV2023/html/Kirillov_Segment_Anything_ICCV_2023_paper.html) [![GitHub](https://img.shields.io/github/stars/facebookresearch/segment-anything?style=flat)](https://github.com/facebookresearch/segment-anything)
 
 ### Image Tampering
 
@@ -48,6 +49,7 @@ description: >-
 <details open>
 <summary>2025</summary>
 
+* [ ] Mesoscopic Insights: Orchestrating Multi-scale & Hybrid Architecture for Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/AAAI_'25-dc3545)](https://arxiv.org/abs/2412.13753) [![GitHub](https://img.shields.io/github/stars/scu-zjz/Mesorch?style=flat)](https://github.com/scu-zjz/Mesorch)
 * [ ] SAFIRE: Segment Any Forged Image Region [![Static Badge](https://img.shields.io/badge/AAAI_'25-dc3545)](https://arxiv.org/abs/2412.08197) [![GitHub](https://img.shields.io/github/stars/mjkwon2021/SAFIRE?style=flat)](https://github.com/mjkwon2021/SAFIRE)
 
 </details>
@@ -55,9 +57,13 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] SUMI-IFL: An Information-Theoretic Framework for Image Forgery Localization with Sufficiency and Minimality Constraints [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2412.09981)
+* [ ] Image Forgery Localization with State Space Models [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.11214) [![GitHub](https://img.shields.io/github/stars/multimediaFor/LoMa?style=flat)](https://github.com/multimediaFor/LoMa)
+* [ ] PhotoHolmes: a Python library for forgery detection in digital images [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.14969) [![GitHub](https://img.shields.io/github/stars/photoholmes/photoholmes?style=flat)](https://github.com/photoholmes/photoholmes)
+* [ ] A Novel Universal Image Forensics Localization Model Based on Image Noise and Segment Anything Model [![Static Badge](https://img.shields.io/badge/IH&MMSec_'24-28a745)](https://doi.org/10.1145/3658664.3659639)
 * [ ] Omni-IML: Towards Unified Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.14823)
-* [ ] ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.19466)
-* [ ] SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2412.04292)
+* [ ] ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.19466) [![GitHub](https://img.shields.io/github/stars/sunzhihao18/ForgerySleuth?style=flat)](https://github.com/sunzhihao18/ForgerySleuth)
+* [ ] SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2412.04292) [![GitHub](https://img.shields.io/github/stars/hzlsaber/SIDA?style=flat)](https://github.com/hzlsaber/SIDA)
 * [ ] Dual JPEG Compatibility: a Reliable and Explainable Tool for Image Forensics [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2408.17106)
 * [ ] Is JPEG AI going to change image forensics? [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.03261)
 * [ ] Image Forgery Localization via Guided Noise and Multi-Scale Feature Aggregation [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.01622)
@@ -98,7 +104,7 @@ description: >-
 * [ ] Research about the Ability of LLM in the Tamper-Detection Area [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2401.13504)
 * [ ] Deep Image Restoration For Image Anti-Forensics [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2405.02751) [![GitHub](https://img.shields.io/github/stars/99eren99/DIRFIAF?style=flat)](https://github.com/99eren99/DIRFIAF)
 * [ ] Deep Image Composition Meets Image Forgery [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2404.02897) [![GitHub](https://img.shields.io/github/stars/99eren99/DIS25k?style=flat)](https://github.com/99eren99/DIS25k)
-* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis [![Static Badge](https://img.shields.io/badge/CVPRW_'24-dc3545)](https://arxiv.org/abs/2403.12229) [![GitHub](https://img.shields.io/github/stars/mever-team/omgfuser?style=flat)](https://github.com/mever-team/omgfuser)
+* [ ] Fusion Transformer with Object Mask Guidance for Image Forgery Analysis (OMG-Fuser) [![Static Badge](https://img.shields.io/badge/CVPRW_'24-dc3545)](https://arxiv.org/abs/2403.12229) [![GitHub](https://img.shields.io/github/stars/mever-team/omgfuser?style=flat)](https://github.com/mever-team/omgfuser)
 * [ ] Exploring Multi-Modal Fusion for Image Manipulation Detection and Localization [![arXiv](https://img.shields.io/badge/MMM_'24-28a745)](https://arxiv.org/abs/2312.01790) [![GitHub](https://img.shields.io/github/stars/idt-iti/mmfusion-iml?style=flat)](https://github.com/idt-iti/mmfusion-iml)
 * [ ] A New Benchmark and Model for Challenging Image Manipulation Detection [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://arxiv.org/abs/2311.14218) [![GitHub](https://img.shields.io/github/stars/ZhenfeiZ/CIMD?style=flat)](https://github.com/ZhenfeiZ/CIMD)
 * [ ] MGQFormer: Mask-Guided Query-Based Transformer for Image Manipulation Localization [![arXiv](https://img.shields.io/badge/AAAI_'24-dc3545)](https://ojs.aaai.org/index.php/AAAI/article/view/28520) [![arXiv](https://img.shields.io/badge/News-4096ff.svg)](https://dml.fudan.edu.cn/d1/65/c35285a643429/page.htm)
@@ -346,6 +352,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] Copy-Move Detection in Optical Microscopy: A Segmentation Network and A Dataset [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.10258) [![GitHub](https://img.shields.io/github/stars/YoursEver/FakeParaEgg?style=flat)](https://github.com/YoursEver/FakeParaEgg) 
 * [ ] Copy-Move Forgery Detection and Question Answering for Remote Sensing Image [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.02575) [![GitHub](https://img.shields.io/github/stars/shenyedepisa/RSCMQA?style=flat)](https://github.com/shenyedepisa/RSCMQA) 
 * [ ] CMCF-Net: An End-to-End Context Multiscale Cross-Fusion Network for Robust Copy-Move Forgery Detection [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://doi.org/10.1109/TMM.2023.3345160)
 * [ ] Robust Image Hashing via CP Decomposition and DCT for Copy Detection (_TOMM '24_) **[[Paper](https://dl.acm.org/doi/full/10.1145/3650112)]**
@@ -376,6 +383,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 图像中的**文本篡改检测**问题 (parts of)
 
+- [ ] Explainable Tampered Text Detection via Multimodal Large Models [![paper](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2412.14816) 
 - [ ] Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf)
 - [ ] Delving into Adversarial Robustness on Document Tampering Localization [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf)
 - [ ] Image-based Freeform Handwriting Authentication with Energy-oriented Self-Supervised Learning [![paper](https://img.shields.io/badge/TMM_'24-dc3545)](https://arxiv.org/abs/2408.09676)
