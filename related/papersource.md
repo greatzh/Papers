@@ -56,11 +56,12 @@
 
 ## Archived links
 
-1. CVPR 2023 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers>
-2. CVPR 2023 Workshops <https://openaccess.thecvf.com/CVPR2023\_workshops/menu>
-3. WACV 2023 Papers <https://openaccess.thecvf.com/WACV2023>
-4. MM 2022 Proceedings https://dl.acm.org/doi/proceedings/10.1145/3503161
-5. ICML 2022 <https://dblp.org/db/conf/icml/icml2022.html>
-6. ICLR 2023 Papers List <https://openreview.net/group?id=ICLR.cc/2023/Conference>
-7. AAAI 2022 <https://dblp.org/db/conf/aaai/aaai2022.html>
-8. ECCV 2022 Accepted papers <https://eccv2022.ecva.net/program/accepted-papers/>
+1. CVPR 2024 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2024/AcceptedPapers>
+2. CVPR 2023 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers>
+3. CVPR 2023 Workshops <https://openaccess.thecvf.com/CVPR2023\_workshops/menu>
+4. WACV 2023 Papers <https://openaccess.thecvf.com/WACV2023>
+5. MM 2022 Proceedings https://dl.acm.org/doi/proceedings/10.1145/3503161
+6. ICML 2022 <https://dblp.org/db/conf/icml/icml2022.html>
+7. ICLR 2023 Papers List <https://openreview.net/group?id=ICLR.cc/2023/Conference>
+8. AAAI 2022 <https://dblp.org/db/conf/aaai/aaai2022.html>
+9. ECCV 2022 Accepted papers <https://eccv2022.ecva.net/program/accepted-papers/>

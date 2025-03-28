@@ -49,6 +49,13 @@ description: >-
 <details open>
 <summary>2025</summary>
 
+* [ ] A Lightweight and Effective Image Tampering Localization Network with Vision Mamba  [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2502.09941) [![GitHub](https://img.shields.io/github/stars/multimediaFor/ForMa?style=flat)](https://github.com/multimediaFor/ForMa)
+* [ ] Robustifying vision transformer for image forgery localization with multi-exit architectures [![Static Badge](https://img.shields.io/badge/PR_'25-ffc107)](https://www.sciencedirect.com/science/article/pii/S0031320325002250)
+* [ ] A Semantically Impactful Image Manipulation Dataset: Characterizing Image Manipulations using Semantic Significance [![Static Badge](https://img.shields.io/badge/WACV_'25-ffc107)](https://openaccess.thecvf.com/content/WACV2025/html/Chen_A_Semantically_Impactful_Image_Manipulation_Dataset_Characterizing_Image_Manipulations_using_WACV_2025_paper.html) [![GitHub](https://img.shields.io/github/stars/csiimd/csiimd?style=flat)](https://github.com/csiimd/csiimd)
+* [ ] FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models [![Static Badge](https://img.shields.io/badge/ICLR_'25-6c757d)](https://arxiv.org/abs/2410.02761) [![GitHub](https://img.shields.io/github/stars/zhipeixu/FakeShield?style=flat)](https://github.com/zhipeixu/FakeShield) *❗Updated*
+* [ ] SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)](http://arxiv.org/abs/2412.04292) [![GitHub](https://img.shields.io/github/stars/hzlsaber/SIDA?style=flat)](https://github.com/hzlsaber/SIDA)*❗Updated*
+* [ ] OmniGuard: Hybrid Manipulation Localization via Augmented Versatile Deep Image Watermarking [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)](https://arxiv.org/abs/2412.01615)
+* [ ] Forensics-Bench: A Comprehensive Forgery Detection Benchmark Suite for Large Vision Language Models [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)](https://arxiv.org/abs/2503.15024)  [![GitHub](https://img.shields.io/github/stars/Forensics-Bench/Forensics-Bench?style=flat)](https://github.com/Forensics-Bench/Forensics-Bench)
 * [ ] Weakly-supervised cross-contrastive learning network for image manipulation detection and localization [![Static Badge](https://img.shields.io/badge/KBS_'25-28a745)](https://doi.org/10.1016/j.knosys.2025.113033)
 * [ ] Dual-decoding branch contrastive augmentation for image manipulation localization [![Static Badge](https://img.shields.io/badge/KBS_'25-28a745)](https://www.sciencedirect.com/science/article/pii/S0950705124014102)
 * [ ] PIM-Net: Progressive Inconsistency Mining Network for image manipulation localization [![Static Badge](https://img.shields.io/badge/PR_'25-ffc107)](https://www.sciencedirect.com/science/article/pii/S0031320324008872)
@@ -72,7 +79,6 @@ description: >-
 * [ ] A Novel Universal Image Forensics Localization Model Based on Image Noise and Segment Anything Model [![Static Badge](https://img.shields.io/badge/IH&MMSec_'24-28a745)](https://doi.org/10.1145/3658664.3659639)
 * [ ] Omni-IML: Towards Unified Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.14823)
 * [ ] ForgerySleuth: Empowering Multimodal Large Language Models for Image Manipulation Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2411.19466) [![GitHub](https://img.shields.io/github/stars/sunzhihao18/ForgerySleuth?style=flat)](https://github.com/sunzhihao18/ForgerySleuth)
-* [ ] SIDA: Social Media Image Deepfake Detection, Localization and Explanation with Large Multimodal Model [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2412.04292) [![GitHub](https://img.shields.io/github/stars/hzlsaber/SIDA?style=flat)](https://github.com/hzlsaber/SIDA)
 * [ ] Dual JPEG Compatibility: a Reliable and Explainable Tool for Image Forensics [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](http://arxiv.org/abs/2408.17106)
 * [ ] Is JPEG AI going to change image forensics? [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.03261)
 * [ ] Image Forgery Localization via Guided Noise and Multi-Scale Feature Aggregation [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.01622)
@@ -87,7 +93,6 @@ description: >-
 * [ ] ForgeryTTT: Zero-Shot Image Manipulation Localization with Test-Time Training [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.04032)
 * [ ] ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.10238)
 * [ ] FakeBench: Probing Explainable Fake Image Detection via Large Multimodal Models [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2404.13306) [![GitHub](https://img.shields.io/github/stars/Yixuan423/FakeBench?style=flat)](https://github.com/Yixuan423/FakeBench)
-* [ ] FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.02761) [![GitHub](https://img.shields.io/github/stars/zhipeixu/FakeShield?style=flat)](https://github.com/zhipeixu/FakeShield)
 * [ ] EL-FDL: Improving Image Forgery Detection and Localization via Ensemble Learning [![conf](https://img.shields.io/badge/ICANN_'24-28a745)](https://link.springer.com/chapter/10.1007/978-3-031-72335-3_17)
 * [ ] Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation [![paper](https://img.shields.io/badge/IJCV_'24-dc3545)](https://arxiv.org/abs/2309.09667)
 * [ ] Detecting and Grounding Multi-Modal Media Manipulation and Beyond [![paper](https://img.shields.io/badge/TPAMI_'24-dc3545)](https://ieeexplore.ieee.org/abstract/document/10440475/) [![GitHub](https://img.shields.io/github/stars/rshaojimmy/MultiModal-DeepFake?style=flat)](https://github.com/rshaojimmy/MultiModal-DeepFake)
@@ -222,8 +227,15 @@ description: >-
 
 #### CNN-synthesized
 
-_Some of the above papers also contain methods to detect tampered images generated by GANs or DMs for synthetic images_
+_Some of the above papers also contain methods to detect tampered images generated by GANs or DMs or **LLMs related** for synthetic images_
 
+* [ ] FakeReasoning: Towards Generalizable Forgery Detection and Reasoning [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2503.21210) 
+* [ ] Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](http://arxiv.org/abs/2503.14905) [![GitHub](https://img.shields.io/github/stars/opendatalab/FakeVLM?style=flat)](https://github.com/opendatalab/FakeVLM)
+* [ ] LEGION: Learning to Ground and Explain for Synthetic Image Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2503.15264) [![GitHub](https://img.shields.io/github/stars/opendatalab/LEGION?style=flat)](https://github.com/opendatalab/LEGION)
+* [ ] Survey on AI-Generated Media Detection: From Non-MLLM to MLLM [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2502.05240) 
+
+* [ ] A Sanity Check for AI-generated Image Detection [![Static Badge](https://img.shields.io/badge/ICLR_'25-6c757d)](https://arxiv.org/abs/2406.19435)  [![GitHub](https://img.shields.io/github/stars/shilinyan99/AIDE?style=flat)](https://github.com/shilinyan99/AIDE)
+* [ ] MMFakeBench: A Mixed-Source Multimodal Misinformation Detection Benchmark for LVLMs [![Static Badge](https://img.shields.io/badge/ICLR_'25-6c757d)](https://openreview.net/forum?id=D6zn6ozJs7)
 * [ ] Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2312.16649)]**
 * [ ] Preserving Fairness Generalization in Deepfake Detection _(CVPR '24)_ **[[Paper](https://arxiv.org/abs/2402.17229)]** **[[Code](https://github.com/Purdue-M2/Fairness-Generalization)]**
 * [ ] Leveraging Representations from Intermediate Encoder-blocks for Synthetic Image Detection _(ECCV '24)_ **[[Paper](https://arxiv.org/abs/2402.19091)]** **[[Code](https://github.com/mever-team/rine)]**
@@ -327,6 +339,11 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] DeCLIP: Decoding CLIP Representations for Deepfake Localization [![Static Badge](https://img.shields.io/badge/WACV_'25-ffc107)](https://arxiv.org/abs/2409.08849)
+* [ ] Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)]()
+* [ ] Towards General Visual-Linguistic Face Forgery Detection [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)]()
+* [ ] Face Forgery Video Detection via Temporal Forgery Cue Unraveling [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)]()
+* [ ] Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)]()
 * [ ] FD-GAN: Generalizable and Robust Forgery Detection via Generative Adversarial Networks [![paper](https://img.shields.io/badge/IJCV_'24-dc3545)](https://link.springer.com/article/10.1007/s11263-024-02136-1)
 * [ ] DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion [![Static Badge](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/pdf/2410.04372) [![GitHub](https://img.shields.io/github/stars/skJack/DiffusionFake?style=flat)](https://github.com/skJack/DiffusionFake) 
 * [ ] Can We Leave Deepfake Data Behind in Training Deepfake Detector? [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.17052)
@@ -499,9 +516,9 @@ Low-level tasks include super-resolution, denoise, dehze, low-light enhancement,
 
 ### Useful Links
 
-1. ECCV 2024 Accepted papers <https://eccv.ecva.net/virtual/2024/papers.html?filter=titles/>
-2. IJCAI 2024 Main Track Accepted Papers <https://ijcai24.org/main-track-accepted-papers/>
-3. CVPR 2024 Accepted Papers <https://cvpr2023.thecvf.com/Conferences/2024/AcceptedPapers>
+1. CVPR 2025 Accepted Papers <https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers/>
+2. ECCV 2024 Accepted papers <https://eccv.ecva.net/virtual/2024/papers.html?filter=titles/>
+3. IJCAI 2024 Main Track Accepted Papers <https://ijcai24.org/main-track-accepted-papers/>
 4. ICLR 2024 Papers List <https://openreview.net/group?id=ICLR.cc/2024/Conference>
 5. WACV 2024 Papers <https://openaccess.thecvf.com/WACV2024>
 6. MM 2023 Proceedings <https://dl.acm.org/doi/proceedings/10.1145/3581783>
