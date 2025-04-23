@@ -49,6 +49,12 @@ description: >-
 <details open>
 <summary>2025</summary>
 
+* [ ] EAN: Edge-Aware Network for Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/TCSVT_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10705343)
+* [ ] Unravelling Digital Forgeries: A Systematic Survey on Image Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/ACM Computing Surveys_%2725-6c757d)](https://doi.org/10.1145/3731243)
+* [ ] Self-Optimization Training for Weakly Supervised Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/ICASSP_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10889843)
+* [ ] KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization [![Static Badge](https://img.shields.io/badge/ICASSP_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10888764)
+* [ ] Image manipulation localization via semantic-guided feature enhancement and deep multi-scale edge supervision [![Static Badge](https://img.shields.io/badge/Neurocomputing_'25-28a745)](https://doi.org/10.1016/j.neucom.2025.130255)
+* [ ] Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/AAAI_'25-dc3545)](https://arxiv.org/abs/2504.05224)
 * [ ] A Lightweight and Effective Image Tampering Localization Network with Vision Mamba  [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2502.09941) [![GitHub](https://img.shields.io/github/stars/multimediaFor/ForMa?style=flat)](https://github.com/multimediaFor/ForMa)
 * [ ] Robustifying vision transformer for image forgery localization with multi-exit architectures [![Static Badge](https://img.shields.io/badge/PR_'25-ffc107)](https://www.sciencedirect.com/science/article/pii/S0031320325002250)
 * [ ] A Semantically Impactful Image Manipulation Dataset: Characterizing Image Manipulations using Semantic Significance [![Static Badge](https://img.shields.io/badge/WACV_'25-ffc107)](https://openaccess.thecvf.com/content/WACV2025/html/Chen_A_Semantically_Impactful_Image_Manipulation_Dataset_Characterizing_Image_Manipulations_using_WACV_2025_paper.html) [![GitHub](https://img.shields.io/github/stars/csiimd/csiimd?style=flat)](https://github.com/csiimd/csiimd)
@@ -70,6 +76,8 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] Learning Compressed Artifact for JPEG Manipulation Localization Using Wide-Receptive-Field Network [![Static Badge](https://img.shields.io/badge/TOMM_'24-ffc107)](https://doi.org/10.1145/3678883)
+* [ ] Proactive image manipulation detection via deep semi-fragile watermark [![Static Badge](https://img.shields.io/badge/Neurocomputing_'24-28a745)](https://doi.org/10.1016/j.neucom.2024.127593)
 * [ ] Multi-domain Probability Estimation Network for Forgery Detection over Online Social Network Shared Images [![conf](https://img.shields.io/badge/ICME_'24-ffc107)](https://ieeexplore.ieee.org/document/10687645)
 * [ ] Dual Hypergraph Convolution Networks for Image Forgery Localization [![Static Badge](https://img.shields.io/badge/ICPR_'24-28a745)](https://doi.org/10.1016/j.neucom.2024.128607)
 * [ ] DiRLoc: Disentanglement Representation Learning for Robust Image Forgery Localization [![Static Badge](https://img.shields.io/badge/TDSC_'24-dc3545)](https://doi.ieeecomputersociety.org/10.1109/TDSC.2024.3522190)
@@ -88,7 +96,7 @@ description: >-
 * [ ] Image Manipulation Detection With Implicit Neural Representation and Limited Supervision [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12164.pdf)
 * [ ] AdaIFL: Adaptive Image Forgery Localization via a Dynamic and Importance-aware Transformer Network [![conf](https://img.shields.io/badge/ECCV_'24-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06023.pdf)
 * [ ] Noise-assisted Prompt Learning for Image Forgery Detection and Localization [![conf](https://img.shields.io/badge/ECCV_'24-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/01688.pdf)
-* [ ] Learning Universal Features for Generalizable Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=OKzvovmUbh)
+* [ ] Learning Universal Features for Generalizable Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=OKzvovmUbh)  [![GitHub](https://img.shields.io/github/stars/ZhaoHengrun/GIFL?style=flat)](https://github.com/ZhaoHengrun/GIFL)
 * [ ] A Large-scale Interpretable Multi-modality Benchmark for Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=7AvYFqcNfn)
 * [ ] ForgeryTTT: Zero-Shot Image Manipulation Localization with Test-Time Training [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.04032)
 * [ ] ForgeryGPT: Multimodal Large Language Model For Explainable Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2410.10238)
@@ -229,6 +237,11 @@ description: >-
 
 _Some of the above papers also contain methods to detect tampered images generated by GANs or DMs or **LLMs related** for synthetic images_
 
+* [ ] FakeScope: Large Multimodal Expert Model for Transparent AI-Generated Image Forensics [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2503.24267) [![GitHub](https://img.shields.io/github/stars/Yixuan423/FakeScope?style=flat)](https://github.com/Yixuan423/FakeScope)
+* [ ] Exploring the Collaborative Advantage of Low-level Information on Generalizable AI-Generated Image Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2504.00463)
+* [ ] AnimeDL-2M: Million-Scale AI-Generated Anime Image Detection and Localization in Diffusion Era [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2504.11015) [![GitHub](https://img.shields.io/github/stars/FlyTweety/AnimeDL2M?style=flat)](https://github.com/FlyTweety/AnimeDL2M)
+* [ ] Can GPT tell us why these images are synthesized? Empowering Multimodal Large Language Models for Forensics [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2504.11686)
+* [ ] Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2504.11922) [![GitHub](https://img.shields.io/github/stars/clpbc/BR-Gen?style=flat)](https://github.com/clpbc/BR-Gen)
 * [ ] FakeReasoning: Towards Generalizable Forgery Detection and Reasoning [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2503.21210) 
 * [ ] Spot the Fake: Large Multimodal Model-Based Synthetic Image Detection with Artifact Explanation [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](http://arxiv.org/abs/2503.14905) [![GitHub](https://img.shields.io/github/stars/opendatalab/FakeVLM?style=flat)](https://github.com/opendatalab/FakeVLM)
 * [ ] LEGION: Learning to Ground and Explain for Synthetic Image Detection [![Static Badge](https://img.shields.io/badge/arXiv_%2725-6c757d)](https://arxiv.org/abs/2503.15264) [![GitHub](https://img.shields.io/github/stars/opendatalab/LEGION?style=flat)](https://github.com/opendatalab/LEGION)
@@ -255,6 +268,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 <details open>
 <summary>2024</summary>
 
+* [ ] Multi-Scale Cross-Fusion and Edge-Supervision Network for Image Splicing Localization [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.12503) 
 * [ ] D-Net: A dual-encoder network for image splicing forgery detection and localization [![Static Badge](https://img.shields.io/badge/PR_'24-ffc107)](https://arxiv.org/abs/2012.01821) 
 * [ ] UGEE-Net: Uncertainty-Guided and Edge-Enhanced Network for Image Splicing Localization (_Neural Networks '24_) **[[Paper](  https://doi.org/10.1016/j.neunet.2024.106430)]** **[[Dataset](https://github.com/QixianHao/-HTSI12K-dataset)]**
 * [ ] Research on Splicing Image Detection Algorithms Based on Natural Image Statistical Characteristics (_arXiv '24_) **[[Paper](https://arxiv.org/abs/2404.16296)]**
@@ -379,6 +393,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] A Copy-move Forgery Detection Network based on Selective Sampling Attention and Low-cost Two-step Self-correlation Calculation [![Static Badge](https://img.shields.io/badge/TMM_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10856558/)
+* [ ] TransCMFD: An adaptive transformer for copy-move forgery detection [![Static Badge](https://img.shields.io/badge/Neurocomputing_'25-28a745)](https://doi.org/10.1016/j.neucom.2025.130110)
 * [ ] Copy-move Forgery Image Detection based on Cross-Scale Modeling and Alternating Refinement [![Static Badge](https://img.shields.io/badge/TMM_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10891504/)
 * [ ] Copy-Move Detection in Optical Microscopy: A Segmentation Network and A Dataset [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.10258) [![GitHub](https://img.shields.io/github/stars/YoursEver/FakeParaEgg?style=flat)](https://github.com/YoursEver/FakeParaEgg) 
 * [ ] Copy-Move Forgery Detection and Question Answering for Remote Sensing Image [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.02575) [![GitHub](https://img.shields.io/github/stars/shenyedepisa/RSCMQA?style=flat)](https://github.com/shenyedepisa/RSCMQA) 
@@ -413,6 +429,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 图像中的**文本篡改检测**问题 (parts of)
 
+- [ ] Handwritten Signature Verification via Multimodal Consistency Learning [![paper](https://img.shields.io/badge/TIFS_'25-dc3545)](https://ieeexplore.ieee.org/document/10950350/)
 - [ ] Cross-Attention Based Two-Branch Networks for Document Image Forgery Localization in the Metaverse [![Static Badge](https://img.shields.io/badge/TOMM_'25-ffc107)](https://doi.org/10.1145/3686158)
 - [ ] Explainable Tampered Text Detection via Multimodal Large Models [![paper](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2412.14816) 
 - [ ] Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf)
