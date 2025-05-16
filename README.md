@@ -50,7 +50,7 @@ description: >-
 <summary>2025</summary>
 
 * [ ] EAN: Edge-Aware Network for Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/TCSVT_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10705343)
-* [ ] Unravelling Digital Forgeries: A Systematic Survey on Image Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/ACM Computing Surveys_%2725-6c757d)](https://doi.org/10.1145/3731243)
+* [ ] Unravelling Digital Forgeries: A Systematic Survey on Image Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/ACM_Computing_Surveys_%2725-6c757d)](https://doi.org/10.1145/3731243)
 * [ ] Self-Optimization Training for Weakly Supervised Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/ICASSP_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10889843)
 * [ ] KLMN: Knowledge distillation based lightweight multi-clue image forgery detection and localization [![Static Badge](https://img.shields.io/badge/ICASSP_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10888764)
 * [ ] Image manipulation localization via semantic-guided feature enhancement and deep multi-scale edge supervision [![Static Badge](https://img.shields.io/badge/Neurocomputing_'25-28a745)](https://doi.org/10.1016/j.neucom.2025.130255)
@@ -76,6 +76,7 @@ description: >-
 <details open>
 <summary>2024</summary>
 
+* [ ] Employing Reinforcement Learning to Construct a Decision-making Environment for Image Forgery Localization  [![paper](https://img.shields.io/badge/TIFS_'24-dc3545)](https://ieeexplore.ieee.org/abstract/document/10478835) [![GitHub](https://img.shields.io/github/stars/tansq/CoDE?style=flat)](https://github.com/tansq/CoDE)
 * [ ] Learning Compressed Artifact for JPEG Manipulation Localization Using Wide-Receptive-Field Network [![Static Badge](https://img.shields.io/badge/TOMM_'24-ffc107)](https://doi.org/10.1145/3678883)
 * [ ] Proactive image manipulation detection via deep semi-fragile watermark [![Static Badge](https://img.shields.io/badge/Neurocomputing_'24-28a745)](https://doi.org/10.1016/j.neucom.2024.127593)
 * [ ] Multi-domain Probability Estimation Network for Forgery Detection over Online Social Network Shared Images [![conf](https://img.shields.io/badge/ICME_'24-ffc107)](https://ieeexplore.ieee.org/document/10687645)
