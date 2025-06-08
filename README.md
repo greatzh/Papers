@@ -49,6 +49,7 @@ description: >-
 <details open>
 <summary>2025</summary>
 
+* [ ] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer  [![Static Badge](https://img.shields.io/badge/AAAI_'25-dc3545)](https://arxiv.org/abs/2412.14598) [![GitHub](https://img.shields.io/github/stars/scu-zjz/SparseViT?style=flat)](https://github.com/scu-zjz/SparseViT)
 * [ ] Let Images Speak More: An Efficient Method for Detecting Image Manipulation History [![Static Badge](https://img.shields.io/badge/TCSVT_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/11007490) [![GitHub](https://img.shields.io/github/stars/CherishL-J/Op-detection?style=flat)](https://github.com/CherishL-J/Op-detection)
 * [ ] EAN: Edge-Aware Network for Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/TCSVT_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10705343)
 * [ ] Unravelling Digital Forgeries: A Systematic Survey on Image Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/ACM_Computing_Surveys_%2725-6c757d)](https://doi.org/10.1145/3731243)
@@ -280,6 +281,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 <details open>
 <summary>2024</summary>
 
+* [ ] Image splicing forgery detection: A review [![Static Badge](https://img.shields.io/badge/MTA_'24-28a745)](https://link.springer.com/article/10.1007/s11042-024-18801-z) 
 * [ ] Multi-Scale Cross-Fusion and Edge-Supervision Network for Image Splicing Localization [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.12503) 
 * [ ] D-Net: A dual-encoder network for image splicing forgery detection and localization [![Static Badge](https://img.shields.io/badge/PR_'24-ffc107)](https://arxiv.org/abs/2012.01821) 
 * [ ] UGEE-Net: Uncertainty-Guided and Edge-Enhanced Network for Image Splicing Localization (_Neural Networks '24_) **[[Paper](  https://doi.org/10.1016/j.neunet.2024.106430)]** **[[Dataset](https://github.com/QixianHao/-HTSI12K-dataset)]**
