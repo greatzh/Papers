@@ -416,6 +416,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] DSTNet: Distinguishing Source and Target Areas for Image Copy-Move Forgery Detection [![Static Badge](https://img.shields.io/badge/PR_'24-28a745)](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_21)
 * [ ] A Two-Phase Scheme by Integration of Deep and Corner Feature for Balanced Copy-Move Forgery Localization [![Static Badge](https://img.shields.io/badge/TII_'25-28a745)](https://ieeexplore.ieee.org/document/10738218/)
 * [ ] DCM-Net: A Diffusion Model-Based Detection Network Integrating the Characteristics of Copy-Move Forgery [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://ieeexplore.ieee.org/document/10814718/)
 * [ ] A Copy-move Forgery Detection Network based on Selective Sampling Attention and Low-cost Two-step Self-correlation Calculation [![Static Badge](https://img.shields.io/badge/TMM_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10856558/)
@@ -445,6 +446,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 ### Image Inpainting
 
+- [ ] Dense Feature Interaction Network for Image Inpainting Localization [![paper](https://img.shields.io/badge/TIFS_'25-dc3545)](https://arxiv.org/abs/2408.02191) [![GitHub](https://img.shields.io/github/stars/Boombb/DeFI-Net_Inpainting?style=flat)](https://github.com/Boombb/DeFI-Net_Inpainting) 
 - [ ] Image Inpainting Detection via Dual Guidance of Uncertainty and Precise Boundary Information [![Static Badge](https://img.shields.io/badge/TCSVT_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/11005519)
 - [ ] COCO-Inpaint: A Benchmark for Image Inpainting Detection and Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2504.18361)
 - [ ] A Large-scale AI-generated Image Inpainting Benchmark [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2502.06593) [![GitHub](https://img.shields.io/github/stars/mever-team/DiQuID?style=flat)](https://github.com/mever-team/DiQuID) 
