@@ -23,6 +23,9 @@
 
 ## Image Forgery
 
+* [2025](image-forgery/2025/README.md)
+  * [SparseViT](image-forgery/2025/sparsevit.md)
+  * [SAFIRE](image-forgery/2025/safire.md)
 * [2024](image-forgery/2024/README.md)
   * [ForgeryTTT](image-forgery/2024/forgeryttt.md)
   * [ForgeryGPT](image-forgery/2024/forgerygpt.md)
