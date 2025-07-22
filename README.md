@@ -49,6 +49,8 @@ description: >-
 <details open>
 <summary>2025</summary>
 
+* [ ] Beyond Fully Supervised Pixel Annotations: Scribble-Driven Weakly-Supervised Framework for Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2507.13018) [![GitHub](https://img.shields.io/github/stars/vpsg-research/SCAF?style=flat)](https://github.com/vpsg-research/SCAF) 
+* [ ] Loupe: A Generalizable and Adaptive Framework for Image Forgery Detection  [![Static Badge](https://img.shields.io/badge/IJCAI_'25-dc3545)](https://arxiv.org/abs/2506.16819) [![GitHub](https://img.shields.io/github/stars/Kamichanw/Loupe?style=flat)](https://github.com/Kamichanw/Loupe)
 * [ ] M2SFormer: Multi-Spectral and Multi-Scale Attention with Edge-Aware Difficulty Guidance for Image Forgery Localization [![paper](https://img.shields.io/badge/ICCV_'25-dc3545)](https://arxiv.org/abs/2506.20922)
 * [ ] Active Adversarial Noise Suppression for Image Forgery Localization [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2506.12871) [![GitHub](https://img.shields.io/github/stars/SZAISEC/ANSM?style=flat)](https://github.com/SZAISEC/ANSM) 
 * [ ] Can We Get Rid of Handcrafted Feature Extractors? SparseViT: Nonsemantics-Centered, Parameter-Efficient Image Manipulation Localization through Spare-Coding Transformer  [![Static Badge](https://img.shields.io/badge/AAAI_'25-dc3545)](https://arxiv.org/abs/2412.14598) [![GitHub](https://img.shields.io/github/stars/scu-zjz/SparseViT?style=flat)](https://github.com/scu-zjz/SparseViT)
