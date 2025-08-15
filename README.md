@@ -49,6 +49,11 @@ description: >-
 <details open>
 <summary>2025</summary>
 
+* [ ] UGD-IML: A Unified Generative Diffusion-based Framework for Constrained and Unconstrained Image Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2508.06101) 
+* [ ] CLUE: Leveraging Low-Rank Adaptation to Capture Latent Uncovered Evidence for Image Forgery Localization [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2508.07413) [![GitHub](https://img.shields.io/github/stars/SZAISEC/CLUE?style=flat)](https://github.com/SZAISEC/CLUE)  
+* [ ] ForensicsSAM: Toward Robust and Unified Image Forgery Detection and Localization Resisting to Adversarial Attack [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2508.07402) [![GitHub](https://img.shields.io/github/stars/siriusPRX/ForensicsSAM?style=flat)](https://github.com/siriusPRX/ForensicsSAM) 
+* [ ] MUN: Image Forgery Localization Based on M³ Encoder and UN Decoder [![Static Badge](https://img.shields.io/badge/AAAI_'25-dc3545)](https://ojs.aaai.org/index.php/AAAI/article/view/32606) [![GitHub](https://img.shields.io/github/stars/MrHuan3/MUN?style=flat)](https://github.com/MrHuan3/MUN)
+* [ ] ForensicHub: A Unified Benchmark & Codebase for All-Domain Fake Image Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2505.11003) [![GitHub](https://img.shields.io/github/stars/scu-zjz/ForensicHub?style=flat)](https://github.com/scu-zjz/ForensicHub) 
 * [ ] AFCMS-Net: Adaptive feature coupling and multi-level supervision network for effective image forgery localization  [![Static Badge](https://img.shields.io/badge/KBS_%2725-28a745)](https://doi.org/10.1016/j.knosys.2025.114126) [![GitHub](https://img.shields.io/github/stars/SwallowIsXYZ/0617_AFCMS-Net?style=flat)](https://github.com/SwallowIsXYZ/0617_AFCMS-Net)
 * [ ] Edge-aware Affinity Enhancement for Image Manipulation Localization [![paper](https://img.shields.io/badge/MM_'25-dc3545)]()
 * [ ] DFPD: Dual-Forgery Proactive Defense against Both Deepfakes and Traditional Image Manipulations [![paper](https://img.shields.io/badge/MM_'25-dc3545)]() [![GitHub](https://img.shields.io/github/stars/imagecbj/DFPD?style=flat)](https://github.com/imagecbj/DFPD) 
@@ -183,7 +188,7 @@ description: >-
 * [ ] SAFL-Net: Semantic-Agnostic Feature Learning Network with Auxiliary Plugins for Image Manipulation Detection (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Sun\_SAFL-Net\_Semantic-Agnostic\_Feature\_Learning\_Network\_with\_Auxiliary\_Plugins\_for\_Image\_ICCV\_2023\_paper.html)**]**
 * [ ] Uncertainty-guided Learning for Improving Image Manipulation Detection (_ICCV '23_) **\[**[**Paper**](https://openaccess.thecvf.com/content/ICCV2023/html/Ji\_Uncertainty-guided\_Learning\_for\_Improving\_Image\_Manipulation\_Detection\_ICCV\_2023\_paper.html)**]**
 * [ ] Rethinking Image Forgery Detection via Contrastive Learning and Unsupervised Clustering (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2308.09307)**]** **\[**[**Code**](https://github.com/HighwayWu/FOCAL)**]**
-* [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.00234)**]**  [![paper](https://img.shields.io/badge/TPAMI_'25-dc3545)](https://ieeexplore.ieee.org/abstract/document/10883001/) *❗Updated*
+* [ ] Pixel-Inconsistency Modeling for Image Manipulation Localization (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.00234)**]**  [![paper](https://img.shields.io/badge/TPAMI_'25-dc3545)](https://ieeexplore.ieee.org/abstract/document/10883001/)  [![GitHub](https://img.shields.io/github/stars/ChenqiKONG/PIM?style=flat)](https://github.com/ChenqiKONG/PIM)*❗Updated*
 * [ ] Perceptual MAE for Image Manipulation Localization: A High-level Vision Learner Focusing on Low-level Features (_arXiv '23_) **\[**[**Paper**](https://arxiv.org/abs/2310.06525)**]**
 * [ ] [On the Security of the One-and-a-Half-Class Classifier for SPAM Feature-Based Image Forensics](image-forgery/2023/spam\_analysis.md) (_TIFS '23_) **(Traditional method, Analysis)** **\[**[**Paper**](https://ieeexplore.ieee.org/abstract/document/10098583/)**]**
 
@@ -240,6 +245,7 @@ description: >-
 * [ ] SPAN: Spatial Pyramid Attention Network for Image Manipulation Localization (_ECCV '20_) **\[**[**Paper**](https://www.ecva.net/papers/eccv\_2020/papers\_ECCV/papers/123660307.pdf)**]** **\[**[**Code**](https://github.com/tsaishien-chen/SPAN)**]**  [![GitHub Page](https://img.shields.io/badge/Project-Page-159957.svg)](http://media.ee.ntu.edu.tw/research/SPAN/) 
 * [ ] [Hybrid LSTM and Encoder-Decoder Architecture for Detection of Image Forgeries](image-forgery/2019/hled.md) (_TIP '19_) **\[**[**Paper**](https://arxiv.org/abs/1903.02495)**]** **\[**[**Code**](https://github.com/jawadbappy/forgery\_localization\_HLED)**]**
 * [ ] ManTra-Net: Manipulation Tracing Network for Detection and Localization of Image Forgeries With Anomalous Features (_CVPR '19_) **\[**[**Paper**](https://ieeexplore.ieee.org/document/8953774)**]** **\[**[**Code**](https://github.com/ISICV/ManTraNet)**]**
+* [ ] Learning Rich Features for Image Manipulation Detection (_CVPR '18_) **\[**[**Paper**](https://arxiv.org/abs/1805.04953)**]** **\[**[**Code**](https://github.com/LarryJiang134/Image_manipulation_detection)**]**
 
 </details>
 
@@ -472,6 +478,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 图像中的**文本篡改检测**问题 (parts of)
 
+- [ ] RealDTT: Towards a Comprehensive Real-World Dataset for Tampered Text Detection  [![paper](https://img.shields.io/badge/IJCV_'25-dc3545)](https://link.springer.com/article/10.1007/s11263-025-02515-2) [![GitHub](https://img.shields.io/github/stars/edmundhaohao/RealDTT?style=flat)](https://github.com/edmundhaohao/RealDTT)
+- [ ] Revisiting Tampered Scene Text Detection in the Era of Generative AI [![paper](https://img.shields.io/badge/ICCV_'25-dc3545)](https://arxiv.org/abs/2407.21422) [![GitHub](https://img.shields.io/github/stars/qcf-568/OSTF?style=flat)](https://github.com/qcf-568/OSTF) 
 - [ ] ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement [![paper](https://img.shields.io/badge/ICCV_'25-dc3545)](https://arxiv.org/abs/2507.16397) [![GitHub](https://img.shields.io/github/stars/KAHIMWONG/ADCD-Net?style=flat)](https://github.com/KAHIMWONG/ADCD-Net) 
 - [ ] FantasyID: A dataset for detecting digital manipulations of ID-documents [![Static Badge](https://img.shields.io/badge/IJCB_'25-28a745)](https://arxiv.org/abs/2507.20808) [Dataset](https://www.idiap.ch/paper/fantasyid)
 - [ ] Towards Generalized Physical Occlusion Detection On Documents [![paper](https://img.shields.io/badge/MM_'25-dc3545)]()
