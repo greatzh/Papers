@@ -44,7 +44,30 @@ description: >-
 
 **图像篡改检测定位**
 
+
+#### AIGC
+
+<details open>
+<summary>2026</summary>
+
+* [ ] Universal Anti-forensics Attack against Image Forgery Detection via Multi-modal Guidance [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.06530) 
+* [ ] LocateEdit-Bench: A Benchmark for Instruction-Based Editing Localization [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.05577) 
+* [ ] MIRROR: Manifold Ideal Reference ReconstructOR for Generalizable AI-Generated Image Detection[![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.02222) [![GitHub](https://img.shields.io/github/stars/349793927/MIRROR?style=flat)](https://github.com/349793927/MIRROR) 
+* [ ] Simplicity Prevails: The Emergence of Generalizable AIGI Detection in Visual Foundation Models [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.01738) 
+* [ ] Fake-HR1: Rethinking Reasoning of Vision Language Model for Synthetic Image Detection [![Static Badge](https://img.shields.io/badge/ICASSP_'26-ffc107)](https://arxiv.org/abs/2602.10042)
+
+</details>
+
 #### Image Editing
+
+<details open>
+<summary>2026</summary>
+
+* [ ] SemBind: Binding Diffusion Watermarks to Semantics Against Black-Box Forgery Attacks [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2601.20310) 
+* [ ] ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.14098) [![GitHub Page](https://img.shields.io/badge/Project-Page-159957.svg)](https://youqiwong.github.io/projects/ForgeryVCR/) 
+* [ ] ForensicFormer: Hierarchical Multi-Scale Reasoning for Cross-Domain Image Forgery Detection [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2601.08873) 
+
+</details>
 
 <details open>
 <summary>2025</summary>
@@ -87,7 +110,7 @@ description: >-
 
 </details>
 
-<details open>
+<details>
 <summary>2024</summary>
 
 * [ ] Employing Reinforcement Learning to Construct a Decision-making Environment for Image Forgery Localization  [![paper](https://img.shields.io/badge/TIFS_'24-dc3545)](https://ieeexplore.ieee.org/abstract/document/10478835) [![GitHub](https://img.shields.io/github/stars/tansq/CoDE?style=flat)](https://github.com/tansq/CoDE)
@@ -292,10 +315,12 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **图像的拼接篡改检测定位**
 
-* [ ] Image splicing localization method driven by device difference feature guidance [![Static Badge](https://img.shields.io/badge/PR_'25-ffc107)](https://doi.org/10.1016/j.patcog.2025.112002) 
+* [ ] Can Image Splicing and Copy-Move Forgery Be Detected by the Same Model? Forensim: An Attention-Based State-Space Approach [![Static Badge](https://img.shields.io/badge/arXiv_%2726-6c757d)](https://arxiv.org/abs/2602.10079) 
+* [ ] Image splicing localization method driven by device difference feature guidance [![Static Badge](https://img.shields.io/badge/PR_'25-ffc107)](https://doi.org/10.1016/j.patcog.2025.112002)
 
-<details open>
+<details>
 <summary>2024</summary>
+
 
 * [ ] Image splicing forgery detection: A review [![Static Badge](https://img.shields.io/badge/MTA_'24-28a745)](https://link.springer.com/article/10.1007/s11042-024-18801-z) 
 * [ ] Multi-Scale Cross-Fusion and Edge-Supervision Network for Image Splicing Localization [![Static Badge](https://img.shields.io/badge/arXiv_%2724-6c757d)](https://arxiv.org/abs/2412.12503) 
@@ -308,8 +333,9 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 </details>
 
-<details open>
+<details>
 <summary>2023</summary>
+
 
 * [ ] GreatSplicing: A Semantically Rich Splicing Dataset _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2310.10070)]** **[[Dataset](http://www.greatsplicing.net/)]**
 * [ ] Multi-scale attention context-aware network for detection and localization of image splicing: Efficient and robust identification network _(Appl. Intell. 23')_ **[[Paper](https://link.springer.com/article/10.1007/s10489-022-04421-3)]**
@@ -394,6 +420,14 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **人脸篡改**，篡改方法以及检测问题
 
+* [ ] RCDN: Real-Centered Detection Network for Robust Face Forgery Identification [![arXiv](https://img.shields.io/badge/arXiv_'26-6c757d)](http://arxiv.org/abs/2601.12111) [![GitHub](https://img.shields.io/github/stars/wyattmccurdy12/Face-Forgery-Detection?style=flat)](https://github.com/wyattmccurdy12/Face-Forgery-Detection)
+* [ ] CIEC: Coupling Implicit and Explicit Cues for Multimodal Weakly Supervised Manipulation Localization [![arXiv](https://img.shields.io/badge/arXiv_'26-6c757d)](http://arxiv.org/abs/2602.02175)
+* [ ] Fact or Fake? Assessing the Role of Deepfake Detectors in Multimodal Misinformation Detection [![arXiv](https://img.shields.io/badge/arXiv_'26-6c757d)](http://arxiv.org/abs/2602.01854)
+* [ ] OmniVL-Guard: Towards Unified Vision-Language Forgery Detection and Grounding via Balanced RL [![arXiv](https://img.shields.io/badge/arXiv_'26-6c757d)](http://arxiv.org/abs/2602.10687) [![GitHub](https://img.shields.io/github/stars/shen8424/OmniVL-Guard?style=flat)](https://github.com/shen8424/OmniVL-Guard)
+
+<details>
+<summary>2025</summary>
+
 * [ ] Mixture-of-Noises Enhanced Forgery-Aware Predictor for Multi-Face Manipulation Detection and Localization [![Static Badge](https://img.shields.io/badge/MM_'25-dc3545)](https://arxiv.org/abs/2408.02306)
 * [ ] HAMLET-FFD: Hierarchical Adaptive Multi-modal Learning Embeddings Transformation for Face Forgery Detection [![Static Badge](https://img.shields.io/badge/MM_'25-dc3545)](https://arxiv.org/abs/2507.20913)
 * [ ] Semantic Token Transformer for Face Forgery Detection [![Static Badge](https://img.shields.io/badge/TIFS_'25-dc3545)](https://ieeexplore.ieee.org/abstract/document/10988609)
@@ -401,6 +435,12 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] Stacking Brick by Brick: Aligned Feature Isolation for Incremental Face Forgery Detection [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)](https://arxiv.org/pdf/2411.11396) [![GitHub](https://img.shields.io/github/stars/beautyremain/SUR-LID?style=flat)](https://github.com/beautyremain/SUR-LID) 
 * [ ] Towards General Visual-Linguistic Face Forgery Detection [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)](https://arxiv.org/abs/2307.16545) [![GitHub](https://img.shields.io/github/stars/skjack/vlffd?style=flat)](https://github.com/skjack/vlffd) 
 * [ ] Forensics Adapter: Adapting CLIP for Generalizable Face Forgery Detection [![Static Badge](https://img.shields.io/badge/CVPR_'25-dc3545)](https://openaccess.thecvf.com/content/CVPR2025/html/Cui_Forensics_Adapter_Adapting_CLIP_for_Generalizable_Face_Forgery_Detection_CVPR_2025_paper.html) [![GitHub](https://img.shields.io/github/stars/OUC-VAS/ForensicsAdapter?style=flat)](https://github.com/OUC-VAS/ForensicsAdapter) 
+
+</details>
+
+<details>
+<summary>2024 and before</summary>
+
 * [ ] FD-GAN: Generalizable and Robust Forgery Detection via Generative Adversarial Networks [![paper](https://img.shields.io/badge/IJCV_'24-dc3545)](https://link.springer.com/article/10.1007/s11263-024-02136-1)
 * [ ] DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion [![Static Badge](https://img.shields.io/badge/NeurIPS_'24-dc3545)](https://arxiv.org/pdf/2410.04372) [![GitHub](https://img.shields.io/github/stars/skJack/DiffusionFake?style=flat)](https://github.com/skJack/DiffusionFake) 
 * [ ] Can We Leave Deepfake Data Behind in Training Deepfake Detector? [![arXiv](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2408.17052)
@@ -431,6 +471,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection (_CVPR '22_) **\[**[**Paper**](https://arxiv.org/abs/2201.07131)**]** **\[**[**Code**](https://github.com/ahaliassos/RealForensics)**]**
 * [ ] SSTNet: Detecting Manipulated Faces Through Spatial, Steganalysis and Temporal Features (_ICASSP '20_) **\[**[**Paper**](https://ieeexplore.ieee.org/abstract/document/9053969/)**]**
 * [x] Portrait shadow manipulation (_ACM MM / TOG '20_) **\[**[**Paper**](https://arxiv.org/abs/2005.08925)**]** **\[**[**Code**](https://github.com/google/portrait-shadow-manipulation)**]**
+
+</details>
 
 ### Copy Move
 
