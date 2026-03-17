@@ -478,6 +478,7 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 **复制移动篡改定位**问题
 
+* [ ] MGCFDN: Image copy-move forgery detection method based on multi-granularity feature consistency [![Static Badge](https://img.shields.io/badge/Neurocomputing_'26-28a745)](https://www.sciencedirect.com/science/article/pii/S0925231225027018) [![GitHub](https://img.shields.io/github/stars/tuhanglsWorld/MGCFDN?style=flat)](https://github.com/tuhanglsWorld/MGCFDN) 
 * [ ] DSTNet: Distinguishing Source and Target Areas for Image Copy-Move Forgery Detection [![Static Badge](https://img.shields.io/badge/PR_'24-28a745)](https://link.springer.com/chapter/10.1007/978-3-031-78312-8_21)
 * [ ] A Two-Phase Scheme by Integration of Deep and Corner Feature for Balanced Copy-Move Forgery Localization [![Static Badge](https://img.shields.io/badge/TII_'25-28a745)](https://ieeexplore.ieee.org/document/10738218/)
 * [ ] DCM-Net: A Diffusion Model-Based Detection Network Integrating the Characteristics of Copy-Move Forgery [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://ieeexplore.ieee.org/document/10814718/)
