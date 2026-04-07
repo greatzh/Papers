@@ -50,9 +50,18 @@ description: >-
 <details open>
 <summary>2026</summary>
 
+* [ ] PromptForge-350k: A Large-Scale Dataset and Contrastive Framework for Prompt-Based AI Image Forgery Localization [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.29386) 
+* [ ] AgentFoX: LLM Agent-Guided Fusion with eXplainability for AI-Generated Image Detection  [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.23115) [![GitHub](https://img.shields.io/github/stars/suncore946/AgentFoX?style=flat)](https://github.com/suncore946/AgentFoX) 
+* [ ] Rethinking VLMs for Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.12930) [![GitHub](https://img.shields.io/github/stars/sha0fengGuo/IFDL-VLM?style=flat)](https://github.com/sha0fengGuo/IFDL-VLM) 
+* [ ] FIND: A Simple yet Effective Baseline for Diffusion-Generated Image Detection [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.14220) 
+* [ ] Detective SAM: Adaptive AI-Image Forgery Localization [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=GKJHPHNFIx) [![GitHub](https://img.shields.io/github/stars/Gertlek/DetectiveSAM?style=flat)](https://github.com/Gertlek/DetectiveSAM) 
+* [ ] No Pixel Left Behind: A Detail-Preserving Architecture for Robust High-Resolution AI-Generated Image Detection [![Static Badge](https://img.shields.io/badge/OpenReview-6c757d)](https://openreview.net/forum?id=9QQ3Kc2hj6)
+* [ ] ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.12208) [![GitHub](https://img.shields.io/github/stars/laiyingxin2/ForensicZip?style=flat)](https://github.com/laiyingxin2/ForensicZip) 
+* [ ] When Detectors Forget Forensics: Blocking Semantic Shortcuts for Generalizable AI-Generated Image Detection [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.09242) 
+* [ ] Diversity over Uniformity: Rethinking Representation in Generated Image Detection [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.00717) [![GitHub](https://img.shields.io/github/stars/Yanmou-Hui/DoU?style=flat)](https://github.com/Yanmou-Hui/DoU) 
 * [ ] Universal Anti-forensics Attack against Image Forgery Detection via Multi-modal Guidance [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.06530) 
 * [ ] LocateEdit-Bench: A Benchmark for Instruction-Based Editing Localization [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.05577) 
-* [ ] MIRROR: Manifold Ideal Reference ReconstructOR for Generalizable AI-Generated Image Detection[![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.02222) [![GitHub](https://img.shields.io/github/stars/349793927/MIRROR?style=flat)](https://github.com/349793927/MIRROR) 
+* [ ] MIRROR: Manifold Ideal Reference ReconstructOR for Generalizable AI-Generated Image Detection [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.02222) [![GitHub](https://img.shields.io/github/stars/349793927/MIRROR?style=flat)](https://github.com/349793927/MIRROR) 
 * [ ] Simplicity Prevails: The Emergence of Generalizable AIGI Detection in Visual Foundation Models [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2602.01738) 
 * [ ] Fake-HR1: Rethinking Reasoning of Vision Language Model for Synthetic Image Detection [![Static Badge](https://img.shields.io/badge/ICASSP_'26-ffc107)](https://arxiv.org/abs/2602.10042)
 
@@ -485,6 +494,10 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] A Copy-move Forgery Detection Network based on Selective Sampling Attention and Low-cost Two-step Self-correlation Calculation [![Static Badge](https://img.shields.io/badge/TMM_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10856558/)
 * [ ] TransCMFD: An adaptive transformer for copy-move forgery detection [![Static Badge](https://img.shields.io/badge/Neurocomputing_'25-28a745)](https://doi.org/10.1016/j.neucom.2025.130110)
 * [ ] Copy-move Forgery Image Detection based on Cross-Scale Modeling and Alternating Refinement [![Static Badge](https://img.shields.io/badge/TMM_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/10891504/)
+
+
+<details>
+<summary>2024 and before</summary>
 * [ ] Copy-Move Detection in Optical Microscopy: A Segmentation Network and A Dataset [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.10258) [![GitHub](https://img.shields.io/github/stars/YoursEver/FakeParaEgg?style=flat)](https://github.com/YoursEver/FakeParaEgg) 
 * [ ] Copy-Move Forgery Detection and Question Answering for Remote Sensing Image [![Static Badge](https://img.shields.io/badge/arXiv_'24-6c757d)](https://arxiv.org/abs/2412.02575) [![GitHub](https://img.shields.io/github/stars/shenyedepisa/RSCMQA?style=flat)](https://github.com/shenyedepisa/RSCMQA) 
 * [ ] CMCF-Net: An End-to-End Context Multiscale Cross-Fusion Network for Robust Copy-Move Forgery Detection [![Static Badge](https://img.shields.io/badge/TMM_'24-ffc107)](https://doi.org/10.1109/TMM.2023.3345160)
@@ -507,8 +520,14 @@ _Some of the above papers also contain methods to detect tampered images generat
 * [ ] QDL-CMFD: A Quality-independent and deep Learning-based Copy-Move image forgery detection method (_Neurocomputing '22_) **\[**[**Paper**](https://www.sciencedirect.com/science/article/pii/S0925231222011031)**]** **\[**[**Code**](https://github.com/MehradAria/QDL-CMFD)**]**
 * [ ] [Shrinking the Semantic Gap: Spatial Pooling of Local Moment Invariants for Copy-Move Forgery Detection](copy-move/word2phrasecmfd.md) _(TIFS '23)_ **\[**[**Paper**](https://arxiv.org/abs/2207.09135)**]** **\[**[**Code**](https://github.com/ChaoWang1016/word2phraseCMFD)**]**
 
+
+</details>
+
+
+
 ### Image Inpainting
 
+- [ ] TGIF2: Extended Text-Guided Inpainting Forgery Dataset & Benchmark [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2603.28613 ) [![GitHub](https://img.shields.io/github/stars/IDLabMedia/tgif-dataset?style=flat)](https://github.com/IDLabMedia/tgif-dataset) 
 - [ ] Dense Feature Interaction Network for Image Inpainting Localization [![paper](https://img.shields.io/badge/TIFS_'25-dc3545)](https://arxiv.org/abs/2408.02191) [![GitHub](https://img.shields.io/github/stars/Boombb/DeFI-Net_Inpainting?style=flat)](https://github.com/Boombb/DeFI-Net_Inpainting) 
 - [ ] Image Inpainting Detection via Dual Guidance of Uncertainty and Precise Boundary Information [![Static Badge](https://img.shields.io/badge/TCSVT_'25-ffc107)](https://ieeexplore.ieee.org/abstract/document/11005519)
 - [ ] COCO-Inpaint: A Benchmark for Image Inpainting Detection and Manipulation Localization [![Static Badge](https://img.shields.io/badge/arXiv_'25-6c757d)](https://arxiv.org/abs/2504.18361)
@@ -521,6 +540,8 @@ _Some of the above papers also contain methods to detect tampered images generat
 
 图像中的**文本篡改检测**问题 (parts of)
 
+- [ ] DOCFORGE-BENCH: A Comprehensive Benchmark for Document Forgery Detection and Analysis [![paper](https://img.shields.io/badge/arXiv_'26-6c757d)](http://arxiv.org/abs/2603.01433) 
+- [ ] TextShield-R1: Reinforced Reasoning for Tampered Text Detection [![paper](https://img.shields.io/badge/AAAI_'26-dc3545)](https://arxiv.org/abs/2602.19828) [![GitHub](https://img.shields.io/github/stars/qcf-568/TextShield?style=flat)](https://github.com/qcf-568/TextShield) 
 - [ ] RealDTT: Towards a Comprehensive Real-World Dataset for Tampered Text Detection  [![paper](https://img.shields.io/badge/IJCV_'25-dc3545)](https://link.springer.com/article/10.1007/s11263-025-02515-2) [![GitHub](https://img.shields.io/github/stars/edmundhaohao/RealDTT?style=flat)](https://github.com/edmundhaohao/RealDTT)
 - [ ] Revisiting Tampered Scene Text Detection in the Era of Generative AI [![paper](https://img.shields.io/badge/ICCV_'25-dc3545)](https://arxiv.org/abs/2407.21422) [![GitHub](https://img.shields.io/github/stars/qcf-568/OSTF?style=flat)](https://github.com/qcf-568/OSTF) 
 - [ ] ADCD-Net: Robust Document Image Forgery Localization via Adaptive DCT Feature and Hierarchical Content Disentanglement [![paper](https://img.shields.io/badge/ICCV_'25-dc3545)](https://arxiv.org/abs/2507.16397) [![GitHub](https://img.shields.io/github/stars/KAHIMWONG/ADCD-Net?style=flat)](https://github.com/KAHIMWONG/ADCD-Net) 
@@ -530,6 +551,10 @@ _Some of the above papers also contain methods to detect tampered images generat
 - [ ] Document image forgery detection and localization in desensitization scenarios [![Static Badge](https://img.shields.io/badge/SIGPRO_'25-28a745)](https://www.sciencedirect.com/science/article/pii/S0165168425002373)
 - [ ] Handwritten Signature Verification via Multimodal Consistency Learning [![paper](https://img.shields.io/badge/TIFS_'25-dc3545)](https://ieeexplore.ieee.org/document/10950350/)
 - [ ] Cross-Attention Based Two-Branch Networks for Document Image Forgery Localization in the Metaverse [![Static Badge](https://img.shields.io/badge/TOMM_'25-ffc107)](https://doi.org/10.1145/3686158)
+
+
+<details>
+<summary>2024 and before</summary>
 - [ ] Explainable Tampered Text Detection via Multimodal Large Models [![paper](https://img.shields.io/badge/arXiv_'24-6c757d)](http://arxiv.org/abs/2412.14816) 
 - [ ] Enhancing Tampered Text Detection through Frequency Feature Fusion and Decomposition [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04834.pdf)
 - [ ] Delving into Adversarial Robustness on Document Tampering Localization [![conf](https://img.shields.io/badge/ECCV_%2724-ffc107)](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08224.pdf)
@@ -544,6 +569,10 @@ _Some of the above papers also contain methods to detect tampered images generat
 - [ ] Image Generation and Learning Strategy for Deep Document Forgery Detection _(arXiv '23)_ **[[Paper](https://arxiv.org/abs/2311.03650)]**
 - [ ] Forgery-free signature verification with stroke-aware cycle-consistent generative adversarial network _(Neurocomputing '22)_ **[[Paper](https://doi.org/10.1016/j.neucom.2022.08.017)]** **[[Code](https://github.com/KAKAFEI123/Stroke-cCycleGAN)]**
 - [ ] Document Forgery Detection in the Context of Double JPEG Compression _(ICPR '22)_ **[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-37745-7_5)]**
+
+
+</details>
+
 
 ### Low Level Vision
 
