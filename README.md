@@ -50,6 +50,7 @@ description: >-
 <details open>
 <summary>2026</summary>
 
+* [ ] ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos [![paper](https://img.shields.io/badge/CVPR_'26-dc3545)](https://arxiv.org/abs/2604.03819) [![GitHub](https://img.shields.io/github/stars/ActivityForensics/activityforensics?style=flat)](https://github.com/ActivityForensics/activityforensics)
 * [ ] PromptForge-350k: A Large-Scale Dataset and Contrastive Framework for Prompt-Based AI Image Forgery Localization [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.29386) 
 * [ ] AgentFoX: LLM Agent-Guided Fusion with eXplainability for AI-Generated Image Detection  [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.23115) [![GitHub](https://img.shields.io/github/stars/suncore946/AgentFoX?style=flat)](https://github.com/suncore946/AgentFoX) 
 * [ ] Rethinking VLMs for Image Forgery Detection and Localization [![Static Badge](https://img.shields.io/badge/arXiv_'26-6c757d)](https://arxiv.org/abs/2603.12930) [![GitHub](https://img.shields.io/github/stars/sha0fengGuo/IFDL-VLM?style=flat)](https://github.com/sha0fengGuo/IFDL-VLM) 
